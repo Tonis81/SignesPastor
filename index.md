@@ -1,6 +1,6 @@
 ## CV Antonio J. Signes-Pastor
 
-![](Toni Signes.png){width=25%}
+![](Toni Signes.png ){height="50%" width="50%"}
 
 ## JRC publications
 
