@@ -4,7 +4,7 @@
 
 ## JRC publications
 
-1. **Signes-Pastor, A.J.**, Gutiérrez-González, E., García-Villarino, M., Rodríguez-Cabrera, F.D., López-Moreno, J.J., Varea-Jiménez, E., Pastor-Barriuso, R., Pollán, M., Navas-Acien, A., Pérez-Gómez, B., Karagas, M.R., 2020. Toenails as a biomarker of exposure to arsenic: A review. Environmental Research 110286. https://doi.org/10.1016/j.envres.2020.110286. 
+1. **Signes-Pastor, A.J.**, Gutiérrez-González, E., García-Villarino, M., Rodríguez-Cabrera, F.D., López-Moreno, J.J., Varea-Jiménez, E., Pastor-Barriuso, R., Pollán, M., Navas-Acien, A., Pérez-Gómez, B., Karagas, M.R., 2020. Toenails as a biomarker of exposure to arsenic: A review. Environmental Research 110286. 
 1. **A.J. Signes-Pastor**, G. Desai, M. García-Villarino, M.R. Karagas, K. Kordas. 2020. Exposure to a mixture of metals and growth indicators in 6-11-year-old children from the 2013-16 NHANES. Exposure and Health.
 1. **A.J. Signes-Pastor,** T. Punshon, K.L. Cottingham, B.P. Jackson, V. Sayarath, D. Gilbert-Diamond, S. Korrick, M.R. Karagas. 2020. Contribution of apple products consumption to arsenic exposure in infants in the New Hampshire Birth Cohort. Exposure and Health. 
 1. Shi; M. Carey, C. Meharg, P.N. Williams, **A.J. Signes-Pastor**, E.A. Triwardhani, F.I. Pandiangan, K. Campbell, C. Elliott, E.M. Marwa, X. Jiujin, J. Gomes Farias, F. Teixeira-Nicoloso, P. M.C.S. De Silva, Y. Lu, G. Norton, E. Adomako, A.J. Green, E. Moreno-Jiménez, Y. Zhu, A.A. Carbonell-Barrachina, P.I. Haris, Y.F. Lawgali, A. Sommella, M. Pigna, C. Brabet, D. Montet, K. Njira, M.J. Watts, M. Sumon, M.R. Islam, Y. Tapia, C. Oporto, A.A. Meharg. 2020. Rice grain cadmium concentrations in the global supply-chain. Exposure and Health. 
