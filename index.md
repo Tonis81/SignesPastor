@@ -1,6 +1,8 @@
-## CV Antonio J. Signes-Pastor
+# CV Antonio J. Signes-Pastor
 
-![](Toni Signes.png ){height="50%" width="50%"}
+![](Toni Signes.png)
+
+**antonio.j.signes-pastor@dartmouth.edu**
 
 ## JRC publications
 
