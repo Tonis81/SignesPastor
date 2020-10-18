@@ -1,3 +1,6 @@
+
+![](/Users/tonisignes/Desktop/Google Disk/X_PERSONAL/CV112_Curriculum Vitae/CV in markdown/SignesPastor/Toni Signes.png){ width=50% }
+
 ## JRC publications
 
 1. **Signes-Pastor, A.J., Gutiérrez-González, E., García-Villarino, M., Rodríguez-Cabrera, F.D., López-Moreno, J.J., Varea-Jiménez, E., Pastor-Barriuso, R., Pollán, M., Navas-Acien, A., Pérez-Gómez, B., Karagas, M.R., 2020. Toenails as a biomarker of exposure to arsenic: A review. Environmental Research 110286. https://doi.org/10.1016/j.envres.2020.110286. 
