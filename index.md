@@ -1,4 +1,4 @@
-# CV Antonio J. Signes-Pastor
+# CV A.J. Signes-Pastor
 
 ![](Toni Signes.png)
 
@@ -40,6 +40,5 @@
 1. **A.J. Signes-Pastor**, F. Burló, T. Casinos, A.A. Carbonell-Barrachina. 2007. Speciation of Arsenic in Licorice Confectionery Products and Estimation of Health Risk. Food Science and Technology International. 13, 41- 47. 
 1. **A.J. Signes-Pastor**, F. Burló, F. Martinez-Sanchez, A. A. Carbonell Barrachina. 2007. Effects of Preharvest Bagging on Quality of BlackTable Grapes. World Journal of Agricultural Sciences. 3, 32-38.
 
-## Links
-[RICENIC](http://ricenic-project.blogspot.com/)
+
 
