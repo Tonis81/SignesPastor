@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## JRC publications
 
-You can use the [editor on GitHub](https://github.com/Tonis81/SignesPastor/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+1. **Signes-Pastor, A.J., Gutiérrez-González, E., García-Villarino, M., Rodríguez-Cabrera, F.D., López-Moreno, J.J., Varea-Jiménez, E., Pastor-Barriuso, R., Pollán, M., Navas-Acien, A., Pérez-Gómez, B., Karagas, M.R., 2020. Toenails as a biomarker of exposure to arsenic: A review. Environmental Research 110286. https://doi.org/10.1016/j.envres.2020.110286. 
+1. **A.J. Signes-Pastor**, G. Desai, M. García-Villarino, M.R. Karagas, K. Kordas. 2020. Exposure to a mixture of metals and growth indicators in 6-11-year-old children from the 2013-16 NHANES. Exposure and Health.
+1. **A.J. Signes-Pastor,** T. Punshon, K.L. Cottingham, B.P. Jackson, V. Sayarath, D. Gilbert-Diamond, S. Korrick, M.R. Karagas. 2020. Contribution of apple products consumption to arsenic exposure in infants in the New Hampshire Birth Cohort. Exposure and Health. 
+1. Shi; M. Carey, C. Meharg, P.N. Williams, **A.J. Signes-Pastor**, E.A. Triwardhani, F.I. Pandiangan, K. Campbell, C. Elliott, E.M. Marwa, X. Jiujin, J. Gomes Farias, F. Teixeira-Nicoloso, P. M.C.S. De Silva, Y. Lu, G. Norton, E. Adomako, A.J. Green, E. Moreno-Jiménez, Y. Zhu, A.A. Carbonell-Barrachina, P.I. Haris, Y.F. Lawgali, A. Sommella, M. Pigna, C. Brabet, D. Montet, K. Njira, M.J. Watts, M. Sumon, M.R. Islam, Y. Tapia, C. Oporto, A.A. Meharg. 2020. Rice grain cadmium concentrations in the global supply-chain. Exposure and Health. 
+1. J.P. Buckley, E.S. Barrett, P.I. Beamer, D.H. Bennett, M.S. Bloom, T.R. Fennell, R.C. Fry, W.E. Funk, G.B. Hamra, S.S. Hecht, K. Kannan, R. Iyer, M.R. Karagas, K. Lyall, P.J. Parsons, E.D. Pellizzari, **A.J. Signes-Pastor**, A.P. Starling, A. Wang, D.J. Watkins, M. Zhang, T.J. Woodruff. 2020. Opportunities for evaluating chemical exposures and child health: the Environmental influences on Child Health Outcomes (ECHO) Program. Journal of Exposure Science & Environmental Epidemiology. 
+1. Carey, C. Meharg, P. Williams, E. Marwa, X. Jiujin, J. Gomes-Farias, P. Mangala C.S. De Silva, **A.J. Signes-Pastor**, Y. Lu, F. Teixeira-Nicoloso, L. Savage, K. Campbell, C. Elliott, E. Adomako, A.J. Green, E. Moreno-Jiménez, A.A. Carbonell-Barrachina, E.A. Triwardhani, F.I. Pandiangan, P.I. Haris, Y.F. Lawgali, A. Sommella, M. Pigna, C. Brabet, D. Montet, K. Njira, M.J. Watts, A.A. Meharg. 2019. Global sourcing of low-inorganic arsenic rice grain. Exposure and Health. 
+1. **A.J. Signes-Pastor**, B.T. Doherty, M.E. Romano, K.M. Gleason, J. Gui, E. Baker, M.R. Karagas. 2019. Prenatal exposure to metal mixture and sex- specific birth outcomes in the New Hampshire Birth Cohort Study. Environmental Epidemiology. 3, (5), p e068. 
+1. **A.J. Signes-Pastor**, J. Vioque, E.M. Navarrete-Muñoz, M. Carey, M. García-Villarino, A. Fernández-Somoano, A. Tardón, L. Santa-Marina, A. Irizar, M. Casas, M. Guxens, S. Llop, R. Soler-Blasco, M. García-de-la-Hera, M.R. Karagas, A.A. Meharg. 2019. Inorganic arsenic exposure and neuropsychological development of children of 4-5 years of age living in Spain. Environmental Research. 170, 135-142. 
+1. **A.J. Signes-Pastor**, M.S. Zens, J. Seigne, A. Schened, M.R. Karagas. 2019. Rice consumption and incidence of bladder cancer in a United States population. EPIDEMIOLOGY. 30, (2), 4-5. 
+1. **A.J. Signes-Pastor**, M. Bouchard, E. Baker, B.P. Jackson, M.R. Karagas. 2019. Toenail Manganese as biomarker of drinking water exposure: a reliability study from a U.S. pregnancy cohort. Journal of Exposure Science & Environmental Epidemiology. 29, 648-654. 
+1. K.E. Nachman, T. Punshon, L. Rardin, **A.J. Signes-Pastor**, C.J. Murray, B.P. Jackson, M.L. Guerinot, T.A. Burke, C.Y. Chen, H. Ahsan, M. Argos, K. L. Cottingham, F. Cubadda, G.L. Ginsberg, B.C. Goodale, M. Kurzius-Spencer, A.A. Meharg, M.D. Miller, A.E. Nigra, C.B. Pendergrast, A. Raab, K. Reimer, K.G. Scheckel, T. Schwerdtle, V.F. Taylor, E.J. Tokar, T.M. Warczak, M.R. Karagas. 2018. Opportunities and Challenges for Dietary Arsenic Intervention. Environmental Health and Perspective. 126, (8), 084503.
+1. **A.J. Signes-Pastor**, K.L. Cottingham, M. Carey, V. Sayarath, T. Palys, A.A. Meharg, C.L. Folt, M.R. Karagas. 2018. Infants’ dietary arsenic exposure during transition to solid food. Scientific Reports. 2-9. 
+1. Carey, E. Donaldson, **A.J. Signes-Pastor**, A.A. Meharg. 2018. Dilution of rice with other gluten free grains to lower inorganic arsenic in foods for young children in response to European Union regulations provides impetus to setting stricter standards. PLOS ONE. 1-9. 
+1. **A.J. Signes-Pastor**, J. Vioque, E.M. Navarrete-Muñoz, M. Carey, M. García de la Hera, J. Sunyer, M. Casas, I. Riaño-Galán, A. Tardón, S. Llop, R. Amorós, M.R. Karagas, A.A. Meharg. 2017. Concentrations of urinary arsenic species in relation to rice and seafood consumption among children living in Spain. Environmental Research. 159, 69-75. 
+1. **A.J. Signes-Pastor**, J.V. Woodside, P. McMullan, K. Mullan, M. Carey, M.R. Karagas, A.A. Meharg. 2017. Levels of infants’ urinary arsenic metabolites related to formula feeding and weaning with rice products exceeding the EU inorganic arsenic standard. PLOS ONE. 1-12.
+1. **A.J. Signes-Pastor**, M. Carey, A.A. Meharg. 2017. Inorganic arsenic removal in rice bran by percolating cooking water. Food Chemistry. 234, 76 - 80. 
+1. M.A. Davis, **A.J. Signes-Pastor**, M. Argos, F. Slaugther, C. Pendergrast, T. Punshon, A. Gossai, H. Ahsan, M. R. Karagas. 2017. Assessment of human dietary exposure to arsenic through rice. Science of the Total Environment. 586, 1237-1244. 
+1. J.G. Farias, K. Bernardy, R. Schwalbert, B. K. Del Frari, A. Meharg, M. Carey, A. C. R. Marques, **A.J. Signes-Pastor**, D. Sausen, M. R.W. Schorr, M. S. Tavares, F. T. Nicoloso. 2017. Effect of phosphorus on arsenic uptake and metabolism in rice cultivars differing in phosphorus use efficiency and response. Anais da Academia Brasileira de Ciências. 89 (1), 163-174. 
+1. **A.J. Signes-Pastor**, M. Carey, J. Vioque, E.M. Navarrete-Muñoz, C. Rodríguez-Dehli, A. Tardón, M. Begoña-Zubero, L. Santa-Marina, M. Vrijheid, M. Casas, S. Llop, S. Gonzalez-Palacios, A.A. Meharg. 2017. Urinary arsenic speciation in children and pregnant women from Spain. Exposure & Health. 9 (2), 105 - 111. 
+1. **A.J. Signes-Pastor**, M. Carey, Angel A. Carbonell-Barrachina, E. Moreno-Jimenez, Andy J. Green, A.A. Meharg. 2016. Geographical variation in inorganic arsenic in paddy field samples and commercial rice from the Iberian Peninsula. Food Chemistry. 202, 356-363.
+1. **A.J. Signes-Pastor**, M. Carey, A.A. Meharg. 2016. Inorganic arsenic in rice-based products for infants and young children. Food Chemistry. 191, 128-134. 
+1. **A.J. Signes-Pastor**, S. Munuera-Picazo, Burló F, M. Cano-Lamadrid, A.A. Carbonell-Barrachina. 2015. Phytoremediation assessment of Gomphrena globosa and Zinnia elegans grown in arsenic-contaminated hydroponic conditions as a safe a feasible alternative to be applied in arsenic-contaminated soils of the Bengal Delta. Environmental Monitoring and Assessment. 187 (6), 387. 
+1. **A.J. Signes-Pastor**, S.W. Al-Rmalli, R.O. Jenkins, A.A. Carbonell-Barrachina, P.I. Haris. 2012. Arsenic bioaccessibility in cooked rice as affected by arsenic in cooking water. Journal of Food Science. 77, 201-206. 
+1. Burló, A. Ramirez-Gandolfo, **A.J. Signes-Pastor**, P.I. Haris, A. A. Carbonell-Barrachina. 2012. Arsenic contents in Spanish infant rice, pureed infant foods, and rice. Journal of Food Science. 71, 15-19. 
+1. **A.J. Signes-Pastor**, C. Deacon, R.O. Jenkins, P.I. Haris, A.A. Carbonell-Barrachina, A.A. Meharg. 2009. Arsenic speciation in Japanese rice drinks and condiments. Journal of Environmental Monitoring. 11, 1930- 1934. 
+1. A.A. Carbonell-Barrachina, **A.J. Signes-Pastor**, L. Vázquez-Araújo, F. Burló, B. Sengupta. 2009. Presence of arsenic in agricultural products from arsenic-endemic areas and strategies to reduce arsenic. Molecular Nutrition and Food Research. 53, 531-541. 
+1. **A.J. Signes-Pastor**, K. Mitra, S. Sarkhel, M. Hobbes, F. Burló, W. T. De Groot, A.A. Carbonell- Barrachina. 2008. Arsenic speciation in food and estimation of the dietary intake of inorganic arsenic in a rural village of West Bengal, India. Journal of Agricultural and Food Chemistry. 56, 9469-9474. 
+1. **A.J. Signes-Pastor**, K. Mitra, F. Burló, A. A. Carbonell-Barrachina. 2008. Effect of two different rice-dehusking procedures on total arsenic concentration in rice. European Food Research and Technology. 226, 561- 567. 
+1. **A.J. Signes-Pastor**, K. Mitra, F. Burlo, A.A. Carbonell-Barrachina. 2008. Contribution of water and cooked rice to an estimation of the dietary intake of inorganic arsenic in a rural village of West Bengal, India. Food Additives and Contaminants. 25, 41-50. 
+1. **A.J. Signes-Pastor**, F. Burló, K. Mitra, A.A. Carbonell-Barrachina. 2008. Effect of cooking method and rice type on arsenic concentration in cooked rice and estimation of arsenic dietary intake in a rural village of West Bengal. Food Additives and Contaminants. 25, 1345-1352. 
+1. **A.J. Signes-Pastor**, F. Burló, K. Mitra, A.A. Carbonell-Barrachina. 2007. Arsenic biogeochemistry as affected by phosphorus fertilizer addition, redox potential and pH in a West Bengal (India) soil. Geoderma. 137, 504-510. 
+1. **A.J. Signes-Pastor**, F. Burló, T. Casinos, A.A. Carbonell-Barrachina. 2007. Speciation of Arsenic in Licorice Confectionery Products and Estimation of Health Risk. Food Science and Technology International. 13, 41- 47. 
+1. **A.J. Signes-Pastor**, F. Burló, F. Martinez-Sanchez, A. A. Carbonell Barrachina. 2007. Effects of Preharvest Bagging on Quality of BlackTable Grapes. World Journal of Agricultural Sciences. 3, 32-38.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tonis81/SignesPastor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
