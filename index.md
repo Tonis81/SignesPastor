@@ -159,5 +159,3 @@
 1. **A.J. Signes-Pastor**, F. Burló, A.A. Carbonell-Barrachina. 2005. “El arsénico causa el mayor envenenamiento masivo de la historia de la humanidad”. Poster presentation. Jornada de seguridad y calidad de aguas de consumo. Elche, Spain.
 
 1. **A.J. Signes-Pastor**, F. Burló, R. Poquet, A. Miquel, A.A. Carbonell Barrachina. 2004. “Papel de la miel en el aroma del turrón de Alicante”. Oral presentation. IV Jornada de Investigación en ciencia e ingeniería de los Alimentos. Valencia, Spain.
-
-
