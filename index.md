@@ -1,16 +1,17 @@
-
 # CV A.J. Signes-Pastor
 
 ![](Toni Signes.png)
 
 **antonio.j.signes-pastor@dartmouth.edu**
 
+**ORCID**: 0000-0003-4898-2480; **Researcher ID**: N-9700-2019
+
 ## JRC publications
 
 1. **A.J. Signes-Pastor**, E. Gutiérrez-González, M. García-Villarino, F.D. Rodríguez-Cabrera, J.J. López-Moreno, E. Varea-Jiménez, R. Pastor-Barriuso, M. Pollán, A. Navas-Acien, B. Pérez-Gómez, M.R. Karagas. 2020. Toenails as a biomarker of exposure to arsenic: A review. Environmental Research 110286. 
 1. **A.J. Signes-Pastor**, G. Desai, M. García-Villarino, M.R. Karagas, K. Kordas. 2020. Exposure to a mixture of metals and growth indicators in 6-11-year-old children from the 2013-16 NHANES. Exposure and Health.
 1. **A.J. Signes-Pastor,** T. Punshon, K.L. Cottingham, B.P. Jackson, V. Sayarath, D. Gilbert-Diamond, S. Korrick, M.R. Karagas. 2020. Contribution of apple products consumption to arsenic exposure in infants in the New Hampshire Birth Cohort. Exposure and Health. 
-1. Z. Shi, M. Carey, C. Meharg, P.N. Williams, **A.J. Signes-Pastor**, E.A. Triwardhani, F.I. Pandiangan, K. Campbell, C. Elliott, E.M. Marwa, X. Jiujin, J. Gomes Farias, F. Teixeira-Nicoloso, P. M.C.S. De Silva, Y. Lu, G. Norton, E. Adomako, A.J. Green, E. Moreno-Jiménez, Y. Zhu, A.A. Carbonell-Barrachina, P.I. Haris, Y.F. Lawgali, A. Sommella, M. Pigna, C. Brabet, D. Montet, K. Njira, M.J. Watts, M. Sumon, M.R. Islam, Y. Tapia, C. Oporto, A.A. Meharg. 2020. Rice grain cadmium concentrations in the global supply-chain. Exposure and Health. 
+1. Shi; M. Carey, C. Meharg, P.N. Williams, **A.J. Signes-Pastor**, E.A. Triwardhani, F.I. Pandiangan, K. Campbell, C. Elliott, E.M. Marwa, X. Jiujin, J. Gomes Farias, F. Teixeira-Nicoloso, P. M.C.S. De Silva, Y. Lu, G. Norton, E. Adomako, A.J. Green, E. Moreno-Jiménez, Y. Zhu, A.A. Carbonell-Barrachina, P.I. Haris, Y.F. Lawgali, A. Sommella, M. Pigna, C. Brabet, D. Montet, K. Njira, M.J. Watts, M. Sumon, M.R. Islam, Y. Tapia, C. Oporto, A.A. Meharg. 2020. Rice grain cadmium concentrations in the global supply-chain. Exposure and Health. 
 1. J.P. Buckley, E.S. Barrett, P.I. Beamer, D.H. Bennett, M.S. Bloom, T.R. Fennell, R.C. Fry, W.E. Funk, G.B. Hamra, S.S. Hecht, K. Kannan, R. Iyer, M.R. Karagas, K. Lyall, P.J. Parsons, E.D. Pellizzari, **A.J. Signes-Pastor**, A.P. Starling, A. Wang, D.J. Watkins, M. Zhang, T.J. Woodruff. 2020. Opportunities for evaluating chemical exposures and child health: the Environmental influences on Child Health Outcomes (ECHO) Program. Journal of Exposure Science & Environmental Epidemiology. 
 1. Carey, C. Meharg, P. Williams, E. Marwa, X. Jiujin, J. Gomes-Farias, P. Mangala C.S. De Silva, **A.J. Signes-Pastor**, Y. Lu, F. Teixeira-Nicoloso, L. Savage, K. Campbell, C. Elliott, E. Adomako, A.J. Green, E. Moreno-Jiménez, A.A. Carbonell-Barrachina, E.A. Triwardhani, F.I. Pandiangan, P.I. Haris, Y.F. Lawgali, A. Sommella, M. Pigna, C. Brabet, D. Montet, K. Njira, M.J. Watts, A.A. Meharg. 2019. Global sourcing of low-inorganic arsenic rice grain. Exposure and Health. 
 1. **A.J. Signes-Pastor**, B.T. Doherty, M.E. Romano, K.M. Gleason, J. Gui, E. Baker, M.R. Karagas. 2019. Prenatal exposure to metal mixture and sex- specific birth outcomes in the New Hampshire Birth Cohort Study. Environmental Epidemiology. 3, (5), p e068. 
@@ -88,3 +89,10 @@
 1. A.A. Carbonell-Barrachina, A. Miquel, **A.J. Signes-Pastor**, F. Burlo, F. Martinez-Sanchez, A.J. Perez- Lopez. 2005. “Cocción de la miel y azúcares para la elaboración de turrón”. Poster presentation. III Congreso Nacional de Ciencia y Tecnología de los alimentos. Burgos, Spain.
 1. **A.J. Signes-Pastor**, F. Burló, A.A. Carbonell-Barrachina. 2005. “El arsénico causa el mayor envenenamiento masivo de la historia de la humanidad”. Poster presentation. Jornada de seguridad y calidad de aguas de consumo. Elche, Spain.
 1. **A.J. Signes-Pastor**, F. Burló, R. Poquet, A. Miquel, A.A. Carbonell Barrachina. 2004. “Papel de la miel en el aroma del turrón de Alicante”. Oral presentation. IV Jornada de Investigación en ciencia e ingeniería de los Alimentos. Valencia, Spain.
+
+## Editorial board
+
+1. Exposure & Health
+2. Journal of Food Quality
+3. Environmental Health Perspective
+4. Toxics
