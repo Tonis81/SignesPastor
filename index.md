@@ -2,12 +2,12 @@
 
 ![](Toni Signes.png)
 
-**Email**: asignes@umh.es; antonio.j.signes-pastor@dartmouth.edu
+**antonio.j.signes-pastor@dartmouth.edu**
 
 **ORCID**: 0000-0003-4898-2480; **Researcher ID**: N-9700-2019
 
 ## JRC publications
-
+1. **A. J. Signes-Pastor**, P. Martinez-Camblor, E. Baker, J. Madan, M. F. Guill, M. R. Karagas, 2021. Prenatal exposure to arsenic and lung function in children from the New Hampshire Birth Cohort Study. Environment International 155 (2021) 106673 
 1. **A.J. Signes-Pastor**, E. Gutiérrez-González, M. García-Villarino, F.D. Rodríguez-Cabrera, J.J. López-Moreno, E. Varea-Jiménez, R. Pastor-Barriuso, M. Pollán, A. Navas-Acien, B. Pérez-Gómez, M.R. Karagas. 2020. Toenails as a biomarker of exposure to arsenic: A review. Environmental Research 110286. 
 1. **A.J. Signes-Pastor**, G. Desai, M. García-Villarino, M.R. Karagas, K. Kordas. 2020. Exposure to a mixture of metals and growth indicators in 6-11-year-old children from the 2013-16 NHANES. Exposure and Health.
 1. **A.J. Signes-Pastor,** T. Punshon, K.L. Cottingham, B.P. Jackson, V. Sayarath, D. Gilbert-Diamond, S. Korrick, M.R. Karagas. 2020. Contribution of apple products consumption to arsenic exposure in infants in the New Hampshire Birth Cohort. Exposure and Health. 
@@ -44,8 +44,8 @@
 
 ## Conferences & seminars
 
-1. A.J. Signes-Pastor, P. Martinez-Camblor, E. Baker, J. Madan, M.F. Guill, M.R. Karagas. Prental exposure to arsenic and lung function in children from the New Hampshire Birth Cohort Study. December 14-15, 2020. Distributed harmonization and analysis across three SRP cohorts. NIH/NIEHS Superfund Research Program Annual Meeting. Poster presentation. Hosted by Texas A&M Superfund Research Center.
-1. D.R. Beene, N.B. Agostini, Z. Feric, Y. Halchenco, D. Kaeli, M.R. Karagas, J. Lewis, D. MacKenzie, J. Manjourides, M. Powers, *A.J. Signes-Pastor*, D. Watkins. December 14-15, 2020. Distributed harmonization and analysis across three SRP cohorts. NIH/NIEHS Superfund Research Program Annual Meeting. Poster presentation. Hosted by Texas A&M Superfund Research Center. 
+1. **A.J. Signes-Pastor**, P. Martinez-Camblor, E. Baker, J. Madan, M.F. Guill, M.R. Karagas. Prental exposure to arsenic and lung function in children from the New Hampshire Birth Cohort Study. December 14-15, 2020. NIH/NIEHS Superfund Research Program Annual Meeting. Poster presentation. Hosted by Texas A&M Superfund Research Center.
+1. D.R. Beene, N.B. Agostini, Z. Feric, Y. Halchenco, D. Kaeli, M.R. Karagas, J. Lewis, D. MacKenzie, J. Manjourides, M. Powers, **A.J. Signes-Pastor**, D. Watkins. December 14-15, 2020. Distributed harmonization and analysis across three SRP cohorts. NIH/NIEHS Superfund Research Program Annual Meeting. Poster presentation. Hosted by Texas A&M Superfund Research Center. 
 1. **A.J. Signes-Pastor**. December 5, 2019. Chronic arsenic exposure. Oral presentation - Invited speaker. Department of Epidemiology. Geisel School of Medicine, Dartmouth College, New Hampshire, US.
 1. Moroishi, **A.J. Signes-Pastor**, Zhigang Li, K. Cottingham, R. Enelow, J. Madan, K. Nadeau, M.R. Karagas. August 25-28, 2019. Infections, Respiratory Symptoms, and Allergy in Relation to Rice Cereal Consumption in a United States Cohort. The annual conference of the International Society for Environmental Epidemiology (ISEE 2019). Poster presentation. Utrecht, The Netherlands.
 1. **A.J. Signes-Pastor**, B.T. Doherty, M. Romano, K.M. Gleason, J. Gui, M.R. Karagas. April 3-4, 2019. Prenatal exposure to metal mixture and sext-specific birth outcomes in a population from the New Hampshire Birth Cohort Study. External Advisory Committee (EAC) Annual Meeting. Poster presentation. Center for Molecular Epidemiology at Dartmouth, Hanover, New Hampshire, US.
