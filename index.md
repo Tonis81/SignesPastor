@@ -1,6 +1,6 @@
 # CV A.J. Signes-Pastor
 
-![](Toni Signes.png)
+<img src="Toni Signes.png" style="zoom:50%;" />
 
 **asignes@umh.es**
 
