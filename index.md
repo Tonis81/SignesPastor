@@ -6,7 +6,22 @@
 
 **ORCID**: 0000-0003-4898-2480; **Researcher ID**: N-9700-2019
 
+
+
+# Index
+
+JRC publications
+
+Conferences & seminars
+
+Editorial board
+
+---
+
+
+
 ## JRC publications
+
 1. **A. J. Signes-Pastor**, P. Martinez-Camblor, E. Baker, J. Madan, M. F. Guill, M. R. Karagas, 2021. Prenatal exposure to arsenic and lung function in children from the New Hampshire Birth Cohort Study. Environment International 155 (2021) 106673 
 1. **A.J. Signes-Pastor**, E. Gutiérrez-González, M. García-Villarino, F.D. Rodríguez-Cabrera, J.J. López-Moreno, E. Varea-Jiménez, R. Pastor-Barriuso, M. Pollán, A. Navas-Acien, B. Pérez-Gómez, M.R. Karagas. 2020. Toenails as a biomarker of exposure to arsenic: A review. Environmental Research 110286. 
 1. **A.J. Signes-Pastor**, G. Desai, M. García-Villarino, M.R. Karagas, K. Kordas. 2020. Exposure to a mixture of metals and growth indicators in 6-11-year-old children from the 2013-16 NHANES. Exposure and Health.
