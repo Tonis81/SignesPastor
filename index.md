@@ -1,26 +1,19 @@
+PR112_Curriculum Vitae (GitHub)
+
+https://tonis81.github.io/SignesPastor/
+
+
+I CAN DO THE CHANGES DIRECTLY USING GITHUB DESKTOP!!!!!!!!
+
+------
+
 # CV A.J. Signes-Pastor
 
-<img src="Toni Signes.png" style="zoom:50%;" />
+![](Toni Signes.png)
 
-**asignes@umh.es**
+**antonio.j.signes-pastor@dartmouth.edu**; **asignes@umh.es**.
 
 **ORCID**: 0000-0003-4898-2480; **Researcher ID**: N-9700-2019
-
-
----
-
-
-# Index
-
-JRC publications
-
-Conferences & seminars
-
-Editorial board
-
----
-
-
 
 ## JRC publications
 
@@ -61,6 +54,8 @@ Editorial board
 
 ## Conferences & seminars
 
+1. **A. J. Signes-Pastor**, Brian Jackson, Kathryn L. Cottingham, Tracy Punshon, Margaret R. Karagas. August 23-26, 2021. Dietary exposure to metal mixtures throughout infants' first year of life in the New Hampshire Birth Cohort Study. 33rd Annual Conference of the International Society for Environmental Epidemiology (ISEE). Poster presentation. Hosted by Columbia University Mailman School of Public Health, New York, United States.
+1. **A. J. Signes-Pastor**, Margaret Guill, Jesús Vioque, Juliette Madan, Emily Baker, Brian Jackson, Margaret R. Karagas. August 23-26, 2021. Prenatal exposure to metal mixtures and lung function in children from the New Hampshire Birth Cohort Study. 33rd Annual Conference of the International Society for Environmental Epidemiology (ISEE). Poster presentation. Hosted by Columbia University Mailman School of Public Health, New York, United States.
 1. **A.J. Signes-Pastor**, P. Martinez-Camblor, E. Baker, J. Madan, M.F. Guill, M.R. Karagas. Prental exposure to arsenic and lung function in children from the New Hampshire Birth Cohort Study. December 14-15, 2020. NIH/NIEHS Superfund Research Program Annual Meeting. Poster presentation. Hosted by Texas A&M Superfund Research Center.
 1. D.R. Beene, N.B. Agostini, Z. Feric, Y. Halchenco, D. Kaeli, M.R. Karagas, J. Lewis, D. MacKenzie, J. Manjourides, M. Powers, **A.J. Signes-Pastor**, D. Watkins. December 14-15, 2020. Distributed harmonization and analysis across three SRP cohorts. NIH/NIEHS Superfund Research Program Annual Meeting. Poster presentation. Hosted by Texas A&M Superfund Research Center. 
 1. **A.J. Signes-Pastor**. December 5, 2019. Chronic arsenic exposure. Oral presentation - Invited speaker. Department of Epidemiology. Geisel School of Medicine, Dartmouth College, New Hampshire, US.
@@ -112,4 +107,5 @@ Editorial board
 1. Exposure & Health
 2. Journal of Food Quality
 3. Environmental Health Perspective
-4. Toxics
+4. Toxics (Special Issue Editor)
+
