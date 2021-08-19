@@ -1,11 +1,3 @@
-PR112_Curriculum Vitae (GitHub)
-
-https://tonis81.github.io/SignesPastor/
-
-
-I CAN DO THE CHANGES DIRECTLY USING GITHUB DESKTOP!!!!!!!!
-
-------
 
 # CV A.J. Signes-Pastor
 
