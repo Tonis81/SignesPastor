@@ -1,7 +1,7 @@
 
 # CV A.J. Signes-Pastor
 
-![](Toni Signes.png)
+![](Toni Signes.png){ width=50% }
 
 **antonio.j.signes-pastor@dartmouth.edu**; **asignes@umh.es**.
 
