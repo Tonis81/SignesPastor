@@ -8,12 +8,12 @@
 
 
 
-## JRC publications
+## JCR publications
 
 1. Signes-Pastor AJ, Dı́az-Coto S, Martinez-Camblor P, et al. Arsenic exposure and respiratory outcomes during childhood in the INMA study. PLoS One. 2022;17(9):e0274215. doi:10.1371/journal.pone.0274215
-2. Signes-Pastor AJ, Romano ME, Jackson B, et al. Associations of maternal urinary arsenic concentrations during pregnancy with childhood cognitive abilities: The HOME study. Int J Hyg Environ Health. 2022;245:114009. doi:10.1016/j.ijheh.2022.114009
-3. Khoury N, Gómez-Donoso C, Martı́nez MÁ, et al. Associations between the modified food standard agency nutrient profiling system dietary index and cardiovascular risk factors in an elderly population. Front Nutr. 2022;9:897089. doi:10.3389/fnut.2022.897089
-4. Signes-Pastor AJ, Sayarath V, Jackson B, Cottingham KL, Punshon T, Karagas MR. Dietary exposure to essential and non-essential elements during infants’first year of life in the new hampshire birth cohort study. Exposure and Health. Published online 2022. doi:10.1007/s12403-022-00489-x
+2. Signes-Pastor AJ, Romano ME, Jackson BP, et al. Associations of maternal urinary arsenic concentrations during pregnancy with childhood cognitive abilities: The HOME study. Int J Hyg Environ Health. 2022;245:114009. doi:10.1016/j.ijheh.2022.114009
+3. Khoury N, Gómez-Donoso C, Martı́nez MA, et al. Associations between the modified food standard agency nutrient profiling system dietary index and cardiovascular risk factors in an elderly population. Front Nutr. 2022;9:897089. doi:10.3389/fnut.2022.897089
+4. Signes-Pastor AJ, Sayarath V, Jackson BP, Cottingham KL, Punshon T, Karagas MR. Dietary exposure to essential and non-essential elements during infants’first year of life in the new hampshire birth cohort study. Exposure and Health. Published online 2022. doi:10.1007/s12403-022-00489-x
 5. Garcı́a-Villarino M, Signes-Pastor AJ, Riaño-Galán I, et al. Serum concentrations of persistent organic pollutants mixture during pregnancy and anogenital distance in 8-year-old children from the INMA-asturias cohort. Environ Res. 2022;213:113607. doi:10.1016/j.envres.2022.113607
 6. Moroishi Y, Signes-Pastor AJ, Li Z, et al. Infant infections, respiratory symptoms, and allergy in relation to timing of rice cereal introduction in a united states cohort. Scientific Reports. 2022;12(1):4450. doi:10.1038/s41598-022-08354-2
 7. Garcı́a-Villarino M, Signes-Pastor AJ, Karagas MR, et al. Exposure to metal mixture and growth indicators at 4-5 years. A study in the INMA-asturias cohort. Environ Res. 2022;204(Pt D):112375. doi:10.1016/j.envres.2021.112375
@@ -28,7 +28,7 @@
 16. Carey M, Meharg C, Williams P, et al. Global sourcing of low-inorganic arsenic rice grain. Exposure and Health. 2020;12(4):711-719. doi:10.1007/s12403-019-00330-y
 17. Signes-Pastor AJ, Vioque J, Navarrete-Muñoz EM, et al. Inorganic arsenic exposure and neuropsychological development of children of 4–5 years of age living in spain. Environmental Research. 2019;174:135-142. doi:10.1016/j.envres.2019.04.028
 18. Signes-Pastor AJ, Doherty BT, Romano ME, et al. Prenatal exposure to metal mixture and sex-specific birth outcomes in the new hampshire birth cohort study. Environ Epidemiol. 2019;3(5). doi:10.1097/EE9.0000000000000068
-19. Signes-Pastor AJ, Scot Zens M, Seigne J, Schned A, Karagas MR. Rice consumption and incidence of bladder cancer in the united states population. Epidemiology. 2019;30(2):e4-e5. doi:10.1097/EDE.0000000000000955
+19. Signes-Pastor AJ, Zens MS, Seigne J, Schned A, Karagas MR. Rice consumption and incidence of bladder cancer in the united states population. Epidemiology. 2019;30(2):e4-e5. doi:10.1097/EDE.0000000000000955
 20. Signes-Pastor AJ, Bouchard MF, Baker E, Jackson BP, Karagas MR. Toenail manganese as biomarker of drinking water exposure: A reliability study from a US pregnancy cohort. J Expo Sci Environ Epidemiol. 2019;29(5):648-654. doi:10.1038/s41370-018-0108-z
 21. Nachman KE, Punshon T, Rardin L, et al. Opportunities and challenges for dietary arsenic intervention. Environ Health Perspect. 2018;126(8):84503. doi:10.1289/EHP3997
 22. Carey M, Donaldson E, Signes-Pastor AJ, Meharg AA. Dilution of rice with other gluten free grains to lower inorganic arsenic in foods for young children in response to european union regulations provides impetus to setting stricter standards. PLoS One. 2018;13(3):e0194700. doi:10.1371/journal.pone.0194700
@@ -47,12 +47,12 @@
 35. Signes-Pastor AJ, Deacon C, Jenkins RO, Haris PI, Carbonell-Barrachina AA, Meharg AA. Arsenic speciation in japanese rice drinks and condiments. J Environ Monit. 2009;11(11):1930-1934. doi:10.1039/b911615j
 36. Carbonell-Barrachina AA, Signes-Pastor AJ, Vázquez-Araújo L, Burló F, Sengupta B. Presence of arsenic in agricultural products from arsenic-endemic areas and strategies to reduce arsenic intake in rural villages. Mol Nutr Food Res. 2009;53(5):531-541. doi:10.1002/mnfr.200900038
 37. Signes-Pastor AJ, Mitra K, Sarkhel S, et al. Arsenic speciation in food and estimation of the dietary intake of inorganic arsenic in a rural village of west bengal, india. J Agric Food Chem. 2008;56(20):9469-9474. doi:10.1021/jf801600j
-38. Signes A, Mitra K, Burló F, Carbonell-Barrachina AA. Effect of two different rice dehusking procedures on total arsenic concentration in rice. European Food Research and Technology. 2008;226(3):561-567. doi:10.1007/s00217-007-0571-6
-39. Signes A, Mitra K, Burló F, Carbonell-Barrachina AA. Contribution of water and cooked rice to an estimation of the dietary intake of inorganic arsenic in a rural village of west bengal, india. Food Addit Contam Part A Chem Anal Control Expo Risk Assess. 2008;25(1):41-50. doi:10.1080/02652030701385233
-40. Signes A, Mitra K, Burlo F, Carbonell-Barrachina AA. Effect of cooking method and rice type on arsenic concentration in cooked rice and the estimation of arsenic dietary intake in a rural village in west bengal, india. Food Addit Contam Part A Chem Anal Control Expo Risk Assess. 2008;25(11):1345-1352. doi:10.1080/02652030802189732
-41. Signes-Pastor A, Burló F, Mitra K, Carbonell-Barrachina AA. Arsenic biogeochemistry as affected by phosphorus fertilizer addition, redox potential and pH in a west bengal (india) soil. Geoderma. 2007;137(3):504-510. doi:https://doi.org/10.1016/j.geoderma.2006.10.012
-42. Signes A, Burló F, Casinos T, Carbonell-Barrachina AA. Note. Speciation of arsenic in licorice confectionery products and estimation of health risks. Food Science and Technology International. 2007;13(1):41-47. doi:10.1177/1082013207075655
-43. Signes-Pastor AJ, Burlo F, Martinez-Sanchez F, Carbonell-Barrachina ÁA. Effects of preharvest bagging on quality of black table grapes. World Journal of Microbiology & Biotechnology. 2007;3(32-38).
+38. Signes-Pastor AJ, Mitra K, Burló F, Carbonell-Barrachina AA. Effect of two different rice dehusking procedures on total arsenic concentration in rice. European Food Research and Technology. 2008;226(3):561-567. doi:10.1007/s00217-007-0571-6
+39. Signes-Pastor AJ, Mitra K, Burló F, Carbonell-Barrachina AA. Contribution of water and cooked rice to an estimation of the dietary intake of inorganic arsenic in a rural village of west bengal, india. Food Addit Contam Part A Chem Anal Control Expo Risk Assess. 2008;25(1):41-50. doi:10.1080/02652030701385233
+40. Signes-Pastor AJ, Mitra K, Burlo F, Carbonell-Barrachina AA. Effect of cooking method and rice type on arsenic concentration in cooked rice and the estimation of arsenic dietary intake in a rural village in west bengal, india. Food Addit Contam Part A Chem Anal Control Expo Risk Assess. 2008;25(11):1345-1352. doi:10.1080/02652030802189732
+41. Signes-Pastor AJ, F. B, K. M, A. CBA. Arsenic biogeochemistry as affected by phosphorus fertilizer addition, redox potential and pH in a west bengal (india) soil. Geoderma. 2007;137(3):504-510. doi:https://doi.org/10.1016/j.geoderma.2006.10.012
+42. Signes-Pastor AJ, Burló F, Casinos T, Carbonell-Barrachina AA. Note. Speciation of arsenic in licorice confectionery products and estimation of health risks. Food Science and Technology International. 2007;13(1):41-47. doi:10.1177/1082013207075655
+43. Signes-Pastor AJ, Burlo F, Martinez-Sanchez F, Carbonell-Barrachina AA. Effects of preharvest bagging on quality of black table grapes. World Journal of Microbiology & Biotechnology. 2007;3(32-38).
 
 ## Conferences & seminars
 
