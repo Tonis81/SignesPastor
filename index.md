@@ -466,7 +466,7 @@
 
 
 
-12.D. Polya, I. Parvez and A. J. et. al. Signes-Pastor, Geogenic chemicals in groundwater and soils: A research training network (AquaTRAIN), *European Commission Sixth Framework Programme (2002-2006), Marie Curie Actions – Human Resources and Mobility Activity Area, Research Training Networks* **MRTN-CT-2006-0355420** (From 01/04/2009 to 30/11/2010) Role: Reseacher at DeMontfort University, UK.
+12.D. Polya, I. Parvez, A. J. Signes-Pastor and et. al., Geogenic chemicals in groundwater and soils: A research training network (AquaTRAIN), *European Commission Sixth Framework Programme (2002-2006), Marie Curie Actions – Human Resources and Mobility Activity Area, Research Training Networks* **MRTN-CT-2006-0355420** (From 01/04/2009 to 30/11/2010) Role: Reseacher at DeMontfort University, UK.
 
 
 
@@ -474,7 +474,7 @@
 
 
 
-14.A. A. Carbonell-Barrachina and A. J. et. al. Signes-Pastor, Development of a low-cost technology for in-situ treatment of groundwater for potable and irrigation purposes (TIPOT), *Asia Pro-Eco/ EuropeAid* **ASI/B7-301/2598/24-2004/79013** (From 01/07/2004 to 01/01/2007) Role: Researcher at Universidad Miguel Hernández, ES.
+14.A. A. Carbonell-Barrachina, A. J. Signes-Pastor and et. al., Development of a low-cost technology for in-situ treatment of groundwater for potable and irrigation purposes (TIPOT), *Asia Pro-Eco/ EuropeAid* **ASI/B7-301/2598/24-2004/79013** (From 01/07/2004 to 01/01/2007) Role: Researcher at Universidad Miguel Hernández, ES.
 
 ## Editorial board
 
