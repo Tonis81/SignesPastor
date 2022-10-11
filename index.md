@@ -1,5 +1,3 @@
-[toc]
-
 # **CV Signes-Pastor, A.J.**
 
 <img src="Toni Signes.png" style="zoom:50%;" />
