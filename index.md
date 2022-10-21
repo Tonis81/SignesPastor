@@ -1,3 +1,5 @@
+[toc]
+
 # **CV Signes-Pastor, A.J.**
 
 <img src="Toni Signes.png" style="zoom:50%;" />
@@ -475,6 +477,70 @@
 
 
 14.A. A. Carbonell-Barrachina, A. J. Signes-Pastor and et. al., Development of a low-cost technology for in-situ treatment of groundwater for potable and irrigation purposes (TIPOT), *Asia Pro-Eco/ EuropeAid* **ASI/B7-301/2598/24-2004/79013** (From 01/07/2004 to 01/01/2007) Role: Researcher at Universidad Miguel Hernández, ES.
+
+## Research projects industry
+
+1.A. J. Signes-Pastor, Effect of paternal genetic line and crosses on the carcass quality and food safety of pork., *Patel* **375000€ aprox. (IDI-2011-13149-a)** (From 01/01/2010 to 31/12/2010) Role: Project Manager at Imasde Agroalimentaria S.L.
+
+
+
+2.A. J. Signes-Pastor, Effect of the procedure and the salting time on the curing process and quality of white cured ham., *Sanchez Alcaraz* **210000€ aprox. (IDI-2012-31363-a)** (From 01/01/2010 to 31/12/2010) Role: Project Manager at Imasde Agroalimentaria S.L.
+
+
+
+3.A. J. Signes-Pastor, Effect of the matrix used in the stuffing of roasted poultry and post-packaging heat treatment on the sensory quality and shelf life of the final product., *La Carloteña* **100000€ aprox. (IDI-2011-12889)** (From 01/01/2010 to 31/12/2010) Role: Project Manager at Imasde Agroalimentaria S.L.
+
+
+
+4.A. J. Signes-Pastor, Evaluate the effect of the use of frozen meat and the level of salt on the curing speed, salt concentration and sensory quality on iberian ham (consorcio de jabugo), *Centro para el Desarrollo Tecnológico Industrial (CDTI)* **400000€ aprox. (IDI-20090265)** (From 07/07/2008 to 05/10/2011) Role: Project Manager at Imasde Agroalimentaria S.L.
+
+
+
+5.A. J. Signes-Pastor, Effect of using plant extracts and probiotics on broiler productivity, *Pondex* **280000€ aprox. (IDI-2012-25513-a)** (From 01/01/2011 to 31/12/2011) Role: Project Manager at Imasde Agroalimentaria S.L.
+
+
+
+6.A. J. Signes-Pastor, Nutritional strategies for increasing the feed palatability for piglets. Individual project, *Nutrivall* **340000€ aprox. (IDI-2012-25512-a)** (From 01/01/2011 to 31/12/2011) Role: Project Manager at Imasde Agroalimentaria S.L.
+
+
+
+7.A. J. Signes-Pastor, Effect of the addition of rice cylinder and corn by-products in the diet of pigs on performance and carcass quality, *Agroturia* **400000€ aprox. (IDI-2012-25516a)** (From 01/01/2011 to 31/12/2011) Role: Project Manager at Imasde Agroalimentaria S.L.
+
+
+
+8.A. J. Signes-Pastor, Effect of partial substitution of zn, mn and cu by inorganic chelates, and their interaction with farm size, *Agrocesa* **600000 aprox. (IDI-2012-25517-a)** (From 01/01/2011 to 31/12/2012) Role: Project Manager at Imasde Agroalimentaria S.L.
+
+
+
+9.A. J. Signes-Pastor, Iberian pig cooked products (consorcio de jabugo), *Centro para el Desarrollo Tecnológico Industrial (CDTI)* **1000000€ aprox (IDI-20090264)** (From 07/07/2008 to 16/07/2012) Role: Project Manager at Imasde Agroalimentaria S.L.
+
+
+
+10.Study of different livestock production system, breeds and curing processes on the quality of products from iberian pigs (jamones y embutidos mallo, ibercom, señorio de montanera), *Centro para el Desarrollo Tecnológico Industrial (CDTI)* **800000€ aprox. (IDI-20100404; IDI-20100405; IDI-20100406)** (From 01/01/2010 to 20/11/2012) Role: Project Manager at Imasde Agroalimentaria S.L.
+
+
+
+11.A. J. Signes-Pastor, Development of new products and transformation of foie gras from ducks raised in castilla y león, spain (canard), *Proyecto financiado por la Lı́nea S31 de Ayudas para Proyecto de I+D Agrarios o Alimentarios de Castilla y León.* **154000€ aprox. (SO/090030/S31)** (From 31/12/2009 to 28/05/2012) Role: Project Manager at Imasde Agroalimentaria S.L.
+
+
+
+12.A. J. Signes-Pastor, Epidemiological study of the incidence of salmonella in poultry meat using PCR in three provinces (lleida, tarragona and huesca) in northeastern spain in 2010 and 2011, *Mevet* **830000€ aprox. (IDI-2011-12878a; IDI-2012-25511a)** (From 01/01/2010 to 31/12/2012) Role: Project Manager at Imasde Agroalimentaria S.L.
+
+
+
+13.A. J. Signes-Pastor, Development of new products based on rousted chicken, *La Carloteña* **400000€ arpox. (IDI-2012-25478-a)** (From 01/01/2011 to 31/12/2011) Role: Project Manager at Imasde Agroalimentaria S.L.
+
+
+
+14.A. J. Signes-Pastor, Automatic control of fed stock in silos in farms by telecommunication (CEGECO), *Centro para el Desarrollo Tecnológico Industrial (CDTI)* **500000€ (IDI-20120225)** (From 21/10/2011 to 22/10/2013) Role: Project Manager at Imasde Agroalimentaria S.L.
+
+
+
+15.A. J. Signes-Pastor, Study of the prevalence of salmonella and campylobacter in poultry meat (avigal, mevet, milsa, COREN, and CZV), *Centro para el Desarrollo Tecnológico Industrial (CDTI)* **4000000€ aprox. (IDI-20110832; IDI-20110833; IDI-20110834; IDI-20110835; IDI-20110836)** (From 01/01/2011 to 31/12/2013) Role: Project Manager at Imasde Agroalimentaria S.L.
+
+
+
+16.A. J. Signes-Pastor, Removal of chemical additives in meat products seasoning (doscadesa), *Centro para el Desarrollo Tecnológico Industrial (CDTI)* (From 01/01/2013 to 01/01/2014).
 
 ## Editorial board
 
