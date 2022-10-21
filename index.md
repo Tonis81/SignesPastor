@@ -4,6 +4,7 @@
 2. Conferences & Seminars
 3. Research projects (Academia)
 4. Research projects (Industry)
+5. Service activities
 
 # **CV Signes-Pastor, A.J.**
 
@@ -15,7 +16,7 @@
 
 
 
-## JCR publications
+## 1. JCR publications
 
 1.A. J. Signes-Pastor, S. Dı́az-Coto, P. Martinez-Camblor, M. Carey, R. Soler-Blasco, M. Garcı́a-Villarino, A. Fernández-Somoano, J. Julvez, P. Carrasco, A. Lertxundi, L. Santa Marina, M. Casas, A. A. Meharg, M. R. Karagas and J. Vioque-Lopez, Arsenic exposure and respiratory outcomes during childhood in the INMA study., *PLoS One* **17** (2022) e0274215.; DOI:[10.1371/journal.pone.0274215](https://doi.org/10.1371/journal.pone.0274215)
 
@@ -191,7 +192,7 @@
 
 44.A. J. Signes-Pastor, F. Burlo, F. Martinez-Sanchez and A. A. Carbonell-Barrachina, Effects of preharvest bagging on quality of black table grapes, *World Journal of Microbiology & Biotechnology* **3** (2007).
 
-## Conferences & seminars
+## 2. Conferences & seminars
 
 1.L. Notario Barandiaran, R. Soler Blasco, G. Riutort Mayol, A. Irizar, M. Begoña Zubero, M. Vrijheid, J. Vioque, A. Meharg, M. Carey, M. Casas, A. Tardón, A. Fernández Somoano, C. McCreanor, K. Ralphs and A. J. Signes Pastor, Adherence to mediterranean diet and metal exposure during childhood in the INMA study (poster), *ISEE, Athens, Greece* (18-21 September 2022).
 
@@ -427,7 +428,7 @@
 
 59.A. J. Signes-Pastor, F. Burló, R. Poquet, A. Miquel and A. A. Carbonell-Barrachina, Papel de la miel en el aroma del turrón de alicante (oral), *IV Jornada de Investigación en ciencia e ingenierı́a de los Alimentos. Valencia, Spain.* (2004).
 
-## Research projects (Academia)
+## 3. Research projects (Academia)
 
 1.F. Hernández Garcı́a, A. J. Signes-Pastor and et. al., Estrategies hidroSOStenibles en frutales de hueso: Caso a estudio el albaricoque; AGROALNEXT/2022/040, *Generalitat Valenciana - Conselleria de Innovación, Universidades, Ciencia y Sociedad Digital-Funded by European Commission - Next Generation EU* **227999.00 € (AGROALNEXT/ 2022/040)** (From 22/04/2022 to 21/04/2025) Role: Principal Investigator at Universidad Miguel Hernández, ES.
 
@@ -483,7 +484,7 @@
 
 14.A. A. Carbonell-Barrachina, A. J. Signes-Pastor and et. al., Development of a low-cost technology for in-situ treatment of groundwater for potable and irrigation purposes (TIPOT), *Asia Pro-Eco/ EuropeAid* **ASI/B7-301/2598/24-2004/79013** (From 01/07/2004 to 01/01/2007) Role: Researcher at Universidad Miguel Hernández, ES.
 
-## Research projects (Industry)
+## 4. Research projects (Industry)
 
 1.A. J. Signes-Pastor, Effect of paternal genetic line and crosses on the carcass quality and food safety of pork., *Patel* **375000€ aprox. (IDI-2011-13149-a)** (From 01/01/2010 to 31/12/2010) Role: Project Manager at Imasde Agroalimentaria S.L.
 
@@ -547,10 +548,13 @@
 
 16.A. J. Signes-Pastor, Removal of chemical additives in meat products seasoning (doscadesa), *Centro para el Desarrollo Tecnológico Industrial (CDTI)* (From 01/01/2013 to 01/01/2014).
 
-## Editorial board
+## 5. Service activities
 
-1. Exposure & Health
-2. Journal of Food Quality
-3. Environmental Health Perspective
-4. Toxics (Special Issue Editor)
+### Editorial board
+
+Exposure & Health; Journal of Food Quality; Environmental Health Perspective; Toxics (Special Issue Editor)
+
+### Ad-Hoc Manuscript Reviewer
+
+Science of the Total Environment; JAMA Pediatrics; Journal of Food Science; Environmental Science and Pollution Research; Food Chemistry; Exposure & Health; Environmental Health and Perspective; Environmental Research; Food and Chemical Toxicology; International Journal of Hygiene and Environmental Health; Scientific Reports; Journal of Food Quality; Cancer Causes & Control.
 
