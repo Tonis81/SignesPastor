@@ -546,7 +546,7 @@
 
 
 
-16.A. J. Signes-Pastor, Removal of chemical additives in meat products seasoning (doscadesa), *Centro para el Desarrollo Tecnológico Industrial (CDTI)* (From 01/01/2013 to 01/01/2014).
+16.A. J. Signes-Pastor, Removal of chemical additives in meat products seasoning (doscadesa), *Centro para el Desarrollo Tecnológico Industrial (CDTI)* **260000€ aprox. (IDI-2014-0143)** (From 01/01/2013 to 01/01/2014) Role: Research and Development Director at Doscadesa.
 
 ## 5. Service activities
 
