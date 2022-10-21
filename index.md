@@ -1,5 +1,10 @@
 [toc]
 
+1. JCR Publications
+2. Conferences & Seminars
+3. Research projects (Academia)
+4. Research projects (Industry)
+
 # **CV Signes-Pastor, A.J.**
 
 <img src="Toni Signes.png" style="zoom:50%;" />
@@ -422,7 +427,7 @@
 
 59.A. J. Signes-Pastor, F. Burló, R. Poquet, A. Miquel and A. A. Carbonell-Barrachina, Papel de la miel en el aroma del turrón de alicante (oral), *IV Jornada de Investigación en ciencia e ingenierı́a de los Alimentos. Valencia, Spain.* (2004).
 
-## Research projects in academia
+## Research projects (Academia)
 
 1.F. Hernández Garcı́a, A. J. Signes-Pastor and et. al., Estrategies hidroSOStenibles en frutales de hueso: Caso a estudio el albaricoque; AGROALNEXT/2022/040, *Generalitat Valenciana - Conselleria de Innovación, Universidades, Ciencia y Sociedad Digital-Funded by European Commission - Next Generation EU* **227999.00 € (AGROALNEXT/ 2022/040)** (From 22/04/2022 to 21/04/2025) Role: Principal Investigator at Universidad Miguel Hernández, ES.
 
@@ -478,7 +483,7 @@
 
 14.A. A. Carbonell-Barrachina, A. J. Signes-Pastor and et. al., Development of a low-cost technology for in-situ treatment of groundwater for potable and irrigation purposes (TIPOT), *Asia Pro-Eco/ EuropeAid* **ASI/B7-301/2598/24-2004/79013** (From 01/07/2004 to 01/01/2007) Role: Researcher at Universidad Miguel Hernández, ES.
 
-## Research projects industry
+## Research projects (Industry)
 
 1.A. J. Signes-Pastor, Effect of paternal genetic line and crosses on the carcass quality and food safety of pork., *Patel* **375000€ aprox. (IDI-2011-13149-a)** (From 01/01/2010 to 31/12/2010) Role: Project Manager at Imasde Agroalimentaria S.L.
 
