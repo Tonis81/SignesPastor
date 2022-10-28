@@ -1,11 +1,12 @@
 [toc]
 
-1. JCR Publications
-2. Employment
-3. Research projects (Academia)
-4. Research projects (Industry)
-5. Conferences & Seminars
-6. Service activities
+1. Education
+2. JCR Publications
+3. Employment
+4. Research projects (Academia)
+5. Research projects (Industry)
+6. Conferences & Seminars
+7. Service activities
 
 # **CV Signes-Pastor, A.J.**
 
@@ -15,9 +16,39 @@
 
 **ORCID**: 0000-0003-4898-2480; **Researcher ID**: N-9700-2019
 
+## 1. Education
+
+1.Epidemiology; Università Cattolica del Sacro Cuore, IT. (2017).
 
 
-## 1. JCR publications
+
+2.Epidemiology and Population Health (EPIC); Columbia University, US. (2017).
+
+
+
+3.ILM Level 5 Leadership and Management; Queen’s University Belfast, UK. (2015).
+
+
+
+4.Doctor of Philosophy, Food Science & Technology, Miguel Hernández University, ES (Extraordinary Award) (10 May 2010).
+
+
+
+5.Advance methods of applied statistics; UNED, ES. (2010).
+
+
+
+6.Masters, Environmental Management, FormaSelect España S.L., ES (2007).
+
+
+
+7.Masters, Food Science and Technology, Miguel Hernández University, ES (Extraordinary Award) (2004).
+
+
+
+8.Bachelor, Agronomy Engineering, Polytechnic University of Valencia, ES (2002).
+
+## 2. JCR publications
 
 1.A. J. Signes-Pastor, S. Dı́az-Coto, P. Martinez-Camblor, M. Carey, R. Soler-Blasco, M. Garcı́a-Villarino, A. Fernández-Somoano, J. Julvez, P. Carrasco, A. Lertxundi, L. Santa Marina, M. Casas, A. A. Meharg, M. R. Karagas and J. Vioque-Lopez, Arsenic exposure and respiratory outcomes during childhood in the INMA study., *PLoS One* **17** (2022) e0274215.; DOI:[10.1371/journal.pone.0274215](https://doi.org/10.1371/journal.pone.0274215)
 
@@ -193,7 +224,7 @@
 
 44.A. J. Signes-Pastor, F. Burlo, F. Martinez-Sanchez and A. A. Carbonell-Barrachina, Effects of preharvest bagging on quality of black table grapes, *World Journal of Microbiology & Biotechnology* **3** (2007).
 
-## 2. Employment
+## 3. Employment
 
 1.Miguel Hernández University. Department of Public Health. Facultad de medicina. Avda. Ramón y cajal, s/n, Sant Joan d’Alacant, 03550, ES (academia)., *Senior researcher* (from 01 April 2021 to current).
 
@@ -227,7 +258,7 @@
 
 
 
-## 3. Research projects (Academia)
+## 4. Research projects (Academia)
 
 1.F. Hernández Garcı́a, A. J. Signes-Pastor and et. al., Estrategies hidroSOStenibles en frutales de hueso: Caso a estudio el albaricoque; AGROALNEXT/2022/040, *Generalitat Valenciana - Conselleria de Innovación, Universidades, Ciencia y Sociedad Digital-Funded by European Commission - Next Generation EU* **227999.00 € (AGROALNEXT/ 2022/040)** (From 22/04/2022 to 21/04/2025) Role: Principal Investigator at Universidad Miguel Hernández, ES.
 
@@ -283,7 +314,7 @@
 
 14.A. A. Carbonell-Barrachina, A. J. Signes-Pastor and et. al., Development of a low-cost technology for in-situ treatment of groundwater for potable and irrigation purposes (TIPOT), *Asia Pro-Eco/ EuropeAid* **ASI/B7-301/2598/24-2004/79013** (From 01/07/2004 to 01/01/2007) Role: Researcher at Universidad Miguel Hernández, ES.
 
-## 4. Research projects (Industry)
+## 5. Research projects (Industry)
 
 1.A. J. Signes-Pastor, Effect of paternal genetic line and crosses on the carcass quality and food safety of pork., *Patel* **375000€ aprox. (IDI-2011-13149-a)** (From 01/01/2010 to 31/12/2010) Role: Project Manager at Imasde Agroalimentaria S.L.
 
@@ -347,7 +378,7 @@
 
 16.A. J. Signes-Pastor, Removal of chemical additives in meat products seasoning (doscadesa), *Centro para el Desarrollo Tecnológico Industrial (CDTI)* **260000€ aprox. (IDI-2014-0143)** (From 01/01/2013 to 01/01/2014) Role: Research and Development Director at Doscadesa.
 
-## 5. Conferences & seminars
+## 6. Conferences & seminars
 
 1.L. Notario Barandiaran, R. Soler Blasco, G. Riutort Mayol, A. Irizar, M. Begoña Zubero, M. Vrijheid, J. Vioque, A. Meharg, M. Carey, M. Casas, A. Tardón, A. Fernández Somoano, C. McCreanor, K. Ralphs and A. J. Signes Pastor, Adherence to mediterranean diet and metal exposure during childhood in the INMA study (poster), *ISEE, Athens, Greece* (18-21 September 2022).
 
@@ -583,7 +614,7 @@
 
 59.A. J. Signes-Pastor, F. Burló, R. Poquet, A. Miquel and A. A. Carbonell-Barrachina, Papel de la miel en el aroma del turrón de alicante (oral), *IV Jornada de Investigación en ciencia e ingenierı́a de los Alimentos. Valencia, Spain.* (2004).
 
-## 6. Service activities
+## 7. Service activities
 
 ### Editorial board
 
