@@ -5,8 +5,9 @@
 3. Employment
 4. Research projects (Academia)
 5. Research projects (Industry)
-6. Conferences & Seminars
-7. Service activities
+6. Teaching
+7. Conferences & Seminars
+8. Service activities
 
 # **CV Signes-Pastor, A.J.**
 
@@ -378,7 +379,55 @@
 
 16.A. J. Signes-Pastor, Removal of chemical additives in meat products seasoning (doscadesa), *Centro para el Desarrollo Tecnológico Industrial (CDTI)* **260000€ aprox. (IDI-2014-0143)** (From 01/01/2013 to 01/01/2014) Role: Research and Development Director at Doscadesa.
 
-## 6. Conferences & seminars
+## 6. Teaching
+
+1.Theoretical and practical epidemiological foundations (university master in public health), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (2022).
+
+
+
+2.Epidemiology and health demographics 1962 (medical degree), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (from 2021 to 2022).
+
+
+
+3.Advanced epidemiological methods 2673 (university master in public health), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (from 2021 to 2022).
+
+
+
+4.Relevant health problems and specific interventions in public health 2672 (university master in public health), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (from 2021 to 2022).
+
+
+
+5.Topics of epidemiology. Chronic arsenic exposure., *Dartmouth College, Geisel School of Medicine, Epidemiology Department. 1 Medical Center Drive, Williamson Translational Research Building, Lebanon, NH, 03756, US* (from 2020 to 2021).
+
+
+
+6.Data module. Epidemiology & biostatistics., *Dartmouth College, Geisel School of Medicine, Epidemiology Department. 1 Medical Center Drive, Williamson Translational Research Building, Lebanon, NH, 03756, US* (2020).
+
+
+
+7.Co-supervise and mentor PhD students. Statistical analysis, data management, and scientific writing., *Dartmouth College, Geisel School of Medicine, Epidemiology Department. 1 Medical Center Drive, Williamson Translational Research Building, Lebanon, NH, 03756, US* (from 2018 to 2021).
+
+
+
+8.Applying ICP-MS to speciation and quantitative analysis of arsenic in foodstuffs and beverages., *Webinar organised by Thermo Fisher Scientific* (2016).
+
+
+
+9.Co-supervise and mentor PhD students. Laboratory equipment and chemical analysis., *Queen’s University Belfast, Institute of Global Food Security. 19 Chlorine Gardens, Belfast BT9 5DL, NI, UK* (from 2014 to 2016).
+
+
+
+10.Train and supervise the personnel involved in research projects, *Doscadesa, 15 Calle Ricote, Molina de Segura, 30500, Murcia, ES* (from 2013 to 2014).
+
+
+
+11.Train and supervise the personnel involved in research projects, *Imasde Agroalimentaria, 3 Calle Nápoles, Pozuelo de Alarcón, 28224, Madrid, ES* (from 2011 to 2013).
+
+
+
+12.Supervise and mentor graduate and master students, assistant instructor for senior/graduate-level courses., *University of Miguel Hernández, Food Technology Department, Carretera de Beniel, km 3.2, 03312, Orihuela, ES* (from 2005 to 2009).
+
+## 7. Conferences & seminars
 
 1.L. Notario Barandiaran, R. Soler Blasco, G. Riutort Mayol, A. Irizar, M. Begoña Zubero, M. Vrijheid, J. Vioque, A. Meharg, M. Carey, M. Casas, A. Tardón, A. Fernández Somoano, C. McCreanor, K. Ralphs and A. J. Signes Pastor, Adherence to mediterranean diet and metal exposure during childhood in the INMA study (poster), *ISEE, Athens, Greece* (18-21 September 2022).
 
@@ -614,7 +663,7 @@
 
 59.A. J. Signes-Pastor, F. Burló, R. Poquet, A. Miquel and A. A. Carbonell-Barrachina, Papel de la miel en el aroma del turrón de alicante (oral), *IV Jornada de Investigación en ciencia e ingenierı́a de los Alimentos. Valencia, Spain.* (2004).
 
-## 7. Service activities
+## 8. Service activities
 
 ### Editorial board
 
