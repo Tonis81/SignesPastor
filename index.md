@@ -261,59 +261,59 @@
 
 ## 4. Research projects (Academia)
 
-1.F. Hernández Garcı́a, A. J. Signes-Pastor and et. al., Estrategies hidroSOStenibles en frutales de hueso: Caso a estudio el albaricoque; AGROALNEXT/2022/040, *Generalitat Valenciana - Conselleria de Innovación, Universidades, Ciencia y Sociedad Digital-Funded by European Commission - Next Generation EU* **227999.00 € (AGROALNEXT/ 2022/040)** (From 22/04/2022 to 21/04/2025) Role: Principal Investigator at Universidad Miguel Hernández, ES.
+1.F. Hernández Garcı́a, A. J. Signes-Pastor and et. al., Estrategies hidroSOStenibles en frutales de hueso: Caso a estudio el albaricoque; AGROALNEXT/2022/040, *Generalitat Valenciana - Conselleria de Innovación, Universidades, Ciencia y Sociedad Digital-Funded by European Commission - Next Generation EU* **227999.00 € (AGROALNEXT/ 2022/040)** (from 22/04/2022 to 21/04/2025) Role: Principal Investigator and Work Package Leader at Miguel Hernández University, ES.
 
 
 
-2.E. Sendra, A. J. Signes-Pastor and et. al., Exposición al arsénico y otros metales en subpoblaciones vulnerables a sus efectos tóxicos (infantes y grupos con necesidades dietéticas especiales) y estrategias para reducir su ingesta a través de los alimentos., *Subvenciones para la contratación de personas Jóvenes demandantes de empleo en la realización de iniciativas de investigación e innovación en la Comunitat Valenciana Programa INVESTIGO 2022* **132435.68 € (INVEST/2022/433)** (From 01/11/2022 to 30/10/2024) Role: Principal Investigator at Universidad Miguel Hernández, ES.
+2.E. Sendra, A. J. Signes-Pastor and et. al., Exposición al arsénico y otros metales en subpoblaciones vulnerables a sus efectos tóxicos (infantes y grupos con necesidades dietéticas especiales) y estrategias para reducir su ingesta a través de los alimentos., *Subvenciones para la contratación de personas Jóvenes demandantes de empleo en la realización de iniciativas de investigación e innovación en la Comunitat Valenciana Programa INVESTIGO 2022* **132435.68 € (INVEST/2022/433)** (from 01/11/2022 to 30/10/2024) Role: Principal Investigator at Miguel Hernández University, ES.
 
 
 
-3.E. Sendra, A. J. Signes-Pastor and et. al., Percepción de la sostenibilidad y calidad de la acuicultura. Calidad y seguridad de pescados alimentados con proteı́nas alternativas (QualyFishPro), *Conselleria de Innovación, Universidades, Ciencia y Sociedad Digital-Funded by European Commission - Next Generation* **234173.07 € (GVA-THINKINAZUL/2021/019) + 205267.15 € (GVA-THINKINAZUL/2021/002)** (From 24/06/2022 to 25/09/2025) Role: Researcher at Universidad Miguel Hernández, ES.
+3.E. Sendra, A. J. Signes-Pastor and et. al., Percepción de la sostenibilidad y calidad de la acuicultura. Calidad y seguridad de pescados alimentados con proteı́nas alternativas (QualyFishPro), *Conselleria de Innovación, Universidades, Ciencia y Sociedad Digital-Funded by European Commission - Next Generation* **234173.07 € (GVA-THINKINAZUL/2021/019) + 205267.15 € (GVA-THINKINAZUL/2021/002)** (from 24/06/2022 to 25/09/2025) Role: Researcher at Miguel Hernández University, ES.
 
 
 
-4.A. J. Signes-Pastor, Exposición al arsénico en presencia de otros metales, metabolismo y efectos sobre la salud en la infancia y adolescencia (ARSENCIA), *Conselleria de Innovación, Universidades, Ciencia y Sociedad Digital - CIDEGENT 2020 PLAN GENT* **410000 € (CIDEGENT/2020/050)** (From 01/04/2021 to 31/03/2025) Role: Principal Investigator at Universidad Miguel Hernández, ES.
+4.A. J. Signes-Pastor, Exposición al arsénico en presencia de otros metales, metabolismo y efectos sobre la salud en la infancia y adolescencia (ARSENCIA), *Conselleria de Innovación, Universidades, Ciencia y Sociedad Digital - CIDEGENT 2020 PLAN GENT* **410000 € (CIDEGENT/2020/050)** (from 01/04/2021 to 31/03/2025) Role: Principal Investigator at Miguel Hernández University, ES.
 
 
 
-5.M. R. Karagas, A. J. Signes-Pastor and et. al., External use case: Data harmonization across SRP pregnancy and birth cohorts, *Superfund Reseach Program, National Institute of Environmental Health Science* **150000 USD (P01ES022832 & P42ES007373)** (From 01/07/2019 to 31/03/2020) Role: Reseacher at Darmouth College, US.
+5.M. R. Karagas, A. J. Signes-Pastor and et. al., External use case: Data harmonization across SRP pregnancy and birth cohorts, *Superfund Reseach Program, National Institute of Environmental Health Science* **150000 USD (P01ES022832 & P42ES007373)** (from 01/07/2019 to 31/03/2020) Role: Reseacher at Darmouth College, US.
 
 
 
-6.C. Chen, A. J. Signes-Pastor and et. al., Sources of protected effects of early life exposure to arsenic and mercury. National institute of environmental health sciences, *Superfund Reseach Program, National Institute of Environmental Health Science* **P42ES007373** (From 10/10/2016 to 30/03/2021) Role: Reseacher at Darmouth College, US.
+6.C. Chen, A. J. Signes-Pastor and et. al., Sources of protected effects of early life exposure to arsenic and mercury. National institute of environmental health sciences, *Superfund Reseach Program, National Institute of Environmental Health Science* **P42ES007373** (from 10/10/2016 to 30/03/2021) Role: Reseacher at Darmouth College, US.
 
 
 
-7.M. R. Karagas, A. J. Signes-Pastor and et. al., Center children’s environmental health and disease prevention., *US Environmental Protection Agency (US EPA) and National Institute of Environmental Health Sciences (NIEHS)* **RD 83544201 and P01ES022832** (From 10/10/2016 to 30/03/2021) Role: Reseacher at Darmouth College, US.
+7.M. R. Karagas, A. J. Signes-Pastor and et. al., Center children’s environmental health and disease prevention., *US Environmental Protection Agency (US EPA) and National Institute of Environmental Health Sciences (NIEHS)* **RD 83544201 and P01ES022832** (from 10/10/2016 to 30/03/2021) Role: Reseacher at Darmouth College, US.
 
 
 
-8.A. J. Signes-Pastor, Inorganic arsenic exposure and respiratory outcomes during childhood., *INfancia y Medio Ambiente (INMA)* **191110-1** (From 01/01/2019 to 01/10/2022) Role: Principal Investigator at Dartmouth College, US and Universidad Miguel Hernández, ES.
+8.A. J. Signes-Pastor, Inorganic arsenic exposure and respiratory outcomes during childhood., *INfancia y Medio Ambiente (INMA)* **191110-1** (from 01/01/2019 to 01/10/2022) Role: Principal Investigator at Dartmouth College, US and Universidad Miguel Hernández, ES.
 
 
 
-9.A. J. Signes-Pastor, Urinary arsenic speciation in children from spain., *INfancia y Medio Ambiente (INMA)* **150114-1** (From 14/06/2015 to 01/12/2019) Role: Principal Investigator at Dartmouth College, US and Queen’s University of Belfast, UK.
+9.A. J. Signes-Pastor, Urinary arsenic speciation in children from spain., *INfancia y Medio Ambiente (INMA)* **150114-1** (from 14/06/2015 to 01/12/2019) Role: Principal Investigator at Dartmouth College, US and Queen’s University of Belfast, UK.
 
 
 
-10.A. J. Signes-Pastor, Risk assessment of inorganic arsenic in EU rice-based infant products and strategies to reduce exposure, *FP7-PEOPLE-2013-IEF - Marie-Curie Action: "Intra-European fellowships for career development"* **221606.40 € (PIEF-GA-2013-622096)** (From 01/04/2016 to 31/03/2016) Role: Principal Investigator at Queen’s University Belfast, UK.
+10.A. J. Signes-Pastor, Risk assessment of inorganic arsenic in EU rice-based infant products and strategies to reduce exposure, *FP7-PEOPLE-2013-IEF - Marie-Curie Action: "Intra-European fellowships for career development"* **221606.40 € (PIEF-GA-2013-622096)** (from 01/04/2016 to 31/03/2016) Role: Principal Investigator at Queen’s University Belfast, UK.
 
 
 
-11.A. J. Signes-Pastor, Regulation of fatty acid metabolism in meat poultry for the achievement of healthier fat., *INNCORPORA-Torres Quevedo* **120321.00 € (PTQ-11-0.4383)** (From 23/09/2011 to 01/09/2013) Role: Principal Investigator at Imasde Agroalimentaria S.L.
+11.A. J. Signes-Pastor, Regulation of fatty acid metabolism in meat poultry for the achievement of healthier fat., *INNCORPORA-Torres Quevedo* **120321.00 € (PTQ-11-0.4383)** (from 23/09/2011 to 01/09/2013) Role: Principal Investigator at Imasde Agroalimentaria S.L.
 
 
 
-12.D. Polya, I. Parvez, A. J. Signes-Pastor and et. al., Geogenic chemicals in groundwater and soils: A research training network (AquaTRAIN), *European Commission Sixth Framework Programme (2002-2006), Marie Curie Actions – Human Resources and Mobility Activity Area, Research Training Networks* **MRTN-CT-2006-0355420** (From 01/04/2009 to 30/11/2010) Role: Reseacher at DeMontfort University, UK.
+12.D. Polya, I. Parvez, A. J. Signes-Pastor and et. al., Geogenic chemicals in groundwater and soils: A research training network (AquaTRAIN), *European Commission Sixth Framework Programme (2002-2006), Marie Curie Actions – Human Resources and Mobility Activity Area, Research Training Networks* **MRTN-CT-2006-0355420** (from 01/04/2009 to 30/11/2010) Role: Reseacher at DeMontfort University, UK.
 
 
 
-13.A. J. Signes-Pastor, Human exposure to arsenic and methods for reducing it through the food chain in west bengal, india, *CAM – Programa de Ayudas a la Investigación* **48000€ (CAM2005)** (From 01/09/2006 to 01/04/2009) Role: Principal Investigator at Universidad Miguel Hernández, ES.
+13.A. J. Signes-Pastor, Human exposure to arsenic and methods for reducing it through the food chain in west bengal, india, *CAM – Programa de Ayudas a la Investigación* **48000€ (CAM2005)** (from 01/09/2006 to 01/04/2009) Role: Principal Investigator at Miguel Hernández University, ES.
 
 
 
-14.A. A. Carbonell-Barrachina, A. J. Signes-Pastor and et. al., Development of a low-cost technology for in-situ treatment of groundwater for potable and irrigation purposes (TIPOT), *Asia Pro-Eco/ EuropeAid* **ASI/B7-301/2598/24-2004/79013** (From 01/07/2004 to 01/01/2007) Role: Researcher at Universidad Miguel Hernández, ES.
+14.A. A. Carbonell-Barrachina, A. J. Signes-Pastor and et. al., Development of a low-cost technology for in-situ treatment of groundwater for potable and irrigation purposes (TIPOT), *Asia Pro-Eco/ EuropeAid* **ASI/B7-301/2598/24-2004/79013** (from 01/07/2004 to 01/01/2007) Role: Researcher at Miguel Hernández University, ES.
 
 ## 5. Research projects (Industry)
 
