@@ -7,8 +7,9 @@
 5. Research projects (Industry)
 6. Teaching
 7. Scientific book chapters
-8. Conferences & Seminars
-9. Service activities
+8. Other publications
+9. Conferences & Seminars
+10. Service activities
 
 # **CV Signes-Pastor, A.J.**
 
@@ -254,7 +255,23 @@
 
 9.A. J. Signes Pastor, K. Mitra, F. Burlo and A. A. Carbonell-Barrachina, Alternative farming practices: Crop selection and rotation to reduce health risk and maximise farm revenues. Low cost technology for in-situ treatment of groundwater. ISBN 9780230636392, *McMillan India Ltd.* (2008) 104–112.
 
-## 8. Conferences & seminars
+## 8. Other publications
+
+1.A. J. Signes Pastor, J. Vioque-Lopez, M. F. Guill, J. Madan, E. Baker, B. P. Jackson and M. R. Karagas, Prenatal exposure to metal mixtures and lung function in children from the new hampshire birth cohort study (ISEE conference abstract) https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.p-105, *Environ Health Perspect* (2021).
+
+2.A. J. Signes Pastor, B. P. Jackson, K. L. Cottingham and M. R. Karagas, Dietary exposure to metal mixtures throughout infants’ first year of life in the new hampshire birth cohort study (ISEE conference abstract) https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.p-159, *Environ Health Perspect* (2021).
+
+3.A. Gossai, A. J. Signes Pastor, M. S. Zens, J. Seigne and M. R. Karagas, Rice consumption and incidence of bladder cancer in a united states population (ISEE conference abstract) https://ehp.niehs.nih.gov/doi/10.1289/isesisee.2018.P02.2990, *Environ Health Perspect* (2018).
+
+4.L. Vázquez-Araújo, A. J. Signes Pastor, F. Burlo, F. Martinez-Sanchez and A. A. Carbonell-Barrachina, El arsénico como ingrediente de piensos animales, *Alimentación* **239** (2009) 33–37.
+
+5.A. J. Andreu-Sevilla, A. J. Signes Pastor and A. A. Carbonell-Barrachina, La granada y su zumo, producción, composición y propiedades beneficiosas para la salud, *Alimentación equipos y tecnologı́a* **234** (2008) 36–40.
+
+6.A. J. Signes Pastor, F. Burlo and A. A. Carbonell-Barrachina, El mayor envenenamiento de la historia. Convivencia crónica de la población de bengala occidental (india) con el arsenic, *Alimentaria* **226** (2007) 50–54.
+
+7.F. Burlo, A. J. Signes Pastor and A. A. Carbonell-Barrachina, Revisión: Fuentes y causas tecnológicas de la presencia de arsénico en golosinas, *Alimentación equipos y tecnologı́a* (2005) 41–44.
+
+## 9. Conferences & seminars
 
 1.L. Notario Barandiaran, R. Soler Blasco, G. Riutort Mayol, A. Irizar, M. Begoña Zubero, M. Vrijheid, J. Vioque, A. Meharg, M. Carey, M. Casas, A. Tardón, A. Fernández Somoano, C. McCreanor, K. Ralphs and A. J. Signes Pastor, Adherence to mediterranean diet and metal exposure during childhood in the INMA study (poster), *ISEE, Athens, Greece* (18-21 September 2022).
 
@@ -374,7 +391,7 @@
 
 59.A. J. Signes-Pastor, F. Burló, R. Poquet, A. Miquel and A. A. Carbonell-Barrachina, Papel de la miel en el aroma del turrón de alicante (oral), *IV Jornada de Investigación en ciencia e ingenierı́a de los Alimentos. Valencia, Spain.* (2004).
 
-## 9. Service activities
+## 10. Service activities
 
 ### Editorial board
 
