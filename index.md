@@ -225,7 +225,7 @@
 
 
 
-13.A. J. Signes-Pastor, Effect of partial substitution of zn, mn and cu by inorganic chelates, and their interaction with farm size (Agrocesa) **600000 aprox. (IDI-2012-25517-a)** (from 01/01/2011 to 31/12/2012) Role: Project Manager at Imasde Agroalimentaria S.L.
+13.A. J. Signes-Pastor, Effect of partial substitution of Zn, Mn and Cu by inorganic chelates, and their interaction with farm size (Agrocesa) **600000 aprox. (IDI-2012-25517-a)** (from 01/01/2011 to 31/12/2012) Role: Project Manager at Imasde Agroalimentaria S.L.
 
 
 
