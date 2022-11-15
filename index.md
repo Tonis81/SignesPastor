@@ -547,3 +547,11 @@ Exposure & Health; Journal of Food Quality; Environmental Health Perspective; To
 
 Science of the Total Environment; JAMA Pediatrics; Journal of Food Science; Environmental Science and Pollution Research; Food Chemistry; Exposure & Health; Environmental Health and Perspective; Environmental Research; Food and Chemical Toxicology; International Journal of Hygiene and Environmental Health; Scientific Reports; Journal of Food Quality; Cancer Causes & Control.
 
+# 11. Doctoral thesis
+
+1.L. C. Carrera Beltran, Director: Irene del Carmen Gavilanes Teran; codirector: Antonio j. Signes-Pastor (2022 - on going).
+
+
+
+2.N. Jimenez Redondo, Director: Esther Sendra Nadal; codirector: Antonio J. Signes-Pastor (2022 - on going).
+
