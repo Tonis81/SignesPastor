@@ -674,9 +674,13 @@ Science of the Total Environment; JAMA Pediatrics; Journal of Food Science; Envi
 
 ## 11. Doctoral thesis
 
-1.L. C. Carrera Beltran, Director: Irene del Carmen Gavilanes Teran; codirector: Antonio j. Signes-Pastor (2022 - on going).
+1.L. C. Carrera Beltran, Director: Irene del Carmen Gavilanes Teran; Codirector: Antonio j. Signes-Pastor (2022 - on going).
 
 
 
-2.N. Jimenez Redondo, Director: Esther Sendra Nadal; codirector: Antonio J. Signes-Pastor (2022 - on going).
+2.N. Jimenez Redondo, Director: Esther Sendra Nadal; Codirector: Antonio J. Signes-Pastor (2022 - on going).
+
+
+
+3.B. Serrano Alarcon, Director: Luis Noguera Artiaga; Codirector: Antonio j. Signes-Pastor (2022 - on going).
 
