@@ -428,7 +428,7 @@
 
 ## 9. Conferences & seminars
 
-1.A. J. Signes Pastor and A. A. Carbonell-Barrachina, Fuentes de contaminación por arsénico inorgánico ¿estamos en un riesgo mayor si somos vegetarianos?¿y si vivimos en riobamba? Fuentes de contaminación por arsénico inorgánico ¿estamos en un riesgo mayor si somos vegetarianos?¿y si vivimos en riobamba? Fuentes de contaminación por arsénico inorgánico ¿estamos en un riesgo mayor si somos vegetarianos? ¿Y si vivimos en riobamba? (invited speaker), *II Congreso Internacional Bioquı́mica, Ambiente, Quimica y Alimentos* (16-18 November 2022).
+1.A. J. Signes Pastor and A. A. Carbonell-Barrachina, Fuentes de contaminación por arsénico inorgánico ¿estamos en un riesgo mayor si somos vegetarianos?¿y si vivimos en riobamba? (invited speaker), *II Congreso Internacional Bioquı́mica, Ambiente, Quimica y Alimentos*, Ecuador (16-18 November 2022).
 
 
 
