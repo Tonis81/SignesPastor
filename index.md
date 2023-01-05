@@ -706,6 +706,12 @@ Exposure & Health; Journal of Food Quality; Environmental Health Perspective; Jo
 
 Science of the Total Environment; JAMA Pediatrics; Journal of Food Science; Environmental Science and Pollution Research; Food Chemistry; Exposure & Health; Environmental Health and Perspective; Environmental Research; Food and Chemical Toxicology; International Journal of Hygiene and Environmental Health; Scientific Reports; Journal of Food Quality; Cancer Causes & Control.
 
+## Evaluator board
+
+Premis a projectes d'investigació de joves estudiants de la Comunitat Valenciana - SAPIÈNCIA 2022.  Red de Universidades Valencianas para el fomento de la I+D+i (Ruvid) - https://sapienciapremis.es/
+
+Call medical reseach funding "VIII Convocatoria" ISABIAL 2021.
+
 ## 11. Doctoral thesis
 
 1.L. C. Carrera Beltran, Director: Irene del Carmen Gavilanes Teran; Codirector: Antonio j. Signes-Pastor (2022 - on going).
