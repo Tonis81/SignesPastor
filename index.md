@@ -40,7 +40,7 @@
 
 ## 2. JCR publications
 
-1.Accepted for publication (29 Dic. 2022), Carbon dioxide (CO2) emissions and adherence to mediterranean diet in an adult population: The mediterranean diet index as a pollution level index, *Environmental Health* (2022).
+1.S. Garcı́a, C. Bouzas, D. Mateos, R. Pastor, L. Álvarez, M. Rubı́n, M. Á. Martı́nez-González, J. Salas-Salvadó, D. Corella, A. Goday, J. A. Martı́nez, Á. M. Alonso-Gómez, J. Wärnberg, J. Vioque, D. Romaguera, J. Lopez-Miranda, R. Estruch, F. J. Tinahones, et al., Carbon dioxide (CO2) emissions and adherence to mediterranean diet in an adult population: The mediterranean diet index as a pollution level index, *Environmental Health* **22** (2023) 1.; DOI:[10.1186/s12940-022-00956-7](https://doi.org/10.1186/s12940-022-00956-7)
 
 
 
