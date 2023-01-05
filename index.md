@@ -670,7 +670,7 @@
 
 ### Editorial board
 
-Exposure & Health; Journal of Food Quality; Environmental Health Perspective; Toxics (Special Issue Editor)
+Exposure & Health; Journal of Food Quality; Environmental Health Perspective; Journal of Food Biochemistry; Toxics (Special Issue Editor)
 
 ### Ad-Hoc Manuscript Reviewer
 
