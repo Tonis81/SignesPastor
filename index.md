@@ -708,7 +708,9 @@ Science of the Total Environment; JAMA Pediatrics; Journal of Food Science; Envi
 
 ### Evaluator board
 
-Abstract reviewer  for the 34th Annual Conference of International Society for Enviromental Epidemiology (Athens, 18-21 September 2022) - https://isee2022.org/
+Abstract reviewer for ICES2023 - International Conference and Exhibition for Science (Riyad, Saudy Arabia, February 6-8, 2023) - https://www.performer2023.ices-ksa.org/
+
+Abstract reviewer for the 34th Annual Conference of International Society for Enviromental Epidemiology (Athens, 18-21 September 2022) - https://isee2022.org/
 
 Premis a projectes d'investigació de joves estudiants de la Comunitat Valenciana - SAPIÈNCIA 2022.  Red de Universidades Valencianas para el fomento de la I+D+i (Ruvid) - https://sapienciapremis.es/
 
