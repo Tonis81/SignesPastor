@@ -442,19 +442,43 @@
 
 ## 8. Other publications
 
-1.A. J. Signes Pastor, J. Vioque-Lopez, M. F. Guill, J. Madan, E. Baker, B. P. Jackson and M. R. Karagas, Prenatal exposure to metal mixtures and lung function in children from the new hampshire birth cohort study (ISEE conference abstract) https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.p-105, *Environ Health Perspect* (2021).
+1.A. J. Signes Pastor, S. Dı́az Coto, P. Martinez-Camblor, M. Carey, R. Soler-Blasco, M. Garcı́a-Villarino, A. Fernández-Somoano, J. Julvez, P. Carrasco, A. Lertxundi, L. Santa Marina, M. Casas, A. A. Meharg, M. R. Karagas and J. Vioque-Lopez, Arsenic exposure and respiratory outcomes during childhood in the INMA study (ISEE conference abstract) https://ehp.niehs.nih.gov/doi/10.1289/isee.2022.p-0461, *Environ Health Perspect* (2022).
 
-2.A. J. Signes Pastor, B. P. Jackson, K. L. Cottingham and M. R. Karagas, Dietary exposure to metal mixtures throughout infants’ first year of life in the new hampshire birth cohort study (ISEE conference abstract) https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.p-159, *Environ Health Perspect* (2021).
 
-3.A. Gossai, A. J. Signes Pastor, M. S. Zens, J. Seigne and M. R. Karagas, Rice consumption and incidence of bladder cancer in a united states population (ISEE conference abstract) https://ehp.niehs.nih.gov/doi/10.1289/isesisee.2018.P02.2990, *Environ Health Perspect* (2018).
 
-4.L. Vázquez-Araújo, A. J. Signes Pastor, F. Burlo, F. Martinez-Sanchez and A. A. Carbonell-Barrachina, El arsénico como ingrediente de piensos animales, *Alimentación* **239** (2009) 33–37.
+2.L. Notario, R. Soler, G. Riutort, J. Ibarluzea, L. Santa-Marina, M. Vrijheid, J. Vioque, A. A. Meharg, M. Carey, M. Casas, A. Tardón, A. Fernández-Somoano and A. J. Signes Pastor, Adherence to mediterranean diet and metal exposure during childhood in the INMA study (ISEE conference abstract) https://ehp.niehs.nih.gov/doi/10.1289/isee.2022.p-0507, *Environ Health Perspect* (2022).
 
-5.A. J. Andreu-Sevilla, A. J. Signes Pastor and A. A. Carbonell-Barrachina, La granada y su zumo, producción, composición y propiedades beneficiosas para la salud, *Alimentación equipos y tecnologı́a* **234** (2008) 36–40.
 
-6.A. J. Signes Pastor, F. Burlo and A. A. Carbonell-Barrachina, El mayor envenenamiento de la historia. Convivencia crónica de la población de bengala occidental (india) con el arsenic, *Alimentaria* **226** (2007) 50–54.
 
-7.F. Burlo, A. J. Signes Pastor and A. A. Carbonell-Barrachina, Revisión: Fuentes y causas tecnológicas de la presencia de arsénico en golosinas, *Alimentación equipos y tecnologı́a* (2005) 41–44.
+3.A. J. Signes Pastor, M. E. Romano, B. P. Jackson, B. J. M., K. Yolton, A. Chen, B. Lanphear and M. R. Karagas, Associations of maternal urinary arsenic concentrations during pregnancy with infant and child mental, psychomotor, and cognitive development: The HOME study (ISEE conference abstract) https://ehp.niehs.nih.gov/doi/10.1289/isee.2022.p-0465, *Environ Health Perspect* (2022).
+
+
+
+4.A. J. Signes Pastor, J. Vioque-Lopez, M. F. Guill, J. Madan, E. Baker, B. P. Jackson and M. R. Karagas, Prenatal exposure to metal mixtures and lung function in children from the new hampshire birth cohort study (ISEE conference abstract) https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.p-105, *Environ Health Perspect* (2021).
+
+
+
+5.A. J. Signes Pastor, B. P. Jackson, K. L. Cottingham and M. R. Karagas, Dietary exposure to metal mixtures throughout infants’ first year of life in the new hampshire birth cohort study (ISEE conference abstract) https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.p-159, *Environ Health Perspect* (2021).
+
+
+
+6.A. Gossai, A. J. Signes Pastor, M. S. Zens, J. Seigne and M. R. Karagas, Rice consumption and incidence of bladder cancer in a united states population (ISEE conference abstract) https://ehp.niehs.nih.gov/doi/10.1289/isesisee.2018.P02.2990, *Environ Health Perspect* (2018).
+
+
+
+7.L. Vázquez-Araújo, A. J. Signes Pastor, F. Burlo, F. Martinez-Sanchez and A. A. Carbonell-Barrachina, El arsénico como ingrediente de piensos animales, *Alimentación* **239** (2009) 33–37.
+
+
+
+8.A. J. Andreu-Sevilla, A. J. Signes Pastor and A. A. Carbonell-Barrachina, La granada y su zumo, producción, composición y propiedades beneficiosas para la salud, *Alimentación equipos y tecnologı́a* **234** (2008) 36–40.
+
+
+
+9.A. J. Signes Pastor, F. Burlo and A. A. Carbonell-Barrachina, El mayor envenenamiento de la historia. Convivencia crónica de la población de bengala occidental (india) con el arsenic, *Alimentaria* **226** (2007) 50–54.
+
+
+
+10.F. Burlo, A. J. Signes Pastor and A. A. Carbonell-Barrachina, Revisión: Fuentes y causas tecnológicas de la presencia de arsénico en golosinas, *Alimentación equipos y tecnologı́a* (2005) 41–44.
 
 ## 9. Conferences & seminars
 
