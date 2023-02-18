@@ -482,251 +482,255 @@
 
 ## 9. Conferences & seminars
 
-1.A. J. Signes-Pastor, S. Dı́az-Coto, P. Martinez-Camblor, N. Jimenez-Redondo, M. Guxens, M. Vrijheid, A. Andiarena, A. Irizar, I. Riaño-Galan, A. Fernández-Somoano, S. Llop, M. Lozano, M. R. Karagas and J. Vioque, Exposure to metal mixtures and neurodevelopmental outcomes in 4–5-year-old children living in spain (poster presentation), *18th INMA Cientific Conference* (2023).
+1.A. J. Signes Pastor, Chronic arsenic exposure (invited speaker), *CRIB Seminar - University of the West of England* (17 February 2023).
 
 
 
-2.L. Notario-Barandiaran, A. Irizar, M. Begoña-Zubero, R. Soler-Blasco, G. Riutort Mayol, A. Fernández Somoano, A. Tardón, M. Casas, M. Vrijheid, A. Meharg, M. Carey, C. Meharg, K. Ralphs, C. McCreanor, J. O. Grimalt, J. Vioque and A. J. Signes-Pastor, Association between mediterranean diet and metal exposure in 4-5-year-old children living in spain (poster presentation), *18th INMA Cientific Conference* (2023).
+2.A. J. Signes-Pastor, S. Dı́az-Coto, P. Martinez-Camblor, N. Jimenez-Redondo, M. Guxens, M. Vrijheid, A. Andiarena, A. Irizar, I. Riaño-Galan, A. Fernández-Somoano, S. Llop, M. Lozano, M. R. Karagas and J. Vioque, Exposure to metal mixtures and neurodevelopmental outcomes in 4–5-year-old children living in spain (poster presentation), *18th INMA Cientific Conference* (2023).
 
 
 
-3.A. J. Signes Pastor and A. A. Carbonell-Barrachina, Fuentes de contaminación por arsénico inorgánico ¿estamos en un riesgo mayor si somos vegetarianos?¿y si vivimos en riobamba? (Invited speaker), *II Congreso Internacional Bioquı́mica, Ambiente, Quimica y Alimentos. Ecuador* (16-18 November 2022).
+3.L. Notario-Barandiaran, A. Irizar, M. Begoña-Zubero, R. Soler-Blasco, G. Riutort Mayol, A. Fernández Somoano, A. Tardón, M. Casas, M. Vrijheid, A. Meharg, M. Carey, C. Meharg, K. Ralphs, C. McCreanor, J. O. Grimalt, J. Vioque and A. J. Signes-Pastor, Association between mediterranean diet and metal exposure in 4-5-year-old children living in spain (poster presentation), *18th INMA Cientific Conference* (2023).
 
 
 
-4.L. Notario Barandiaran, R. Soler Blasco, G. Riutort Mayol, A. Irizar, M. Begoña Zubero, M. Vrijheid, J. Vioque, A. Meharg, M. Carey, M. Casas, A. Tardón, A. Fernández Somoano, C. McCreanor, K. Ralphs and A. J. Signes Pastor, Adherence to mediterranean diet and metal exposure during childhood in the INMA study (poster), *ISEE, Athens, Greece* (18-21 September 2022).
+4.A. J. Signes Pastor and A. A. Carbonell-Barrachina, Fuentes de contaminación por arsénico inorgánico ¿estamos en un riesgo mayor si somos vegetarianos?¿y si vivimos en riobamba? (Invited speaker), *II Congreso Internacional Bioquı́mica, Ambiente, Quimica y Alimentos. Ecuador* (16-18 November 2022).
 
 
 
-5.A. J. Signes-Pastor, S. Dı́az-Coto, P. Martinez-Camblor, M. Carey, R. Soler-Blasco, M. Garcı́a- Villarino, A. Fernández-Somoano, J. Julvez, P. Carrasco, A. Lertxundi, L. Santa Marina, M. Casas, A. Meharg, M. R. Karagas and J. Vioque-Lopez, Arsenic exposure and respiratory outcomes during childhood in the INMA study (poster discussion), *ISEE, Athens, Greece* (18-21 September 2022).
+5.L. Notario Barandiaran, R. Soler Blasco, G. Riutort Mayol, A. Irizar, M. Begoña Zubero, M. Vrijheid, J. Vioque, A. Meharg, M. Carey, M. Casas, A. Tardón, A. Fernández Somoano, C. McCreanor, K. Ralphs and A. J. Signes Pastor, Adherence to mediterranean diet and metal exposure during childhood in the INMA study (poster), *ISEE, Athens, Greece* (18-21 September 2022).
 
 
 
-6.A. J. Signes-Pastor, M. E. Romano, B. Jackson, J. M. Braun, K. Yolton, A. Chen, B. Lanphear and M. R. Karagas, Associations of maternal urinary arsenic concentrations during pregnancy with childhood cognitive abilities: The HOME study (poster), *ISEE, Athens, Greece* (18-21 September 2022).
+6.A. J. Signes-Pastor, S. Dı́az-Coto, P. Martinez-Camblor, M. Carey, R. Soler-Blasco, M. Garcı́a- Villarino, A. Fernández-Somoano, J. Julvez, P. Carrasco, A. Lertxundi, L. Santa Marina, M. Casas, A. Meharg, M. R. Karagas and J. Vioque-Lopez, Arsenic exposure and respiratory outcomes during childhood in the INMA study (poster discussion), *ISEE, Athens, Greece* (18-21 September 2022).
 
 
 
-7.L. Torres Collado, L. Notario Barandiaran, M. Garcı́a de la Hera, L. Marı́a Compañ Gabucio, A. Oncina Cánovas, S. González Palacios, A. J. Signes Pastor and J. Vioque, Estrés autopercibido y su relación con el desarrollo de cáncer de esófago, estómago y páncreas. Estudio de casos y controles en españa (oral), *XL Reunión Anual de la Sociedad Española de Epidemiologı́a (SEE). Donostia San Sebastián, Spain* (30-31 August & 1-2 September 2022).
+7.A. J. Signes-Pastor, M. E. Romano, B. Jackson, J. M. Braun, K. Yolton, A. Chen, B. Lanphear and M. R. Karagas, Associations of maternal urinary arsenic concentrations during pregnancy with childhood cognitive abilities: The HOME study (poster), *ISEE, Athens, Greece* (18-21 September 2022).
 
 
 
-8.L. Notario Barandiaran, L. Compañ Gabucio, L. Torres Collado, A. Oncina Cánovas, S. González Palacios, M. Garcı́a de la Hera, A. J. Signes Pastor and J. Vioque, Índices de calidad de dieta y riesgo de cáncer de esófago, estómago y páncreas: Un estudio multi caso-control en españa (oral), *XL Reunión Anual de la Sociedad Española de Epidemiologı́a (SEE). Donostia San Sebastián, Spain.* (30-31 August & 1-2 September 2022).
+8.L. Torres Collado, L. Notario Barandiaran, M. Garcı́a de la Hera, L. Marı́a Compañ Gabucio, A. Oncina Cánovas, S. González Palacios, A. J. Signes Pastor and J. Vioque, Estrés autopercibido y su relación con el desarrollo de cáncer de esófago, estómago y páncreas. Estudio de casos y controles en españa (oral), *XL Reunión Anual de la Sociedad Española de Epidemiologı́a (SEE). Donostia San Sebastián, Spain* (30-31 August & 1-2 September 2022).
 
 
 
-9.L. Marı́a Compañ Gabucio, L. Torres Collado, L. Vioque Garcı́a, A. Oncina Cánovas, L. Notario Barandiaran, S. González Palacios, A. J. Signes Pastor, J. Vioque and M. Garcı́a de la Hera, Herramienta de anticipación a situaciones nuevas para familias de niños/as con trastorno del espectro autista: Anticipa-TEA, *XL Reunión Anual de la Sociedad Española de Epidemiologı́a (SEE). Donostia San Sebastián, Spain (oral)* (30-31 August & 1-2 September 2022).
+9.L. Notario Barandiaran, L. Compañ Gabucio, L. Torres Collado, A. Oncina Cánovas, S. González Palacios, M. Garcı́a de la Hera, A. J. Signes Pastor and J. Vioque, Índices de calidad de dieta y riesgo de cáncer de esófago, estómago y páncreas: Un estudio multi caso-control en españa (oral), *XL Reunión Anual de la Sociedad Española de Epidemiologı́a (SEE). Donostia San Sebastián, Spain.* (30-31 August & 1-2 September 2022).
 
 
 
-10.A. Oncina-Cánovas, J. Vioque, L. Marı́a Compañ Gabucio, L. Torres-Collado, L. Notario Barandiaran, S. González Palacios, A. J. Signes Pastor and M. Garcı́a de la Hera, Cambios en estilos de vida y salud auto percibida asociados al confinamiento por la COVID -19 según sexo: Estudio exploratorio en una submuestra del proyecto PREDIMED-plus (oral), *XL Reunión Anual de la Sociedad Española de Epidemiologı́a (SEE). Donostia San Sebastián, Spain.* (30-31 August & 1-2 September 2022).
+10.L. Marı́a Compañ Gabucio, L. Torres Collado, L. Vioque Garcı́a, A. Oncina Cánovas, L. Notario Barandiaran, S. González Palacios, A. J. Signes Pastor, J. Vioque and M. Garcı́a de la Hera, Herramienta de anticipación a situaciones nuevas para familias de niños/as con trastorno del espectro autista: Anticipa-TEA, *XL Reunión Anual de la Sociedad Española de Epidemiologı́a (SEE). Donostia San Sebastián, Spain (oral)* (30-31 August & 1-2 September 2022).
 
 
 
-11.A. J. Signes-Pastor, V. Sayarath, B. Jackson, K. L. Cottingham, T. Punshon and M. R. Karagas, Dietary exposure to toxic and essential elements during infants’ first year of life in the new hampshire birth cohort study (poster), *Jornadas Cientı́ficas CIBERESP 2022, Granada, Spain* (31 March 2022).
+11.A. Oncina-Cánovas, J. Vioque, L. Marı́a Compañ Gabucio, L. Torres-Collado, L. Notario Barandiaran, S. González Palacios, A. J. Signes Pastor and M. Garcı́a de la Hera, Cambios en estilos de vida y salud auto percibida asociados al confinamiento por la COVID -19 según sexo: Estudio exploratorio en una submuestra del proyecto PREDIMED-plus (oral), *XL Reunión Anual de la Sociedad Española de Epidemiologı́a (SEE). Donostia San Sebastián, Spain.* (30-31 August & 1-2 September 2022).
 
 
 
-12.M. Garcı́a-Villarino, A. J. Signes-Pastor, M. R. Karagas, I. Riaño-Galán, C. Rodrı́guez-Dehli, E. Grimalt J. O.and Junqué, A. Fernández-Somoano and A. Tardón, Exposure to metal mixture and growth indicators at 4-5 years. A study in the INMA-asturias cohort (poster), *Jornadas Cientı́ficas CIBERESP 2022, Granada, Spain* (2022).
+12.A. J. Signes-Pastor, V. Sayarath, B. Jackson, K. L. Cottingham, T. Punshon and M. R. Karagas, Dietary exposure to toxic and essential elements during infants’ first year of life in the new hampshire birth cohort study (poster), *Jornadas Cientı́ficas CIBERESP 2022, Granada, Spain* (31 March 2022).
 
 
 
-13.A. J. Signes-Pastor, Mitos y realidades sobre la ingesta de asénico inorgánico (inaugural keynote speaker), *International Conference CUCCAL, Mexican society of safety and quality for food consumers (SOMEICCA), Mexico* (2021).
+13.M. Garcı́a-Villarino, A. J. Signes-Pastor, M. R. Karagas, I. Riaño-Galán, C. Rodrı́guez-Dehli, E. Grimalt J. O.and Junqué, A. Fernández-Somoano and A. Tardón, Exposure to metal mixture and growth indicators at 4-5 years. A study in the INMA-asturias cohort (poster), *Jornadas Cientı́ficas CIBERESP 2022, Granada, Spain* (2022).
 
 
 
-14.A. J. Signes-Pastor, S. Dı́az-Coto, P. Martinez-Camblor, M. Carey, R. Soler-Blasco, M. Garcı́a-Villarino, A. Fernández-Somoano, J. Julvez, P. Carrasco, A. Lertxundi, L. Santa Marina, M. Casas, A. A. Meharg, M. R. Karagas and J. Vioque-Lopez, Arsenic exposure and respiratory outcomes during childhood in the INMA study (poster), *17th INMA-Infancia y Medio Ambiente (Environment and Childhood project) Scientific Conferences. San Sebastián, Spain.* (23-24 November 2021.).
+14.A. J. Signes-Pastor, Mitos y realidades sobre la ingesta de asénico inorgánico (inaugural keynote speaker), *International Conference CUCCAL, Mexican society of safety and quality for food consumers (SOMEICCA), Mexico* (2021).
 
 
 
-15.A. J. Signes-Pastor, Global-scale arsenic pollution and its potential effects on children under 3 years of age (invited speaker), *The International Conference on Water, Energy, and Environment for Sustainability (IC-WEES), Islamabad, Karachi, Tashkent, Uzbekistan.* (27-29 October 2021).
+15.A. J. Signes-Pastor, S. Dı́az-Coto, P. Martinez-Camblor, M. Carey, R. Soler-Blasco, M. Garcı́a-Villarino, A. Fernández-Somoano, J. Julvez, P. Carrasco, A. Lertxundi, L. Santa Marina, M. Casas, A. A. Meharg, M. R. Karagas and J. Vioque-Lopez, Arsenic exposure and respiratory outcomes during childhood in the INMA study (poster), *17th INMA-Infancia y Medio Ambiente (Environment and Childhood project) Scientific Conferences. San Sebastián, Spain.* (23-24 November 2021.).
 
 
 
-16.A. J. Signes-Pastor, B. Jackson, K. L. Cottingham, T. Punshon and M. R. Karagas, Dietary exposure to metal mixtures throughout infants’ first year of life in the new hampshire birth cohort study (poster), *33rd Annual Conference of the International Society for Environmental Epidemiology (ISEE). Columbia University Mailman School of Public Health, New York, United States of America* (23-26 August 2021).
+16.A. J. Signes-Pastor, Global-scale arsenic pollution and its potential effects on children under 3 years of age (invited speaker), *The International Conference on Water, Energy, and Environment for Sustainability (IC-WEES), Islamabad, Karachi, Tashkent, Uzbekistan.* (27-29 October 2021).
 
 
 
-17.A. J. Signes-Pastor, M. Guill, J. Vioque, J. Madan, E. Baker, B. Jackson and M. R. Karagas, Prenatal exposure to metal mixtures and lung function in children from the new hampshire birth cohort study (poster), *33rd Annual Conference of the International Society for Environmental Epidemiology (ISEE). Columbia University Mailman School of Public Health, New York, United States of América* (23-26 August 2021).
+17.A. J. Signes-Pastor, B. Jackson, K. L. Cottingham, T. Punshon and M. R. Karagas, Dietary exposure to metal mixtures throughout infants’ first year of life in the new hampshire birth cohort study (poster), *33rd Annual Conference of the International Society for Environmental Epidemiology (ISEE). Columbia University Mailman School of Public Health, New York, United States of America* (23-26 August 2021).
 
 
 
-18.D. R. Beene, A. J. Signes-Pastor, D. Kaeli, D. MacKenzie, M. R. Karagas, Z. Feric, Y. Halchenko, M. Powers, J. Manjourides, J. Lewis, A. Alshawabkeh, N. B. Agostini and D. Watkins, Data harmonization across SRP pregnancy & birth cohorts (oral), *NIH/NIEHS Superfund Research Program Seminar* (18-19 February 2021).
+18.A. J. Signes-Pastor, M. Guill, J. Vioque, J. Madan, E. Baker, B. Jackson and M. R. Karagas, Prenatal exposure to metal mixtures and lung function in children from the new hampshire birth cohort study (poster), *33rd Annual Conference of the International Society for Environmental Epidemiology (ISEE). Columbia University Mailman School of Public Health, New York, United States of América* (23-26 August 2021).
 
 
 
-19.A. J. Signes-Pastor, P. Martinez-Camblor, E. Baker, J. Madan, M. Guill and M. R. Karagas, Prental exposure to arsenic and lung function in children from the new hampshire birth cohort study (poster), *Distributed harmonization and analysis across three SRP cohorts. NIH/NIEHS Superfund Research Program Annual Meeting. Texas A&M Superfund Research Center, United States of América* (14-15 December 2020).
+19.D. R. Beene, A. J. Signes-Pastor, D. Kaeli, D. MacKenzie, M. R. Karagas, Z. Feric, Y. Halchenko, M. Powers, J. Manjourides, J. Lewis, A. Alshawabkeh, N. B. Agostini and D. Watkins, Data harmonization across SRP pregnancy & birth cohorts (oral), *NIH/NIEHS Superfund Research Program Seminar* (18-19 February 2021).
 
 
 
-20.D. R. Beene, Agostini, Z. Feric, Y. Halchenco, D. Kaeli, M. R. Karagas, J. Lewis, D. MacKenzie, J. Manjourides, M. Powers, A. J. Signes-Pastor and D. Watkins, Distributed harmonization and analysis across three SRP cohorts (poster), *NIH/NIEHS Superfund Research Program Annual Meeting. Texas A&M Superfund Research Center, United States of America* (14-15 December 2020).
+20.A. J. Signes-Pastor, P. Martinez-Camblor, E. Baker, J. Madan, M. Guill and M. R. Karagas, Prental exposure to arsenic and lung function in children from the new hampshire birth cohort study (poster), *Distributed harmonization and analysis across three SRP cohorts. NIH/NIEHS Superfund Research Program Annual Meeting. Texas A&M Superfund Research Center, United States of América* (14-15 December 2020).
 
 
 
-21.A. J. Signes-Pastor, Chronic arsenic exposure (invited speaker), *Scientific seminar series, Geisel School of Medicine, Dartmouth College, New Hampshire, United States of America* (5 December 2019).
+21.D. R. Beene, Agostini, Z. Feric, Y. Halchenco, D. Kaeli, M. R. Karagas, J. Lewis, D. MacKenzie, J. Manjourides, M. Powers, A. J. Signes-Pastor and D. Watkins, Distributed harmonization and analysis across three SRP cohorts (poster), *NIH/NIEHS Superfund Research Program Annual Meeting. Texas A&M Superfund Research Center, United States of America* (14-15 December 2020).
 
 
 
-22.Y. Moroishi, A. J. Signes-Pastor, Z. Li, K. Cottingham, R. Enelow, J. Madan, K. Nadeau and M. R. Karagas, Infections, respiratory symptoms, and allergy in relation to rice cereal consumption in a united states cohort (poster), *The annual conference of the International Society for Environmental Epidemiology (ISEE 2019), Utrecht, The Netherlands.* (25-28 August 2019).
+22.A. J. Signes-Pastor, Chronic arsenic exposure (invited speaker), *Scientific seminar series, Geisel School of Medicine, Dartmouth College, New Hampshire, United States of America* (5 December 2019).
 
 
 
-23.A. J. Signes-Pastor, B. T. Doherty, M. Romano, K. M. Gleason, J. Gui and M. R. Karagas, Prenatal exposure to metal mixture and sext-specific birth outcomes in a population from the new hampshire birth cohort study (poster), *External Advisory Committee (EAC) Annual Meeting, Center for Molecular Epidemiology at Dartmouth, Hanover, New Hampshire, United States of America* (3-4 April 2019).
+23.Y. Moroishi, A. J. Signes-Pastor, Z. Li, K. Cottingham, R. Enelow, J. Madan, K. Nadeau and M. R. Karagas, Infections, respiratory symptoms, and allergy in relation to rice cereal consumption in a united states cohort (poster), *The annual conference of the International Society for Environmental Epidemiology (ISEE 2019), Utrecht, The Netherlands.* (25-28 August 2019).
 
 
 
-24.A. J. Signes-Pastor, Early-life exposure to inorganic arsenic (invited speaker), *Scientific seminar series, Geisel School of Medicine, Dartmouth College, United States of America* (2 May 2019).
+24.A. J. Signes-Pastor, B. T. Doherty, M. Romano, K. M. Gleason, J. Gui and M. R. Karagas, Prenatal exposure to metal mixture and sext-specific birth outcomes in a population from the new hampshire birth cohort study (poster), *External Advisory Committee (EAC) Annual Meeting, Center for Molecular Epidemiology at Dartmouth, Hanover, New Hampshire, United States of America* (3-4 April 2019).
 
 
 
-25.A. J. Signes-Pastor, B. T. Doherty, M. E. Romano, K. M. Gleason, J. Gui and M. R. Karagas, Prenatal exposure to metal mixture and sext-specific birth outcomes in a population from the new hampshire birth cohort study (poster), *Northeast SRP Meeting, Boston, Massachusetts, United States of America* (3-4 April 2019).
+25.A. J. Signes-Pastor, Early-life exposure to inorganic arsenic (invited speaker), *Scientific seminar series, Geisel School of Medicine, Dartmouth College, United States of America* (2 May 2019).
 
 
 
-26.A. J. Signes Pastor, Arsenic epidemiology, biomarkers and exposure assessment of metals (invited speaker), *Superfund Research Program Meeting, Geisel School of Medicine, Dartmouth College, United States of America* (23 May 2019).
+26.A. J. Signes-Pastor, B. T. Doherty, M. E. Romano, K. M. Gleason, J. Gui and M. R. Karagas, Prenatal exposure to metal mixture and sext-specific birth outcomes in a population from the new hampshire birth cohort study (poster), *Northeast SRP Meeting, Boston, Massachusetts, United States of America* (3-4 April 2019).
 
 
 
-27.A. J. Signes-Pastor, Impact of the regulation on inorganic arsenic in rice-based products for infants and young children (invited speaker), *New Hampshire Arsenic Consortium, Concord, New Hampshire, United States of America* (22 March 2019).
+27.A. J. Signes Pastor, Arsenic epidemiology, biomarkers and exposure assessment of metals (invited speaker), *Superfund Research Program Meeting, Geisel School of Medicine, Dartmouth College, United States of America* (23 May 2019).
 
 
 
-28.A. J. Signes-Pastor, S. M. Zens, J. Seigne, A. Schned and M. R. Karagas, Rice consumption and incidence of bladder cancer in a united state population (poster), *The Joint Annual Meeting of the International Society of Exposure Science and the International Society for Environmental Epidemiology (ISES-ISEE 2018), Ottawa, Canada.* (26-30 August 2018).
+28.A. J. Signes-Pastor, Impact of the regulation on inorganic arsenic in rice-based products for infants and young children (invited speaker), *New Hampshire Arsenic Consortium, Concord, New Hampshire, United States of America* (22 March 2019).
 
 
 
-29.A. J. Signes-Pastor, B. T. Doherty, M. E. Romano, K. M. Gleason, J. Gui and M. R. Karagas, Prenatal exposure to metal mixture and birth outcomes in a population from the new hampshire birth cohort study (poster), *Annual Meeting NIH Superfund, Sacramento, California, United States of America* (27-30 December 2018).
+29.A. J. Signes-Pastor, S. M. Zens, J. Seigne, A. Schned and M. R. Karagas, Rice consumption and incidence of bladder cancer in a united state population (poster), *The Joint Annual Meeting of the International Society of Exposure Science and the International Society for Environmental Epidemiology (ISES-ISEE 2018), Ottawa, Canada.* (26-30 August 2018).
 
 
 
-30.A. J. Signes-Pastor, M. Bouchard, E. Baker, B. Jackson and M. R. Karagas, Toenail manganese as biomarker of drinking water exposure: A reliability study from a u.s. Pregnancy cohort (poster), *Northeast Superfund Research Program Meeting, Woods Hole, Rhode Island, United States of America* (26-27 March 2018).
+30.A. J. Signes-Pastor, B. T. Doherty, M. E. Romano, K. M. Gleason, J. Gui and M. R. Karagas, Prenatal exposure to metal mixture and birth outcomes in a population from the new hampshire birth cohort study (poster), *Annual Meeting NIH Superfund, Sacramento, California, United States of America* (27-30 December 2018).
 
 
 
-31.A. J. Signes-Pastor, J. Vioque, E. M. Navarrete-Muñoz, M. Carey, A. A. Meharg and M. R. Karagas, Inorganic arsenic exposure and neuropsychological development of children of 4-5 years of age living in spain (poster), *Center For Molecular Epidemiology COBRE External Advisory Committee meeting, Boston, Massachusetts, United States of America* (10 May 2018.).
+31.A. J. Signes-Pastor, M. Bouchard, E. Baker, B. Jackson and M. R. Karagas, Toenail manganese as biomarker of drinking water exposure: A reliability study from a u.s. Pregnancy cohort (poster), *Northeast Superfund Research Program Meeting, Woods Hole, Rhode Island, United States of America* (26-27 March 2018).
 
 
 
-32.A. J. Signes-Pastor, K. Cottingham, M. Carey, V. Sayarath, T. Palys, A. A. Meharg, C. Folt and M. R. Karagas, Infants’ dietary arsenic exposure during transition to solid food (poster - awarded 2000USD travel award), *Southeast Asia Regional Conference on Groundwater Arsenic: Multi-Disciplinary Approaches to Protecting the Health of the Public, Hanoi, Vietnam.* (2-3 November 2017).
+32.A. J. Signes-Pastor, J. Vioque, E. M. Navarrete-Muñoz, M. Carey, A. A. Meharg and M. R. Karagas, Inorganic arsenic exposure and neuropsychological development of children of 4-5 years of age living in spain (poster), *Center For Molecular Epidemiology COBRE External Advisory Committee meeting, Boston, Massachusetts, United States of America* (10 May 2018.).
 
 
 
-33.A. J. Signes-Pastor, K. Cottingham, M. Carey, V. Sayarath, T. Palys, A. A. Meharg, C. Folt and M. R. Karagas, Infants’ dietary arsenic exposure during transition to solid food and rethinking of rice bran preparation for highly efficient removal of inorganic arsenic using percolating cooking water (poster), *NIEHS Superfund Research Annual Meeting, Philadelphia, United States of America* (6-8 December 2017).
+33.A. J. Signes-Pastor, K. Cottingham, M. Carey, V. Sayarath, T. Palys, A. A. Meharg, C. Folt and M. R. Karagas, Infants’ dietary arsenic exposure during transition to solid food (poster - awarded 2000USD travel award), *Southeast Asia Regional Conference on Groundwater Arsenic: Multi-Disciplinary Approaches to Protecting the Health of the Public, Hanoi, Vietnam.* (2-3 November 2017).
 
 
 
-34.A. J. Signes-Pastor, J. Vioque, E. M. Navarrete-Muñoz, M. Carey, A. A. Meharg and M. R. Karagas, Concentration of urinary arsenic species in relation to rice and seafood consumption among children living in spain (poster), *Northeastern Superfund Research Program Meeting, Northeastern University, Boston, United States of America* (4-5 April 2017).
+34.A. J. Signes-Pastor, K. Cottingham, M. Carey, V. Sayarath, T. Palys, A. A. Meharg, C. Folt and M. R. Karagas, Infants’ dietary arsenic exposure during transition to solid food and rethinking of rice bran preparation for highly efficient removal of inorganic arsenic using percolating cooking water (poster), *NIEHS Superfund Research Annual Meeting, Philadelphia, United States of America* (6-8 December 2017).
 
 
 
-35.A. J. Signes-Pastor, Arsenic epidemiology, biomarkers and exposure assessment of metals (invited speaker), *Superfund Research Program Meeting, Geisel School of Medicine, Dartmouth College, United States of America* (28 November 2017).
+35.A. J. Signes-Pastor, J. Vioque, E. M. Navarrete-Muñoz, M. Carey, A. A. Meharg and M. R. Karagas, Concentration of urinary arsenic species in relation to rice and seafood consumption among children living in spain (poster), *Northeastern Superfund Research Program Meeting, Northeastern University, Boston, United States of America* (4-5 April 2017).
 
 
 
-36.A. J. Signes-Pastor, M. Carey and A. A. Meharg, Inorganic arsenic in rice-based products for infants and young children (poster), *EFSA’s 2nd Scientific Conference. Shaping the future of food safety, together. Milan, Italy.* (15-16 October 2015).
+36.A. J. Signes-Pastor, Arsenic epidemiology, biomarkers and exposure assessment of metals (invited speaker), *Superfund Research Program Meeting, Geisel School of Medicine, Dartmouth College, United States of America* (28 November 2017).
 
 
 
-37.A. J. Signes-Pastor, El arsénico y arroz (invited speaker), *Scientific seminar series, Universidad Miguel Hernández, Spain.* (17 April 2013).
+37.A. J. Signes-Pastor, M. Carey and A. A. Meharg, Inorganic arsenic in rice-based products for infants and young children (poster), *EFSA’s 2nd Scientific Conference. Shaping the future of food safety, together. Milan, Italy.* (15-16 October 2015).
 
 
 
-38.A. A. Carbonell-Barrachina, A. J. Signes-Pastor, A. Ramirez, F. Burló and P. I. Haris, Is spanish rice contaminated with arsenic? (oral), *6th International scientific conference. Safety and Quality of Raw Materials and Foodstuffs. Nitra, Slovakia.* (2011).
+38.A. J. Signes-Pastor, El arsénico y arroz (invited speaker), *Scientific seminar series, Universidad Miguel Hernández, Spain.* (17 April 2013).
 
 
 
-39.A. J. Signes-Pastor, S. Al-Rmalli, R. O. Jenkins and H. P. I., Effect of arsenic concentration in cooking water on the bioaccessibility of arsenic in cooked rice (poster), *International Conference. Geogenic Chemicals in Groundwater and Soils. BRGM, Orléans, France.* (2010).
+39.A. A. Carbonell-Barrachina, A. J. Signes-Pastor, A. Ramirez, F. Burló and P. I. Haris, Is spanish rice contaminated with arsenic? (oral), *6th International scientific conference. Safety and Quality of Raw Materials and Foodstuffs. Nitra, Slovakia.* (2011).
 
 
 
-40.A. J. Signes-Pastor, R. O. Jenkins, P. I. Haris, F. Burló and A. A. Carbonell-Barrachina, Could flowers be grown in arsenic polluted soils and be an extra-source of income for rural villagers in india? (poster), *International Conference. Geogenic Chemicals in Groundwater and Soils. BRGM, Orléans, France.* (2010).
+40.A. J. Signes-Pastor, S. Al-Rmalli, R. O. Jenkins and H. P. I., Effect of arsenic concentration in cooking water on the bioaccessibility of arsenic in cooked rice (poster), *International Conference. Geogenic Chemicals in Groundwater and Soils. BRGM, Orléans, France.* (2010).
 
 
 
-41.S. W. Al-Rmalli, A. J. Signes-Pastor, R. O. Jenkins and P. I. Haris, Effect of arsenic concentration in cooking water on bioaccessibility of arsenic from cooked rice (poster), *SEGH International Conference and Workshop. Environmental Quality and Human Health, Galway, Ireland.* (2010).
+41.A. J. Signes-Pastor, R. O. Jenkins, P. I. Haris, F. Burló and A. A. Carbonell-Barrachina, Could flowers be grown in arsenic polluted soils and be an extra-source of income for rural villagers in india? (poster), *International Conference. Geogenic Chemicals in Groundwater and Soils. BRGM, Orléans, France.* (2010).
 
 
 
-42.A. J. Signes-Pastor, R. O. Jenkins, P. I. Haris, C. Deacon, A. A. Meharg and A. A. Carbonell-Barrachina, Inorganic arsenic in rice-based products (miso, amazake and syrup) (oral), *3rd International Congress on Arsenic, Arsenic in the environment; Arsenic in Geosphere and Human Diseases, Tainan, Taiwan.* (2010).
+42.S. W. Al-Rmalli, A. J. Signes-Pastor, R. O. Jenkins and P. I. Haris, Effect of arsenic concentration in cooking water on bioaccessibility of arsenic from cooked rice (poster), *SEGH International Conference and Workshop. Environmental Quality and Human Health, Galway, Ireland.* (2010).
 
 
 
-43.A. A. Carbonell-Barrachina, F. Burló, A. J. Signes-Pastor, R. O. Jenkins and P. I. Haris, A modified rice dehusking and cooking method can reduce arsenic exposure in vulnerable population by 20 per cent (oral), *3rd International Congress on Arsenic, Arsenic in the environment; Arsenic in Geosphere and Human Diseases, Tainan, Taiwan.* (2010).
+43.A. J. Signes-Pastor, R. O. Jenkins, P. I. Haris, C. Deacon, A. A. Meharg and A. A. Carbonell-Barrachina, Inorganic arsenic in rice-based products (miso, amazake and syrup) (oral), *3rd International Congress on Arsenic, Arsenic in the environment; Arsenic in Geosphere and Human Diseases, Tainan, Taiwan.* (2010).
 
 
 
-44.F. Burló, A. A. Carbonell-Barrachina, A. J. Signes-Pastor, R. O. Jenkins and P. I. Haris, Could flowers be grown in arsenic polluted soils and be an extra-source of income for rural villagers of india?, *3rd International Congress on Arsenic, Arsenic in the environment; Arsenic in Geosphere and Human Diseases, Tainan, Taiwan.* (2010).
+44.A. A. Carbonell-Barrachina, F. Burló, A. J. Signes-Pastor, R. O. Jenkins and P. I. Haris, A modified rice dehusking and cooking method can reduce arsenic exposure in vulnerable population by 20 per cent (oral), *3rd International Congress on Arsenic, Arsenic in the environment; Arsenic in Geosphere and Human Diseases, Tainan, Taiwan.* (2010).
 
 
 
-45.A. J. Signes-Pastor, Impact of rice processing (dehusking & cooking) on arsenic in rice and on arsenic daily intake in as-endemic areas (invited speaker), *UKIREIA PRAMA workshop. Manchester University, Manchester, United Kingdom.* (2009).
+45.F. Burló, A. A. Carbonell-Barrachina, A. J. Signes-Pastor, R. O. Jenkins and P. I. Haris, Could flowers be grown in arsenic polluted soils and be an extra-source of income for rural villagers of india?, *3rd International Congress on Arsenic, Arsenic in the environment; Arsenic in Geosphere and Human Diseases, Tainan, Taiwan.* (2010).
 
 
 
-46.A. J. Signes-Pastor, L. Vazquez Araújo, A. J. Andreu Sevilla, F. Burló and A. A. Carbonell-Barrachina, Total and inorganic arsenic in canned and frozen seafood and fish from the spanish market (oral), *I Reunión Cientı́fica Hispano-Marroquı́ sobre Seguridad Alimentaria, Tetuán, Morocco.* (2009).
+46.A. J. Signes-Pastor, Impact of rice processing (dehusking & cooking) on arsenic in rice and on arsenic daily intake in as-endemic areas (invited speaker), *UKIREIA PRAMA workshop. Manchester University, Manchester, United Kingdom.* (2009).
 
 
 
-47.A. A. Carbonell-Barrachina, A. J. Signes-Pastor, F. Burló, W. T. de Groot, M. Hobbes and B. Sengupta, Simple but sound recommendations to reduce arsenic intake in india, *3rd International IUPAC Symposium on Trace Elements in Food. Rome, Italy.* (2010).
+47.A. J. Signes-Pastor, L. Vazquez Araújo, A. J. Andreu Sevilla, F. Burló and A. A. Carbonell-Barrachina, Total and inorganic arsenic in canned and frozen seafood and fish from the spanish market (oral), *I Reunión Cientı́fica Hispano-Marroquı́ sobre Seguridad Alimentaria, Tetuán, Morocco.* (2009).
 
 
 
-48.A. J. Signes-Pastor, L. vázquez-Araújo, F. Martı́nez-Sanchez, F. Burló and A. A. Carbonell-Barrachina, Determination of total and inorganic arsenic in canned and frozen seafood and fish collected at a spanish market (poster), *3rd International IUPAC Symposium on Trace Elements in Food. Rome, Italy.* (2009).
+48.A. A. Carbonell-Barrachina, A. J. Signes-Pastor, F. Burló, W. T. de Groot, M. Hobbes and B. Sengupta, Simple but sound recommendations to reduce arsenic intake in india, *3rd International IUPAC Symposium on Trace Elements in Food. Rome, Italy.* (2010).
 
 
 
-49.A. J. Signes-Pastor, F. Burló, K. Mitra and A. A. Carbonell-Barrachina, Effect of two different dehusking procedures on total arsenic (awarded poster for outstanding presentation), *2nd International Congress: Arsenic in the environment. Arsenic from nature to humans. Valencia, Spain.* (2008).
+49.A. J. Signes-Pastor, L. vázquez-Araújo, F. Martı́nez-Sanchez, F. Burló and A. A. Carbonell-Barrachina, Determination of total and inorganic arsenic in canned and frozen seafood and fish collected at a spanish market (poster), *3rd International IUPAC Symposium on Trace Elements in Food. Rome, Italy.* (2009).
 
 
 
-50.A. J. Signes-Pastor, F. Burló, K. Mitra and A. A. Carbonell, Contribution of water and cooked rice to the dietary intake of inorganic arsenic in a rural village of west bengal, india (poster), *2nd International Congress: Arsenic in the environment. Arsenic from nature to humans. Valencia, Spain.* (2008).
+50.A. J. Signes-Pastor, F. Burló, K. Mitra and A. A. Carbonell-Barrachina, Effect of two different dehusking procedures on total arsenic (awarded poster for outstanding presentation), *2nd International Congress: Arsenic in the environment. Arsenic from nature to humans. Valencia, Spain.* (2008).
 
 
 
-51.A. J. Signes-Pastor, K. Mitra, S. Sarkhel, M. Hobbes, F. Burló, W. T. de Groot and A. A. Carbonell-Barrachina, Arsenic speciation in food samples and evaluation of arsenic (inorganic and organic) intake by rural population of west bengal, india, *2nd International Congress: Arsenic in the environment. Arsenic from nature to humans. Valencia, Spain.* (2008).
+51.A. J. Signes-Pastor, F. Burló, K. Mitra and A. A. Carbonell, Contribution of water and cooked rice to the dietary intake of inorganic arsenic in a rural village of west bengal, india (poster), *2nd International Congress: Arsenic in the environment. Arsenic from nature to humans. Valencia, Spain.* (2008).
 
 
 
-52.A. J. Signes-Pastor, F. Burló, K. Mitra and A. A. Carbonell-Barrachina, Arsenic biogeochemistry as affected by phosphorus fertilizer addition, redox potential and pH in a west bengal (india) soil, *2nd International Congress: Arsenic in the environment. Arsenic from nature to humans. Valencia, Spain.* (2008).
+52.A. J. Signes-Pastor, K. Mitra, S. Sarkhel, M. Hobbes, F. Burló, W. T. de Groot and A. A. Carbonell-Barrachina, Arsenic speciation in food samples and evaluation of arsenic (inorganic and organic) intake by rural population of west bengal, india, *2nd International Congress: Arsenic in the environment. Arsenic from nature to humans. Valencia, Spain.* (2008).
 
 
 
-53.A. J. Signes-Pastor, F. Burló and A. A. Carbonell-Barrachina, Arsenic cropping systems, and fertilizer (poster), *Training-cum, awareness Programme of the European Commission TIPOT project. Kolkata - Jamshedpur, India.* (2007).
+53.A. J. Signes-Pastor, F. Burló, K. Mitra and A. A. Carbonell-Barrachina, Arsenic biogeochemistry as affected by phosphorus fertilizer addition, redox potential and pH in a west bengal (india) soil, *2nd International Congress: Arsenic in the environment. Arsenic from nature to humans. Valencia, Spain.* (2008).
 
 
 
-54.A. J. Signes-Pastor, F. Burló and A. A. Carbonell-Barrachina, Arsenic in soils, plants, and agricultural products (poster), *Training-cum, awareness Programme of the European Commission TIPOT project. Kolkata-Jamshedpur, India.* (2008).
+54.A. J. Signes-Pastor, F. Burló and A. A. Carbonell-Barrachina, Arsenic cropping systems, and fertilizer (poster), *Training-cum, awareness Programme of the European Commission TIPOT project. Kolkata - Jamshedpur, India.* (2007).
 
 
 
-55.A. J. Signes-Pastor, F. Burló and A. A. Carbonell-Barrachina, Arsenic levels in typical villager diet., *Training-cum, awareness Programme of the European Commission TIPOT project. Kolkata Jamshedpur, India.* (2008).
+55.A. J. Signes-Pastor, F. Burló and A. A. Carbonell-Barrachina, Arsenic in soils, plants, and agricultural products (poster), *Training-cum, awareness Programme of the European Commission TIPOT project. Kolkata-Jamshedpur, India.* (2008).
 
 
 
-56.E. Narbona-Fernández, A. J. Signes-Pastor, A. A. Carbonell-Barrachina and E. Garcia-Garcia, Estrategias nutricionales de mejora en la dieta de la población de bengala occidental para aliviar los problemas asociados a la intoxicación con arsénico (poster), *I World Congress of Public Health Nutrition. VII Congreso de la SENC. Barcelona, Spain.* (2006).
+56.A. J. Signes-Pastor, F. Burló and A. A. Carbonell-Barrachina, Arsenic levels in typical villager diet., *Training-cum, awareness Programme of the European Commission TIPOT project. Kolkata Jamshedpur, India.* (2008).
 
 
 
-57.A. J. Signes-Pastor, F. Burló, R. Poquet, A. Miquel and A. A. Carbonell-Barrachina, Aroma of jijona turrón (poster), *International Congress: INTRAFOOD, Valencia, Spain.* (2005).
+57.E. Narbona-Fernández, A. J. Signes-Pastor, A. A. Carbonell-Barrachina and E. Garcia-Garcia, Estrategias nutricionales de mejora en la dieta de la población de bengala occidental para aliviar los problemas asociados a la intoxicación con arsénico (poster), *I World Congress of Public Health Nutrition. VII Congreso de la SENC. Barcelona, Spain.* (2006).
 
 
 
-58.A. J. Signes-Pastor, F. Burló, R. Poquet, A. Miquel and A. A. Carbonell-Barrachina, Role of honey in flavor of alicante, *nternational Congress: INTRAFOOD, Valencia, Spain.* (2005).
+58.A. J. Signes-Pastor, F. Burló, R. Poquet, A. Miquel and A. A. Carbonell-Barrachina, Aroma of jijona turrón (poster), *International Congress: INTRAFOOD, Valencia, Spain.* (2005).
 
 
 
-59.Burló F., R. Poquet, A. Miquel, A. J. Signes-Pastor and A. A. Carbonell-Barrachina, Papel de la almendra tostada y la miel en el aroma de turrón (poster), *III Congreso Nacional de Ciencia y Tecnologı́a de los alimentos. Burgos, Spain.* (2005).
+59.A. J. Signes-Pastor, F. Burló, R. Poquet, A. Miquel and A. A. Carbonell-Barrachina, Role of honey in flavor of alicante, *nternational Congress: INTRAFOOD, Valencia, Spain.* (2005).
 
 
 
-60.A. A. Carbonell-Barrachina, A. Miquel, A. J. Signes-Pastor, F. Burló, F. Martinez-Sanchez and A. J. Perez-Lopez, Cocción de la miel y azúcares para la elaboración de turrón (poster), *III Congreso Nacional de Ciencia y Tecnologı́a de los alimentos. Burgos, Spain.* (2005).
+60.Burló F., R. Poquet, A. Miquel, A. J. Signes-Pastor and A. A. Carbonell-Barrachina, Papel de la almendra tostada y la miel en el aroma de turrón (poster), *III Congreso Nacional de Ciencia y Tecnologı́a de los alimentos. Burgos, Spain.* (2005).
 
 
 
-61.A. J. Signes-Pastor, F. Burló and A. A. Carbonell-Barrachina, El arsénico causa el mayor envenenamiento masivo de la historia de la humanidad, *Jornada de seguridad y calidad de aguas de consumo. Elche, Spain.* (2005).
+61.A. A. Carbonell-Barrachina, A. Miquel, A. J. Signes-Pastor, F. Burló, F. Martinez-Sanchez and A. J. Perez-Lopez, Cocción de la miel y azúcares para la elaboración de turrón (poster), *III Congreso Nacional de Ciencia y Tecnologı́a de los alimentos. Burgos, Spain.* (2005).
 
 
 
-62.A. J. Signes-Pastor, F. Burló, R. Poquet, A. Miquel and A. A. Carbonell-Barrachina, Papel de la miel en el aroma del turrón de alicante (oral), *IV Jornada de Investigación en ciencia e ingenierı́a de los Alimentos. Valencia, Spain.* (2004).
+62.A. J. Signes-Pastor, F. Burló and A. A. Carbonell-Barrachina, El arsénico causa el mayor envenenamiento masivo de la historia de la humanidad, *Jornada de seguridad y calidad de aguas de consumo. Elche, Spain.* (2005).
+
+
+
+63.A. J. Signes-Pastor, F. Burló, R. Poquet, A. Miquel and A. A. Carbonell-Barrachina, Papel de la miel en el aroma del turrón de alicante (oral), *IV Jornada de Investigación en ciencia e ingenierı́a de los Alimentos. Valencia, Spain.* (2004).
 
 ## 10. Service activities
 
