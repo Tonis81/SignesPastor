@@ -20,6 +20,9 @@
 
 **ORCID**: 0000-0003-4898-2480; **Researcher ID**: N-9700-2019
 
+Senior researcher CIDEGENT at the Alicante Biomedical and Health Research Institute, Universidad Miguel Hernández (ISABIAL-UMH), and member of the CIBER of Epidemiology and Public Health (CIBERESP), Carlos III Health Institute (ISCIII).
+He is interested in evaluating the transfer of trace metals from soil/water to the food chain, exposure and health. He has a special interest in exposure to toxic elements during critical periods of growth and development such as pregnancy, childhood, and adolescence, and their effects on health growth, neurodevelopment, and respiratory capacity. He collaborates with several birth cohorts (e.g., INfancia y Medio Ambiente (INMA) in Spain and the New Hampshire Birth Cohort Study (NHBCS) in the United States of America). Much of his research has focused on exposure to the carcinogenic inorganic arsenic. His work on diet as a source of arsenic exposure is pioneer. The evidence generated with his research work has contributed to establishing maximum levels of arsenic in rice products, and the most restrictive level has been set for rice for infants and young children. The analyses of total trace element concentrations and speciation in biological samples (e.g., urine) and others (e.g., food samples) by state-of-the-art mass spectrometry techniques as markers of exposure are key to his research activity.
+
 ## 1. Education
 
 1.Epidemiology; Università Cattolica del Sacro Cuore, IT. (2017).
