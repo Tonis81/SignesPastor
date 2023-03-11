@@ -227,21 +227,35 @@ He is interested in evaluating the transfer of trace metals from soil/water to t
 
 ## 3. Employment
 
-1.Miguel Hernández University. Department of Public Health. Facultad de medicina. Avda. Ramón y cajal, s/n, Sant Joan d’Alacant, 03550, ES (academia)., *Senior researcher* (from 01 April 2021 to current).
+1.Miguel hernández university. Department of public health. Facultad de medicina. Avda. Ramón y cajal, s/n, sant joan d’alacant, 03550, ES (academia)., *Senior researcher* (from 01 April 2021 to current).
 
-2.Dartmouth College, Geisel School of Medicine, Epidemiology Department. 1 Medical Center Drive, Williamson Translational Research building, Lebanon, NH, 03756, US (academia), *Research associate* (from 10 October 2016 to 31 March 2021).
 
-3.Doscadesa, 15 Calle Ricote, Molina de Segura, 30500, Murcia, ES (private sector), *Research and Development Director* (from 23 September 2013 to 28 March 2014).
 
-4.Queen’s University Belfast, Institute of Global Food Security. 19 Chlorine Gardens, Belfast BT9 5DL, NI, UK (academia), *Research associate* (from 01 April 2014 to 31 March 2016).
+2.Dartmouth college, geisel school of medicine, epidemiology department. 1 medical center drive, williamson translational research building, lebanon, NH, 03756, US (academia), *Research associate* (from 10 October 2016 to 31 March 2021).
 
-5.Imasde Agroalimentaria, 3 Calle Nápoles, Pozuelo de Alarcón, 28224, Madrid, ES (private sector), *Project manager* (from 01 April 2011 to 15 September 2013).
 
-6.DeMontfort University. Gateway House, Leicester LE1 9BH, UK (academia), *Early-stage researcher* (from 01 April to 30 November 2011).
 
-7.Miguel Hernández University. Crta. de Beniel, km. 3,2, 03312 Orihuela, Alicante, ES (academia), *Pre-doctoral* (from 20 January 2005 to 31 March 2009).
+3.Queen’s university belfast, institute of global food security. 19 chlorine gardens, belfast BT9 5DL, NI, UK (academia), *Research associate* (from 01 April 2014 to 31 March 2016).
 
-8.Miguel Hernández University. Crta. de Beniel, km. 3,2, 03312 Orihuela, Alicante, ES (academia), *Early-stage researcher* (from 20 July 2004 to 19 October 2004).
+
+
+4.Doscadesa, 15 calle ricote, molina de segura, 30500, murcia, ES (private sector), *Research and Development Director* (from 23 September 2013 to 28 March 2014).
+
+
+
+5.Imasde agroalimentaria, 3 calle nápoles, pozuelo de alarcón, 28224, madrid, ES (private sector), *Project manager* (from 01 April 2011 to 15 September 2013).
+
+
+
+6.DeMontfort university. Gateway house, leicester LE1 9BH, UK (academia), *Early-stage researcher* (from 01 April to 30 November 2011).
+
+
+
+7.Miguel hernández university. Crta. De beniel, km. 3,2, 03312 orihuela, alicante, ES (academia), *Pre-doctoral* (from 20 January 2005 to 31 March 2009).
+
+
+
+8.Miguel hernández university. Crta. De beniel, km. 3,2, 03312 orihuela, alicante, ES (academia), *Early-stage researcher* (from 20 July 2004 to 19 October 2004).
 
 ## 4. Research projects (Academia)
 
