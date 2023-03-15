@@ -259,7 +259,7 @@ He is interested in evaluating the transfer of trace metals from soil/water to t
 
 ## 4. Research projects (Academia)
 
-1.M. Garcı́a De La Hera, A. J. Signes-Pastor and et. al., II jornadas de transferencia PREDIMED-PLUS alicante: Avances en la promoción de la dieta mediterránea., *Conselleria de Innovación, Universidades, Ciencia y Sociedad Digital* **8900.00 € (CIAORG/2021/59)** (2022) Role: Researcher at Miguel Hernández University, ES.
+1.M. Garcı́a De La Hera, A. J. Signes-Pastor and et. al., II jornadas de transferencia PREDIMED-PLUS alicante: Avances en la promoción de la dieta mediterránea (https://epinutdivulga.com/), *Conselleria de Innovación, Universidades, Ciencia y Sociedad Digital* **8900.00 € (CIAORG/2021/59)** (2022) Role: Researcher at Miguel Hernández University, ES.
 
 
 
@@ -299,7 +299,7 @@ He is interested in evaluating the transfer of trace metals from soil/water to t
 
 
 
-11.A. J. Signes-Pastor, Risk assessment of inorganic arsenic in EU rice-based infant products and strategies to reduce exposure, *FP7-PEOPLE-2013-IEF - Marie-Curie Action: "Intra-European fellowships for career development"* **221606.40 € (PIEF-GA-2013-622096)** (from 01/04/2016 to 31/03/2016) Role: Principal Investigator at Queen’s University Belfast, UK.
+11.A. J. Signes-Pastor, Risk assessment of inorganic arsenic in EU rice-based infant products and strategies to reduce exposure, *FP7-PEOPLE-2013-IEF - Marie-Curie Action: "Intra-European fellowships for career development"* **221606.40 € (PIEF-GA-2013-622096)** (from 01/04/2014 to 31/03/2016) Role: Principal Investigator at Queen’s University Belfast, UK.
 
 
 
