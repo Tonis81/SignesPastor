@@ -769,6 +769,8 @@ Science of the Total Environment; JAMA Pediatrics; Journal of Food Science; Envi
 
 ### Evaluator board
 
+Abstract reviewer for the ISEE 2023 – 35th Annual Conference of the International Society for Environmental Epidemiology (Kaohsiung, Taiwan, 17-21 September 2022) - https://www.iseeconference.org/
+
 Abstract reviewer for ICES2023 - International Conference and Exhibition for Science (Riyad, Saudy Arabia, February 6-8, 2023) - https://www.performer2023.ices-ksa.org/
 
 Abstract reviewer for the 34th Annual Conference of International Society for Enviromental Epidemiology (Athens, 18-21 September 2022) - https://isee2022.org/
