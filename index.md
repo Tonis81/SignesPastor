@@ -43,7 +43,9 @@ He is interested in evaluating the transfer of trace metals from soil/water to t
 
 ## 2. JCR publications
 
-Association of monetary diet cost of foods and diet quality in Spanish older adults. ACCEPTED for publication Frontiers in Public Health, section Public Health and Nutrition.
+Association between Mediterranean diet and metal(loid) exposure in 4-5-year-old children living in Spain. **ACCEPTED** for publication in Environmental Research
+
+Association of monetary diet cost of foods and diet quality in Spanish older adults. **ACCEPTED** for publication Frontiers in Public Health, section Public Health and Nutrition.
 
 N. Khoury, M. Ángeles Martı́nez, I. Paz-Graniel, M. Ángel Martı́nez-González, D. Corella, O. Castañer, J. A. Martı́nez, Ángel M. Alonso-Gómez, J. Wärnberg, J. Vioque, D. Romaguera, J. López-Miranda, R. Estruch, F. J. Tinahones, J. Lapetra, J. L. Serra-Majem, A. Bueno-Cavanillas, J. A. Tur, et al., Dietary intake of polychlorinated dibenzo-p-dioxins and furans, adiposity and obesity status., *Environmental Research* (2023) 115697.; DOI:https://doi.org/10.1016/j.envres.2023.115697
 
