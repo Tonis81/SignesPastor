@@ -427,7 +427,7 @@ He is interested in evaluating the transfer of trace metals from soil/water to t
 
 ## 6. Teaching
 
-1.L. Torres-Collado, A. J. Signes-Pastor and et al, ESK-EPI ROOM (PIEU_b/2023_14) - PIEU-UMH 2023 (teaching innovation project) 300€ (2023).
+1.L. Torres-Collado, A. J. Signes-Pastor and et al, ESK-EPI ROOM (PIEU/2023) - PIEU-UMH 2023 (teaching innovation project) 300€ (2023).
 
 
 
