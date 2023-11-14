@@ -427,63 +427,67 @@ He is interested in evaluating the transfer of trace metals from soil/water to t
 
 ## 6. Teaching
 
-1.Workshop & training school: Education of doctoral students in the field of writing scientific outputs (20 h of lectures), *Slovak University of Agriculture in Nitra, Slovakia* (2023).
+1.L. Torres-Collado, A. J. Signes-Pastor and et al, ESK-EPI ROOM (PIEU_b/2023_14) - PIEU-UMH 2023 (teaching innovation project) 300€ (2023).
 
 
 
-2.Theoretical and practical epidemiological foundations 2669 (university master in public health), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (2022).
+2.Workshop & training school: Education of doctoral students in the field of writing scientific outputs (20 h of lectures), *Slovak University of Agriculture in Nitra, Slovakia* (2023).
 
 
 
-3.Master final assigment 2679 (university master in public health), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (2022).
+3.Theoretical and practical epidemiological foundations 2669 (university master in public health), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (2022).
 
 
 
-4.Biotic and abiotic contamination 6425 (university master agrifood quality and technology), *University of Miguel Hernández, Department of Food Science and Technology, 03312, Desamparados, ES* (2022).
+4.Master final assigment 2679 (university master in public health), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (2022).
 
 
 
-5.Epidemiology and health demographics 1962 (medical degree), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (from 2021 to 2022).
+5.Biotic and abiotic contamination 6425 (university master agrifood quality and technology), *University of Miguel Hernández, Department of Food Science and Technology, 03312, Desamparados, ES* (2022).
 
 
 
-6.Advanced epidemiological methods 2673 (university master in public health), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (from 2021 to 2022).
+6.Epidemiology and health demographics 1962 (medical degree), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (from 2021 to 2022).
 
 
 
-7.Relevant health problems and specific interventions in public health 2672 (university master in public health), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (from 2021 to 2023).
+7.Advanced epidemiological methods 2673 (university master in public health), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (from 2021 to 2022).
 
 
 
-8.Topics of epidemiology. Chronic arsenic exposure., *Dartmouth College, Geisel School of Medicine, Epidemiology Department. 1 Medical Center Drive, Williamson Translational Research Building, Lebanon, NH, 03756, US* (from 2020 to 2021).
+8.Relevant health problems and specific interventions in public health 2672 (university master in public health), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (from 2021 to 2023).
 
 
 
-9.Data module. Epidemiology & biostatistics., *Dartmouth College, Geisel School of Medicine, Epidemiology Department. 1 Medical Center Drive, Williamson Translational Research Building, Lebanon, NH, 03756, US* (2020).
+9.Topics of epidemiology. Chronic arsenic exposure., *Dartmouth College, Geisel School of Medicine, Epidemiology Department. 1 Medical Center Drive, Williamson Translational Research Building, Lebanon, NH, 03756, US* (from 2020 to 2021).
 
 
 
-10.Co-supervise and mentor PhD students. Statistical analysis, data management, and scientific writing., *Dartmouth College, Geisel School of Medicine, Epidemiology Department. 1 Medical Center Drive, Williamson Translational Research Building, Lebanon, NH, 03756, US* (from 2018 to 2021).
+10.Data module. Epidemiology & biostatistics., *Dartmouth College, Geisel School of Medicine, Epidemiology Department. 1 Medical Center Drive, Williamson Translational Research Building, Lebanon, NH, 03756, US* (2020).
 
 
 
-11.Applying ICP-MS to speciation and quantitative analysis of arsenic in foodstuffs and beverages., *Webinar organised by Thermo Fisher Scientific* (2016).
+11.Co-supervise and mentor PhD students. Statistical analysis, data management, and scientific writing., *Dartmouth College, Geisel School of Medicine, Epidemiology Department. 1 Medical Center Drive, Williamson Translational Research Building, Lebanon, NH, 03756, US* (from 2018 to 2021).
 
 
 
-12.Co-supervise and mentor PhD students. Laboratory equipment and chemical analysis., *Queen’s University Belfast, Institute of Global Food Security. 19 Chlorine Gardens, Belfast BT9 5DL, NI, UK* (from 2014 to 2016).
+12.Applying ICP-MS to speciation and quantitative analysis of arsenic in foodstuffs and beverages., *Webinar organised by Thermo Fisher Scientific* (2016).
 
 
 
-13.Train and supervise the personnel involved in research projects, *Doscadesa, 15 Calle Ricote, Molina de Segura, 30500, Murcia, ES* (from 2013 to 2014).
+13.Co-supervise and mentor PhD students. Laboratory equipment and chemical analysis., *Queen’s University Belfast, Institute of Global Food Security. 19 Chlorine Gardens, Belfast BT9 5DL, NI, UK* (from 2014 to 2016).
 
 
 
-14.Train and supervise the personnel involved in research projects, *Imasde Agroalimentaria, 3 Calle Nápoles, Pozuelo de Alarcón, 28224, Madrid, ES* (from 2011 to 2013).
+14.Train and supervise the personnel involved in research projects, *Doscadesa, 15 Calle Ricote, Molina de Segura, 30500, Murcia, ES* (from 2013 to 2014).
 
 
 
-15.Supervise and mentor graduate and master students, assistant instructor for senior/graduate-level courses., *University of Miguel Hernández, Food Technology Department, Carretera de Beniel, km 3.2, 03312, Orihuela, ES* (from 2005 to 2009).
+15.Train and supervise the personnel involved in research projects, *Imasde Agroalimentaria, 3 Calle Nápoles, Pozuelo de Alarcón, 28224, Madrid, ES* (from 2011 to 2013).
+
+
+
+16.Supervise and mentor graduate and master students, assistant instructor for senior/graduate-level courses., *University of Miguel Hernández, Food Technology Department, Carretera de Beniel, km 3.2, 03312, Orihuela, ES* (from 2005 to 2009).
 
 ## 7. Scientific book chapters
 
