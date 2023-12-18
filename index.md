@@ -443,27 +443,27 @@ He is interested in evaluating the transfer of trace metals from soil/water to t
 
 
 
-2.Theoretical and practical epidemiological foundations 2669 (university master in public health), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (2022).
+2.Theoretical and practical epidemiological foundations 2669 (university master in public health), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (from 2022 to present).
 
 
 
-3.Master final assigment 2679 (university master in public health), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (2022).
+3.Master final assigment 2679 (university master in public health), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (from 2022 to present).
 
 
 
-4.Biotic and abiotic contamination 6425 (university master agrifood quality and technology), *University of Miguel Hernández, Department of Food Science and Technology, 03312, Desamparados, ES* (2022).
+4.Biotic and abiotic contamination 6425 (university master agrifood quality and technology), *University of Miguel Hernández, Department of Food Science and Technology, 03312, Desamparados, ES* (from 2022 to present).
 
 
 
-5.Epidemiology and health demographics 1962 (medical degree), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (from 2021 to 2022).
+5.Epidemiology and health demographics 1962 (medical degree), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (from 2021 to present).
 
 
 
-6.Advanced epidemiological methods 2673 (university master in public health), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (from 2021 to 2022).
+6.Advanced epidemiological methods 2673 (university master in public health), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (from 2021 to present).
 
 
 
-7.Relevant health problems and specific interventions in public health 2672 (university master in public health), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (from 2021 to 2023).
+7.Relevant health problems and specific interventions in public health 2672 (university master in public health), *University of Miguel Hernández, Department of Public Health, School of Medicine, 03550, San Joan d’Alacant, ES* (from 2021 to present).
 
 
 
