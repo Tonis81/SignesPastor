@@ -571,11 +571,11 @@ He is interested in evaluating the transfer of trace metals from soil/water to t
 
 
 
-3.V. Oncina-Cánovas A. and, G. Riutort, R. Soler-Blasco, Z. Iriza A.and Barroeta, A. Fernández-Somoano, A. Tardón, M. Vrijheid M. andGuxens and A. J. Signes-Pastor, Pro-vegetarian dietary patterns and metal exposure in children of 4-5-years from the infancia y medio ambiente cohort (INMA), *SEE, Porto, Portugal* (5-8 septiembre 2023).
+3.A. Oncina Canovas, J. Vioque, G. Riutort, R. Soler-Blasco, A. Iriza, Z. Barroeta, A. Fernández-Somoano, A. Tardón, M. Vrijheid M. andGuxens and A. J. Signes-Pastor, Pro-vegetarian dietary patterns and metal exposure in children of 4-5-years from the infancia y medio ambiente cohort (INMA), *SEE, Porto, Portugal* (5-8 septiembre 2023).
 
 
 
-4.V. Oncina-Cánovas A. and, G. Riutort, R. Soler-Blasco, Z. Iriza A.and Barroeta, A. Fernández-Somoano, A. Tardón, M. Vrijheid M. andGuxens and A. J. Signes-Pastor, Pro-vegetarian dietary patterns and metal exposure in children of 4-5-years from the infancia y medio ambiente cohort (INMA), *ISEE, Kachsiung, Taiwan* (17-21 September 2023).
+4.A. Oncina-Cánovas, J. Vioque, G. Riutort, R. Soler-Blasco, A. Iriza, Z. Barroeta, A. Fernández-Somoano, A. Tardón, M. Vrijheid M. andGuxens and A. J. Signes-Pastor, Pro-vegetarian dietary patterns and metal exposure in children of 4-5-years from the infancia y medio ambiente cohort (INMA), *ISEE, Kachsiung, Taiwan* (17-21 September 2023).
 
 
 
@@ -591,11 +591,11 @@ He is interested in evaluating the transfer of trace metals from soil/water to t
 
 
 
-8.A. J. Signes-Pastor, S. Dı́az-Coto, P. Martinez-Camblor, N. Jimenez-Redondo, M. Guxens, M. Vrijheid, A. Andiarena, A. Irizar, I. Riaño-Galan, A. Fernández-Somoano, S. Llop, M. Lozano, M. R. Karagas and J. Vioque, Exposure to metal mixtures and neurodevelopmental outcomes in 4–5-year-old children living in spain (poster presentation), *18th INMA Cientific Conference* (2023).
+8.A. J. Signes-Pastor, S. Dı́az-Coto, P. Martinez-Camblor, N. Jimenez-Redondo, M. Guxens, M. Vrijheid, A. Andiarena, A. Irizar, I. Riaño-Galan, A. Fernández-Somoano, S. Llop, M. Lozano, M. R. Karagas and J. Vioque, Exposure to metal mixtures and neurodevelopmental outcomes in 4–5-year-old children living in spain (poster presentation), *18th INMA Cientific Conference* (7-8 February 2023).
 
 
 
-9.L. Notario-Barandiaran, A. Irizar, M. Begoña-Zubero, R. Soler-Blasco, G. Riutort Mayol, A. Fernández Somoano, A. Tardón, M. Casas, M. Vrijheid, A. Meharg, M. Carey, C. Meharg, K. Ralphs, C. McCreanor, J. O. Grimalt, J. Vioque and A. J. Signes-Pastor, Association between mediterranean diet and metal exposure in 4-5-year-old children living in spain (poster presentation), *18th INMA Cientific Conference* (2023).
+9.L. Notario-Barandiaran, A. Irizar, M. Begoña-Zubero, R. Soler-Blasco, G. Riutort Mayol, A. Fernández Somoano, A. Tardón, M. Casas, M. Vrijheid, A. Meharg, M. Carey, C. Meharg, K. Ralphs, C. McCreanor, J. O. Grimalt, J. Vioque and A. J. Signes-Pastor, Association between mediterranean diet and metal exposure in 4-5-year-old children living in spain (poster presentation), *18th INMA Cientific Conference* (7-8 February 2023).
 
 
 
