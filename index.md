@@ -503,23 +503,43 @@ He is interested in evaluating the transfer of trace metals from soil/water to t
 
 ## 7. Scientific book chapters
 
-1.A. J. Signes Pastor, M. Carey, A. A. Meharg and N. S., Applying ICP-MS to speciation and quantitative analysis of arsenic in foodstuffs and beverages, *Thermo Fisher Scientific* (2017).
+1.A. J. Signes Pastor, F. Wu, S. F. Farzan, Y. Chen and M. R. Karagas, 2nd edition of the textbook of children’s environmental health - arsenic exposure in children, *Oxford Academic* (2024).
 
-2.S. Munera-Picazo, A. Ramı́rez-Gandolfo, C. Cascio, C. Castaño-Iglesias, A. J. Signes Pastor, F. Burlo and P. I. Haris, Wheat and rice in disease prevention and health. Arsenic in rice-based infant foods. ISBN 9780124017160 - 9780124046047), *Elsevier* (2014) 375–390.
 
-3.A. J. Signes Pastor, R. O. Jenkins, P. I. Haris, C. Deacon, A. A. Meharg and A. A. Carbonell-Barrachina, Inorganic arsenic in rice-based products (miso, amazake and syrup). 3rd international congress on arsenic. Arsenic in the environment. Arsenic in geosphere and human diseases. ISBN 9780415578981, *CRC Press* (2010) 574–575.
 
-4.A. A. Carbonell-Barrachina, F. Burlo, A. J. Signes Pastor, R. O. Jenkins and P. I. Haris, A modified rice dehusking and cooking method can reduce arsenic exposure in vulnerable population by 20 per cent. 3rd international congress on arsenic. Arsenic in the environment. Arsenic in geosphere and human diseases. ISBN 9780415578981, *CRC Press* (2010) 219–220.
+2.A. J. Signes Pastor, M. Carey, A. A. Meharg and N. S., Applying ICP-MS to speciation and quantitative analysis of arsenic in foodstuffs and beverages, *Thermo Fisher Scientific* (2017).
 
-5.F. Burlo, A. A. Carbonell-Barrachina, A. J. Signes Pastor, R. O. Jenkins and P. I. Haris, Could flowers be grown in arsenic polluted soils and be an extra-source of income for rural villagers of india? 3rd international congress on arsenic. Arsenic in the environment. Arsenic in geosphere and human diseases. ISBN 9780415578981, *CRC Press* (2010) 185–186.
 
-6.A. J. Signes Pastor, K. Mitra, F. Burlo and A. A. Carbonell-Barrachina, Effects of arsenic consumption: Arsenic in foods and drinking water. Low cost technology for in-situ treatment of groundwater. ISBN 9780230636392., *McMillan India Ltd.* (2008) 88–95.
 
-7.A. J. Signes Pastor, K. Mitra, F. Burlo and A. A. Carbonell-Barrachina, Arsenic uptake by crops: Effect of arsenic in soil on arsenic uptake by plants. Risk assessment of arsenic in grain, fruits and vegetables. Low cost technology for in-situ treatment of groundwater. ISBN 9780230636392, *McMillan India Ltd.* (2008).
+3.S. Munera-Picazo, A. Ramı́rez-Gandolfo, C. Cascio, C. Castaño-Iglesias, A. J. Signes Pastor, F. Burlo and P. I. Haris, Wheat and rice in disease prevention and health. Arsenic in rice-based infant foods. ISBN 9780124017160 - 9780124046047), *Elsevier* (2014) 375–390.
 
-8.A. J. Signes Pastor, K. Mitra, F. Burlo and A. A. Carbonell-Barrachina, Effect of soluble arsenic on farming: Grain and crop selection and long-and short-term effect on farming. Low cost technology for in-situ treatment of groundwater. ISBN 9780230636392., *McMillan India Ltd.* (2008) 112–119.
 
-9.A. J. Signes Pastor, K. Mitra, F. Burlo and A. A. Carbonell-Barrachina, Alternative farming practices: Crop selection and rotation to reduce health risk and maximise farm revenues. Low cost technology for in-situ treatment of groundwater. ISBN 9780230636392, *McMillan India Ltd.* (2008) 104–112.
+
+4.A. J. Signes Pastor, R. O. Jenkins, P. I. Haris, C. Deacon, A. A. Meharg and A. A. Carbonell-Barrachina, Inorganic arsenic in rice-based products (miso, amazake and syrup). 3rd international congress on arsenic. Arsenic in the environment. Arsenic in geosphere and human diseases. ISBN 9780415578981, *CRC Press* (2010) 574–575.
+
+
+
+5.A. A. Carbonell-Barrachina, F. Burlo, A. J. Signes Pastor, R. O. Jenkins and P. I. Haris, A modified rice dehusking and cooking method can reduce arsenic exposure in vulnerable population by 20 per cent. 3rd international congress on arsenic. Arsenic in the environment. Arsenic in geosphere and human diseases. ISBN 9780415578981, *CRC Press* (2010) 219–220.
+
+
+
+6.F. Burlo, A. A. Carbonell-Barrachina, A. J. Signes Pastor, R. O. Jenkins and P. I. Haris, Could flowers be grown in arsenic polluted soils and be an extra-source of income for rural villagers of india? 3rd international congress on arsenic. Arsenic in the environment. Arsenic in geosphere and human diseases. ISBN 9780415578981, *CRC Press* (2010) 185–186.
+
+
+
+7.A. J. Signes Pastor, K. Mitra, F. Burlo and A. A. Carbonell-Barrachina, Effects of arsenic consumption: Arsenic in foods and drinking water. Low cost technology for in-situ treatment of groundwater. ISBN 9780230636392., *McMillan India Ltd.* (2008) 88–95.
+
+
+
+8.A. J. Signes Pastor, K. Mitra, F. Burlo and A. A. Carbonell-Barrachina, Arsenic uptake by crops: Effect of arsenic in soil on arsenic uptake by plants. Risk assessment of arsenic in grain, fruits and vegetables. Low cost technology for in-situ treatment of groundwater. ISBN 9780230636392, *McMillan India Ltd.* (2008).
+
+
+
+9.A. J. Signes Pastor, K. Mitra, F. Burlo and A. A. Carbonell-Barrachina, Effect of soluble arsenic on farming: Grain and crop selection and long-and short-term effect on farming. Low cost technology for in-situ treatment of groundwater. ISBN 9780230636392., *McMillan India Ltd.* (2008) 112–119.
+
+
+
+10.A. J. Signes Pastor, K. Mitra, F. Burlo and A. A. Carbonell-Barrachina, Alternative farming practices: Crop selection and rotation to reduce health risk and maximise farm revenues. Low cost technology for in-situ treatment of groundwater. ISBN 9780230636392, *McMillan India Ltd.* (2008) 104–112.
 
 ## 8. Other publications
 
