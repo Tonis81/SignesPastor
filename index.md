@@ -875,7 +875,7 @@ Abstract reviewer for ICES2023 - International Conference and Exhibition for Sci
 
 Abstract reviewer for the 34th Annual Conference of International Society for Enviromental Epidemiology (Athens, 18-21 September 2022) - https://isee2022.org/
 
-Premis a projectes d'investigació de joves estudiants de la Comunitat Valenciana - SAPIÈNCIA 2022.  Red de Universidades Valencianas para el fomento de la I+D+i (Ruvid) - https://sapienciapremis.es/
+Premis a projectes d'investigació de joves estudiants de la Comunitat Valenciana - SAPIÈNCIA 2022 | SAPIÈNCIA 2023.  Red de Universidades Valencianas para el fomento de la I+D+i (Ruvid) - https://sapienciapremis.es/
 
 Call medical reseach funding "VIII Convocatoria" ISABIAL 2021.
 
