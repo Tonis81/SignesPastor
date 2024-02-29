@@ -595,11 +595,11 @@ He is interested in evaluating the transfer of trace metals from soil/water to t
 
 
 
-4.A. Oncina-Cánovas, J. Vioque, G. Riutort, R. Soler-Blasco, A. Iriza, Z. Barroeta, A. Fernández-Somoano, A. Tardón, M. Vrijheid M. andGuxens and A. J. Signes-Pastor, Pro-vegetarian dietary patterns and metal exposure in children of 4-5-years from the infancia y medio ambiente cohort (INMA), *ISEE, Kachsiung, Taiwan* (17-21 September 2023).
+4.A. Oncina-Cánovas, J. Vioque, G. Riutort, R. Soler-Blasco, A. Iriza, Z. Barroeta, A. Fernández-Somoano, A. Tardón, M. Vrijheid M. andGuxens and A. J. Signes-Pastor, Pro-vegetarian dietary patterns and metal exposure in children of 4-5-years from the infancia y medio ambiente cohort (INMA), *ISEE, Kachsiung, Taiwan* (17-21 September 2023) https://doi.org/10.1289/isee.2023.EP-002
 
 
 
-5.L. Notario-Barandiaran, S. Dı́az-Coto, N. Jimenez-Redondo, M. Guxens, M. Vrijheid, A. Andiarena, A. Irizar, I. Riaño-Galan, A. Fernández-Somoano, S. Llop, M. Lozano, M. R. Karagas, A. Meharg, M. Carey, C. Meharg, K. Ralphs, C. McCreanor, J. Vioque, et al., Exposure to metal mixtures and neurodevelopmental outcomes in 4–5-year-old children living in spain, *ISEE, Kachsiung, Taiwan* (17-21 September 2023).
+5.L. Notario-Barandiaran, S. Dı́az-Coto, N. Jimenez-Redondo, M. Guxens, M. Vrijheid, A. Andiarena, A. Irizar, I. Riaño-Galan, A. Fernández-Somoano, S. Llop, M. Lozano, M. R. Karagas, A. Meharg, M. Carey, C. Meharg, K. Ralphs, C. McCreanor, J. Vioque, et al., Exposure to metal mixtures and neurodevelopmental outcomes in 4–5-year-old children living in spain, *ISEE, Kachsiung, Taiwan* (17-21 September 2023) https://doi.org/10.1289/isee.2023.EP-001
 
 
 
