@@ -515,7 +515,7 @@ He is interested in evaluating the transfer of trace metals from soil/water to t
 
 ## 7. Scientific book chapters
 
-1.A. J. Signes Pastor, F. Wu, S. F. Farzan, Y. Chen and M. R. Karagas, 2nd edition of the textbook of children’s environmental health - arsenic exposure in children, *Oxford Academic* (2024).
+1.A. J. Signes Pastor, F. Wu, S. F. Farzan, Y. Chen and M. R. Karagas, 2nd edition of the textbook of children’s environmental health - arsenic exposure in children, *Oxford Academic ( https://global.oup.com/academic/product/textbook-of-childrens-environmental-health-9780197662526?cc=es&lang=en&#)* (2024).
 
 
 
