@@ -901,7 +901,7 @@ Abstract reviewer for the 34th Annual Conference of International Society for En
 
 
 
-Premis a projectes d'investigació de joves estudiants de la Comunitat Valenciana - SAPIÈNCIA 2022 | SAPIÈNCIA 2023. Red de Universidades Valencianas para el fomento de la I+D+i (Ruvid) - https://sapienciapremis.es/
+Premis a projectes d'investigació de joves estudiants de la Comunitat Valenciana. SAPIÈNCIA 2022 | SAPIÈNCIA 2023. Red de Universidades Valencianas para el fomento de la I+D+i (Ruvid) - https://sapienciapremis.es/
 
 
 
