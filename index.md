@@ -220,6 +220,9 @@ He is interested in evaluating the transfer of trace metals from soil/water to t
 
 
 45.A. J. Signes-Pastor, M. Carey and A. A. Meharg, Inorganic arsenic removal in rice bran by percolating cooking water., Food Chem 234 (2017) 76–80.; DOI:10.1016/j.foodchem.2017.04.140
+
+
+
 46.M. A. Davis, A. J. Signes-Pastor, M. Argos, F. Slaughter, C. Pendergrast, T. Punshon, A. Gossai, H. Ahsan and M. R. Karagas, Assessment of human dietary exposure to arsenic through rice., Sci Total Environ 586 (2017) 1237–1244.; DOI:10.1016/j.scitotenv.2017.02.119
 
 
