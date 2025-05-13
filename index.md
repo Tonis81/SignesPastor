@@ -777,7 +777,7 @@ He is interested in evaluating the transfer of trace metals from soil/water to t
 
 ## 10. Service activities
 
-### Editorial-in-Chief
+### Editor-in-Chief
 
 Exposure & Health
 
