@@ -777,9 +777,13 @@ He is interested in evaluating the transfer of trace metals from soil/water to t
 
 ## 10. Service activities
 
+### Editorial-in-Chief
+
+Exposure & Health
+
 ### Editorial board
 
-Exposure & Health; Scientific Reports;Journal of Food Quality; Environmental Health Perspective; Journal of Food Biochemistry; Toxics (Special Issue Editor)
+Scientific Reports;Journal of Food Quality; Environmental Health Perspective; Journal of Food Biochemistry; Toxics (Special Issue Editor)
 
 ### Ad-Hoc Manuscript Reviewer
 
