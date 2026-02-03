@@ -3,20 +3,26 @@
 
 <img src="Toni Signes.png" align="right" width="160" style="border-radius: 10px; margin-left: 20px;" />
 
-**Postdoctoral Research Associate / Permanent Professor** [antonio.j.signes-pastor@dartmouth.edu](mailto:antonio.j.signes-pastor@dartmouth.edu) • [asignes@umh.es](mailto:asignes@umh.es)
+**Permanent Professor** [asignes@umh.es](mailto:asignes@umh.es)
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4898--2480-brightgreen)](https://orcid.org/0000-0003-4898-2480) 
 [![ResearcherID](https://img.shields.io/badge/ResearcherID-N--9700--2019-blue)](https://publons.com/researcher/N-9700-2019)
 
 ---
 
-### **Navigation**
-| | | |
-| :--- | :--- | :--- |
-| 1. [Education](#1-education) | 5. [Industry Projects](#5-research-projects-industry) | 9. [Conferences](#9-conferences--seminars) |
-| 2. [JCR Publications](#2-jcr-publications) | 6. [Teaching](#6-teaching) | 10. [Service Activities](#10-service-activities) |
-| 3. [Employment](#3-employment) | 7. [Books & Chapters](#7-books--scientific-book-chapters) | 11. [Doctoral Thesis](#11-doctoral-thesis) |
-| 4. [Academic Projects](#4-research--teaching-projects-academia) | 8. [Other Publications](#8-other-publications) | |
+### **Content**
+
+1. [Education](#1-education)
+2. [JCR Publications](#2-jcr-publications)
+3. [Employment](#3-employment)
+4. [Academic Projects](#4-research--teaching-projects-academia)
+5. [Industry Projects](#5-research-projects-industry)
+6. [Teaching](#6-teaching)
+7. [Books & Chapters](#7-books--scientific-book-chapters)
+8. [Other Publications](#8-other-publications)
+9. [Conferences](#9-conferences--seminars) 
+10. [Service Activities](#10-service-activities) 
+11. [Doctoral Thesis](#11-doctoral-thesis)
 
 ---
 
