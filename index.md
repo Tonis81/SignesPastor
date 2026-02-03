@@ -1,7 +1,7 @@
 
 # Antonio J. Signes-Pastor, PhD
 
-<img src="Toni Signes.png" align="right" width="160" style="border-radius: 10px; margin-left: 20px;" />
+<img src="Toni Signes.png" align="left" width="160" style="border-radius: 10px; margin-left: 20px;" />
 
 **Permanent Professor** [asignes@umh.es](mailto:asignes@umh.es)
 
