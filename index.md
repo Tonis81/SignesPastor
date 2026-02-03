@@ -31,21 +31,19 @@ He is interested in evaluating the transfer of trace metals from soil/water to t
 
 ## 1. Education
 
-1.Epidemiology; Università Cattolica del Sacro Cuore, IT. (2017).
+## 1. Education
 
-2.Epidemiology and Population Health (EPIC); Columbia University, US. (2017).
+* **Epidemiology** | Università Cattolica del Sacro Cuore, IT (2017)
+* **Epidemiology and Population Health (EPIC)** | Columbia University, US (2017)
+* **ILM Level 5 Leadership and Management** | Queen’s University Belfast, UK (2015)
+* **PhD in Food Science & Technology** | Miguel Hernández University, ES (2010) 
+    * *Extraordinary Doctoral Award*
+* **Advanced Methods of Applied Statistics** | UNED, ES (2010)
+* **MSc in Environmental Management** | FormaSelect España S.L., ES (2007)
+* **MSc in Food Science and Technology** | Miguel Hernández University, ES (2004) 
+    * *Extraordinary Award*
+* **BSc in Agronomy Engineering** | Polytechnic University of Valencia, ES (2002)
 
-3.ILM Level 5 Leadership and Management; Queen’s University Belfast, UK. (2015).
-
-4.Doctor of Philosophy, Food Science & Technology, Miguel Hernández University, ES (Extraordinary Award) (10 May 2010).
-
-5.Advance methods of applied statistics; UNED, ES. (2010).
-
-6.Masters, Environmental Management, FormaSelect España S.L., ES (2007).
-
-7.Masters, Food Science and Technology, Miguel Hernández University, ES (Extraordinary Award) (2004).
-
-8.Bachelor, Agronomy Engineering, Polytechnic University of Valencia, ES (2002).
 
 ## 2. JCR publications
 
