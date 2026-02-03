@@ -1,22 +1,33 @@
-[toc]
 
-1. Education
-2. JCR Publications
-3. Employment
-4. Research projects (Academia)
-5. Research projects (Industry)
-6. Teaching
-7. Scientific book chapters
-8. Other publications
-9. Conferences & Seminars
-10. Service activities
-11. Doctoral thesis
+### **Contents**
+
+[**Education**](#1-education)
+ 
+[**JCR Publications**](#2-jcr-publications)
+
+[**Employment**](#3-employment) 
+
+[**Academic Projects**](#4-research--teaching-projects-academia) 
+
+[**Industry Projects**](#5-research-projects-industry)
+
+[**Teaching**](#6-teaching)
+
+[**Books**](#7-books--scientific-book-chapters)
+
+[**Other Publications**](#8-other-publications)
+
+[**Conferences**](#9-conferences--seminars)
+
+[**Service**](#10-service-activities) • [**Thesis**](#11-doctoral-thesis)
 
 # Antonio J. Signes-Pastor, PhD
 
 <img src="Toni Signes.png" align="right" width="180" style="border-radius: 10px; margin-left: 20px;" />
 
+
 **Postdoctoral Research Associate / Researcher** [Dartmouth College](mailto:antonio.j.signes-pastor@dartmouth.edu) | [Universidad Miguel Hernández](mailto:asignes@umh.es)
+
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4898--2480-brightgreen)](https://orcid.org/0000-0003-4898-2480) 
 [![ResearcherID](https://img.shields.io/badge/ResearcherID-N--9700--2019-blue)](https://publons.com/researcher/N-9700-2019)
