@@ -3,7 +3,7 @@
 
 <img src="Toni Signes.png" align="right" width="160" style="border-radius: 10px; margin-left: 20px;" />
 
-**Postdoctoral Research Associate / Researcher** [antonio.j.signes-pastor@dartmouth.edu](mailto:antonio.j.signes-pastor@dartmouth.edu) • [asignes@umh.es](mailto:asignes@umh.es)
+**Postdoctoral Research Associate / Permanent Professor** [antonio.j.signes-pastor@dartmouth.edu](mailto:antonio.j.signes-pastor@dartmouth.edu) • [asignes@umh.es](mailto:asignes@umh.es)
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4898--2480-brightgreen)](https://orcid.org/0000-0003-4898-2480) 
 [![ResearcherID](https://img.shields.io/badge/ResearcherID-N--9700--2019-blue)](https://publons.com/researcher/N-9700-2019)
