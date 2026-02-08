@@ -57,307 +57,292 @@ He is interested in evaluating the transfer of trace metals from soil/water to t
 
 ## 2. JCR publications
 
-1.Z. Feric, D. Beene, A. J. Signes-Pastor, D. J. Watkins, G. Gao, M. R. Karagas, D. A. MacKenzie, D. R. Kaeli and J. Manjourides, Effects of maternal arsenic exposure on birth outcomes using harmonized data across three birth cohorts, Toxicology and Environmental Health Sciences (2026).; DOI:10.1007/s13530-025-00292-6
+M. Rodríguez-Estrada, Á. A. Carbonell-Barrachina, L. Andreu-Coll, F. Hernández, A. J. Signes-Pastor, Effect of deficit irrigation strategies on the elemental composition of "Mirlo Rojo" apricot cultivated in Spain, Journal of Food Composition and Analysis (2026).; DOI:https://doi.org/10.1016/j.jfca.2026.108957
 
-2.L. Carrera-Beltrán, I. Gavilanes-Terán, J. Idrovo-Novillo, C. Ramos, V. H. Valverde, V. Bravo-Basantes, S. Ramos-Romero, C. Paredes, F. Hernández, Á. A. Carbonell-Barrachina and A. J. Signes-Pastor, Soil amendments, physicochemical properties, and metal accumulation in soils and vegetables of volcanic and non-volcanic regions in ecuador, Agronomy 15 (2025).; DOI:10.3390/agronomy15051166
+Z. Feric, D. Beene, A. J. Signes-Pastor, D. J. Watkins, G. Gao, M. R. Karagas, D. A. MacKenzie, D. R. Kaeli and J. Manjourides, Effects of maternal arsenic exposure on birth outcomes using harmonized data across three birth cohorts, Toxicology and Environmental Health Sciences (2026).; DOI:10.1007/s13530-025-00292-6
 
-3.I. Casanova-Martı́nez, E. Hernández-López, A. J. Signes-Pastor, E. Sendra, Á.A. Carbonell-Barrachina and Cano-Lamadrid, Abiotic pollutant concentrations in fish: A comparative review of wild-caught and aquaculture sources, Food Control (2025) 111220.; DOI:https://doi.org/10.1016/j.foodcont.2025.111220
+L. Carrera-Beltrán, I. Gavilanes-Terán, J. Idrovo-Novillo, C. Ramos, V. H. Valverde, V. Bravo-Basantes, S. Ramos-Romero, C. Paredes, F. Hernández, Á. A. Carbonell-Barrachina and A. J. Signes-Pastor, Soil amendments, physicochemical properties, and metal accumulation in soils and vegetables of volcanic and non-volcanic regions in ecuador, Agronomy 15 (2025).; DOI:10.3390/agronomy15051166
 
-4.M. Garcı́a-Villarino, R. Fernández-Iglesias, A. V. Garcı́a, E. Villa-Fernández, L. Fernández-Arce, I. Riaño-Galán, C. Lambert, V. Martı́n, M. R. Karagas, E. Delgado-Álvarez, A. Fernández-Somoano and A. J. Signes-Pastor, Exposure to a mixture of arsenic species and growth indicators in 6–12-year-old children from the cycles 2007–2020 NHANES, Environment International 197 (2025) 109347.; DOI:https://doi.org/10.1016/j.envint.2025.109347
+I. Casanova-Martı́nez, E. Hernández-López, A. J. Signes-Pastor, E. Sendra, Á.A. Carbonell-Barrachina and Cano-Lamadrid, Abiotic pollutant concentrations in fish: A comparative review of wild-caught and aquaculture sources, Food Control (2025) 111220.; DOI:https://doi.org/10.1016/j.foodcont.2025.111220
 
-5.L. Andreu-Coll, Á. A. Carbonell-Barrachina, F. Burló, A. Galindo, J. Garcı́a-Brunton, D. B. López-Lluch, R. Martı́nez-Font, L. Noguera-Artiaga, E. Sendra, P. Hernández-Ariola, F. Hernández and A. J. Signes-Pastor, Regulated deficit irrigation perspectives for water efficiency in apricot cultivation: A review, Agronomy 14 (2024).; DOI:10.3390/agronomy14061219
+M. Garcı́a-Villarino, R. Fernández-Iglesias, A. V. Garcı́a, E. Villa-Fernández, L. Fernández-Arce, I. Riaño-Galán, C. Lambert, V. Martı́n, M. R. Karagas, E. Delgado-Álvarez, A. Fernández-Somoano and A. J. Signes-Pastor, Exposure to a mixture of arsenic species and growth indicators in 6–12-year-old children from the cycles 2007–2020 NHANES, Environment International 197 (2025) 109347.; DOI:https://doi.org/10.1016/j.envint.2025.109347
 
-6.L. Andreu-Coll, F. Burló, A. Galindo, J. Garcı́a-Brunton, J. Vigueras-Fernández, P. J. Blaya-Ros, R. Martı́nez-Font, L. Noguera-Artiaga, E. Sendra, F. Hernández and A. J. Signes-Pastor, Enhancing “mirlo rojo” apricot (prunus armeniaca l.) quality through regulated deficit irrigation: Effects on antioxidant activity, fatty acid profile, and volatile compounds, Horticulturae 10 (2024).; DOI:10.3390/horticulturae10121253
+L. Andreu-Coll, Á. A. Carbonell-Barrachina, F. Burló, A. Galindo, J. Garcı́a-Brunton, D. B. López-Lluch, R. Martı́nez-Font, L. Noguera-Artiaga, E. Sendra, P. Hernández-Ariola, F. Hernández and A. J. Signes-Pastor, Regulated deficit irrigation perspectives for water efficiency in apricot cultivation: A review, Agronomy 14 (2024).; DOI:10.3390/agronomy14061219
 
-7.A. Oncina-Cánovas, L. Torres-Collado, M. Garcı́a-de-la-Hera, L. M. Compañ-Gabucio, S. González-Palacios, A. J. Signes-Pastor and J. Vioque, Pro-vegetarian dietary patterns and mortality by all-cause and specific causes in an older mediterranean population, The Journal of nutrition, health and aging 28 (2024) 100239.; DOI:https://doi.org/10.1016/j.jnha.2024.100239
+L. Andreu-Coll, F. Burló, A. Galindo, J. Garcı́a-Brunton, J. Vigueras-Fernández, P. J. Blaya-Ros, R. Martı́nez-Font, L. Noguera-Artiaga, E. Sendra, F. Hernández and A. J. Signes-Pastor, Enhancing “mirlo rojo” apricot (prunus armeniaca l.) quality through regulated deficit irrigation: Effects on antioxidant activity, fatty acid profile, and volatile compounds, Horticulturae 10 (2024).; DOI:10.3390/horticulturae10121253
 
-8.R. Shokoohi, M. Khazaei, R. Mostafaloo, S. Khazaei, A. J. Signes-Pastor, E. Ghahramani and Z. Torkshavand, Systematic review and meta-analysis of arsenic concentration in drinking water sources of iran., Environ Geochem Health 46 (2024) 155.; DOI:10.1007/s10653-024-01943-2
+A. Oncina-Cánovas, L. Torres-Collado, M. Garcı́a-de-la-Hera, L. M. Compañ-Gabucio, S. González-Palacios, A. J. Signes-Pastor and J. Vioque, Pro-vegetarian dietary patterns and mortality by all-cause and specific causes in an older mediterranean population, The Journal of nutrition, health and aging 28 (2024) 100239.; DOI:https://doi.org/10.1016/j.jnha.2024.100239
 
-9.N. Khoury, M. Ángeles Martı́nez, S. K. Nishi, M. Ángel Martı́nez-González, D. Corella, O. Castañer, J. Alfredo Martı́nez, Ángel M. Alonso-Gómez, J. Wärnberg, J. Vioque, D. Romaguera, J. López-Miranda, R. Estruch, F. J. Tinahones, J. Manuel Santos-Lozano, L. Serra-Majem, A. Bueno-Caunivanillas, J. A. Tur, et al., Dietary intake of perfluorooctanesulfonic acid (PFOS) and glucose homeostasis parameters in a non-diabetic senior population, Environment International (2024) 108565.; DOI:https://doi.org/10.1016/j.envint.2024.108565
+R. Shokoohi, M. Khazaei, R. Mostafaloo, S. Khazaei, A. J. Signes-Pastor, E. Ghahramani and Z. Torkshavand, Systematic review and meta-analysis of arsenic concentration in drinking water sources of iran., Environ Geochem Health 46 (2024) 155.; DOI:10.1007/s10653-024-01943-2
 
-10.L. Notario-Barandiaran, A. J. Signes-Pastor, H. E. Laue, A. Abuawad, B. P. Jackson, J. C. Madan and M. R. Karagas, Association between mediterranean diet and metal mixtures concentrations in pregnant people from the new hampshire birth cohort study, Science of The Total Environment 912 (2024) 169127.; DOI:https://doi.org/10.1016/j.scitotenv.2023.169127
+N. Khoury, M. Ángeles Martı́nez, S. K. Nishi, M. Ángel Martı́nez-González, D. Corella, O. Castañer, J. Alfredo Martı́nez, Ángel M. Alonso-Gómez, J. Wärnberg, J. Vioque, D. Romaguera, J. López-Miranda, R. Estruch, F. J. Tinahones, J. Manuel Santos-Lozano, L. Serra-Majem, A. Bueno-Caunivanillas, J. A. Tur, et al., Dietary intake of perfluorooctanesulfonic acid (PFOS) and glucose homeostasis parameters in a non-diabetic senior population, Environment International (2024) 108565.; DOI:https://doi.org/10.1016/j.envint.2024.108565
 
-11.L. Carrera-Beltrán, I. Gavilanes-Terán, J. Idrovo-Novillo, V. H. Valverde, A. Rodrı́guez-Pinos, C. Paredes, A. J. Signes-Pastor and Ángel A. Carbonell-Barrachina, Environmental pollution by heavy metals within the area influenced by the tungurahua volcano eruption – ecuador, Ecotoxicology and Environmental Safety 270 (2024) 115919.; DOI:https://doi.org/10.1016/j.ecoenv.2023.115919
+L. Notario-Barandiaran, A. J. Signes-Pastor, H. E. Laue, A. Abuawad, B. P. Jackson, J. C. Madan and M. R. Karagas, Association between mediterranean diet and metal mixtures concentrations in pregnant people from the new hampshire birth cohort study, Science of The Total Environment 912 (2024) 169127.; DOI:https://doi.org/10.1016/j.scitotenv.2023.169127
 
-12.A. Oncina-Cánovas, J. Vioque, G. Riutort-Mayol, R. Soler-Blasco, A. Irizar, Z. Barroeta, A. Fernández-Somoano, A. Tardón, M. Vrijheid, M. Guxens, M. Carey, C. Meharg, K. Ralphs, C. McCreanor, A. Meharg and A. J. Signes-Pastor, Pro-vegetarian dietary patterns and essential and heavy metal exposure in children of 4-5-years from the INfancia y medio ambiente cohort (INMA), International Journal of Hygiene and Environmental Health 257 (2024) 114344.; DOI:https://doi.org/10.1016/j.ijheh.2024.114344
+L. Carrera-Beltrán, I. Gavilanes-Terán, J. Idrovo-Novillo, V. H. Valverde, A. Rodrı́guez-Pinos, C. Paredes, A. J. Signes-Pastor and Ángel A. Carbonell-Barrachina, Environmental pollution by heavy metals within the area influenced by the tungurahua volcano eruption – ecuador, Ecotoxicology and Environmental Safety 270 (2024) 115919.; DOI:https://doi.org/10.1016/j.ecoenv.2023.115919
 
-13.L. Notario-Barandiaran, S. Dı́az-Coto, N. Jimenez-Redondo, M. Guxens, M. Vrijheid, A. Andiarena, A. Irizar, I. Riaño-Galan, A. Fernández-Somoano, S. Llop, M. Lozano, M. R. Karagas, A. Meharg, M. Carey, C. Meharg, K. Ralphs, C. McCreanor, J. Vioque, et al., Latent childhood exposure to mixtures of metals and neurodevelopmental outcomes in 4–5-year-old children living in spain, Exposure and Health (2023).; DOI:10.1007/s12403-023-00610-8
+A. Oncina-Cánovas, J. Vioque, G. Riutort-Mayol, R. Soler-Blasco, A. Irizar, Z. Barroeta, A. Fernández-Somoano, A. Tardón, M. Vrijheid, M. Guxens, M. Carey, C. Meharg, K. Ralphs, C. McCreanor, A. Meharg and A. J. Signes-Pastor, Pro-vegetarian dietary patterns and essential and heavy metal exposure in children of 4-5-years from the INfancia y medio ambiente cohort (INMA), International Journal of Hygiene and Environmental Health 257 (2024) 114344.; DOI:https://doi.org/10.1016/j.ijheh.2024.114344
 
-14.L. Notario-Barandiaran, A. Irizar, M. Begoña-Zubero, R. Soler-Blasco, G. Riutort-Mayol, A. Fernández-Somoano, A. Tardón, M. Casas, M. Vrijheid, A. Meharg, M. Carey, C. Meharg, K. Ralphs, C. McCreanor, J. O. Grimalt, J. Vioque and A. J. Signes-Pastor, Association between mediterranean diet and metal(loid) exposure in 4-5-year-old children living in spain., Environmental Research 233 (2023) 116508.; DOI:https://doi.org/10.1016/j.envres.2023.116508
+L. Notario-Barandiaran, S. Dı́az-Coto, N. Jimenez-Redondo, M. Guxens, M. Vrijheid, A. Andiarena, A. Irizar, I. Riaño-Galan, A. Fernández-Somoano, S. Llop, M. Lozano, M. R. Karagas, A. Meharg, M. Carey, C. Meharg, K. Ralphs, C. McCreanor, J. Vioque, et al., Latent childhood exposure to mixtures of metals and neurodevelopmental outcomes in 4–5-year-old children living in spain, Exposure and Health (2023).; DOI:10.1007/s12403-023-00610-8
 
-15.A. J. Signes-Pastor, L. Notario-Barandiaran, M. Guill, J. Madan, E. Baker, B. Jackson and M. R. Karagas, Prenatal exposure to metal mixtures and lung function in children from the new hampshire birth cohort study, Environmental Research 238 (2023) 117234.; DOI:https://doi.org/10.1016/j.envres.2023.117234
+L. Notario-Barandiaran, A. Irizar, M. Begoña-Zubero, R. Soler-Blasco, G. Riutort-Mayol, A. Fernández-Somoano, A. Tardón, M. Casas, M. Vrijheid, A. Meharg, M. Carey, C. Meharg, K. Ralphs, C. McCreanor, J. O. Grimalt, J. Vioque and A. J. Signes-Pastor, Association between mediterranean diet and metal(loid) exposure in 4-5-year-old children living in spain., Environmental Research 233 (2023) 116508.; DOI:https://doi.org/10.1016/j.envres.2023.116508
 
-16.C. Bouzas, R. Pastor, S. Garcı́a, M. Monserrat-Mesquida, M. Á. Martı́nez-González, J. Salas-Salvadó, D. Corella, H. Schröder, J. A. Martı́nez, Á. M. Alonso-Gómez, J. Wärnberg, J. Vioque, D. Romaguera, J. Lopez-Miranda, R. Estruch, F. J. Tinahones, J. Lapetra, L. Serra-Majem, et al., Association of monetary diet cost of foods and diet quality in spanish older adults, Frontiers in Public Health 11 (2023).; DOI:10.3389/fpubh.2023.1166787
+A. J. Signes-Pastor, L. Notario-Barandiaran, M. Guill, J. Madan, E. Baker, B. Jackson and M. R. Karagas, Prenatal exposure to metal mixtures and lung function in children from the new hampshire birth cohort study, Environmental Research 238 (2023) 117234.; DOI:https://doi.org/10.1016/j.envres.2023.117234
 
-17.N. Khoury, M. Ángeles Martı́nez, I. Paz-Graniel, M. Ángel Martı́nez-González, D. Corella, O. Castañer, J. A. Martı́nez, Ángel M. Alonso-Gómez, J. Wärnberg, J. Vioque, D. Romaguera, J. López-Miranda, R. Estruch, F. J. Tinahones, J. Lapetra, J. L. Serra-Majem, A. Bueno-Cavanillas, J. A. Tur, et al., Dietary intake of polychlorinated dibenzo-p-dioxins and furans, adiposity and obesity status., Environmental Research (2023) 115697.; DOI:https://doi.org/10.1016/j.envres.2023.115697
+C. Bouzas, R. Pastor, S. Garcı́a, M. Monserrat-Mesquida, M. Á. Martı́nez-González, J. Salas-Salvadó, D. Corella, H. Schröder, J. A. Martı́nez, Á. M. Alonso-Gómez, J. Wärnberg, J. Vioque, D. Romaguera, J. Lopez-Miranda, R. Estruch, F. J. Tinahones, J. Lapetra, L. Serra-Majem, et al., Association of monetary diet cost of foods and diet quality in spanish older adults, Frontiers in Public Health 11 (2023).; DOI:10.3389/fpubh.2023.1166787
 
-18.S. Garcı́a, C. Bouzas, D. Mateos, R. Pastor, L. Álvarez, M. Rubı́n, M. Á. Martı́nez-González, J. Salas-Salvadó, D. Corella, A. Goday, J. A. Martı́nez, Á. M. Alonso-Gómez, J. Wärnberg, J. Vioque, D. Romaguera, J. Lopez-Miranda, R. Estruch, F. J. Tinahones, et al., Carbon dioxide (CO2) emissions and adherence to mediterranean diet in an adult population: The mediterranean diet index as a pollution level index, Environmental Health 22 (2023) 1.; DOI:10.1186/s12940-022-00956-7
+N. Khoury, M. Ángeles Martı́nez, I. Paz-Graniel, M. Ángel Martı́nez-González, D. Corella, O. Castañer, J. A. Martı́nez, Ángel M. Alonso-Gómez, J. Wärnberg, J. Vioque, D. Romaguera, J. López-Miranda, R. Estruch, F. J. Tinahones, J. Lapetra, J. L. Serra-Majem, A. Bueno-Cavanillas, J. A. Tur, et al., Dietary intake of polychlorinated dibenzo-p-dioxins and furans, adiposity and obesity status., Environmental Research (2023) 115697.; DOI:https://doi.org/10.1016/j.envres.2023.115697
 
-19.A. Oncina-Cánovas, S. González-Palacios, L. Notario-Barandiaran, L. Torres-Collado, A. J. Signes-Pastor, E. de-Madaria, M. Santibañez, M. Garcı́a-de la Hera and J. Vioque, Adherence to pro-vegetarian food patterns and risk of oesophagus, stomach, and pancreas cancers: A multi case&ndash;control study (the PANESOES study), Nutrients 14 (2022).; DOI:10.3390/nu14245288
+S. Garcı́a, C. Bouzas, D. Mateos, R. Pastor, L. Álvarez, M. Rubı́n, M. Á. Martı́nez-González, J. Salas-Salvadó, D. Corella, A. Goday, J. A. Martı́nez, Á. M. Alonso-Gómez, J. Wärnberg, J. Vioque, D. Romaguera, J. Lopez-Miranda, R. Estruch, F. J. Tinahones, et al., Carbon dioxide (CO2) emissions and adherence to mediterranean diet in an adult population: The mediterranean diet index as a pollution level index, Environmental Health 22 (2023) 1.; DOI:10.1186/s12940-022-00956-7
 
-20.A. J. Signes-Pastor, S. Dı́az-Coto, P. Martinez-Camblor, M. Carey, R. Soler-Blasco, M. Garcı́a-Villarino, A. Fernández-Somoano, J. Julvez, P. Carrasco, A. Lertxundi, L. Santa Marina, M. Casas, A. A. Meharg, M. R. Karagas and J. Vioque-Lopez, Arsenic exposure and respiratory outcomes during childhood in the INMA study., PLoS One 17 (2022) e0274215.; DOI:10.1371/journal.pone.0274215
+A. Oncina-Cánovas, S. González-Palacios, L. Notario-Barandiaran, L. Torres-Collado, A. J. Signes-Pastor, E. de-Madaria, M. Santibañez, M. Garcı́a-de la Hera and J. Vioque, Adherence to pro-vegetarian food patterns and risk of oesophagus, stomach, and pancreas cancers: A multi case&ndash;control study (the PANESOES study), Nutrients 14 (2022).; DOI:10.3390/nu14245288
 
-21.A. J. Signes-Pastor, M. E. Romano, B. P. Jackson, J. M. Braun, K. Yolton, A. Chen, B. Lanphear and M. R. Karagas, Associations of maternal urinary arsenic concentrations during pregnancy with childhood cognitive abilities: The HOME study., Int J Hyg Environ Health 245 (2022) 114009.; DOI:10.1016/j.ijheh.2022.114009
+A. J. Signes-Pastor, S. Dı́az-Coto, P. Martinez-Camblor, M. Carey, R. Soler-Blasco, M. Garcı́a-Villarino, A. Fernández-Somoano, J. Julvez, P. Carrasco, A. Lertxundi, L. Santa Marina, M. Casas, A. A. Meharg, M. R. Karagas and J. Vioque-Lopez, Arsenic exposure and respiratory outcomes during childhood in the INMA study., PLoS One 17 (2022) e0274215.; DOI:10.1371/journal.pone.0274215
 
-22.N. Khoury, C. Gómez-Donoso, M. A. Martı́nez, M. A. Martı́nez-González, D. Corella, M. Fitó, J. A. Martı́nez, A. M. Alonso-Gómez, J. Wärnberg, J. Vioque, D. Romaguera, A. León-Acuña, F. J. Tinahones, J. M. Santos-Lozano, L. Serra-Majem, P. MassóGuijarro, J. A. Tur, V. Martı́n Sánchez, et al., Associations between the modified food standard agency nutrient profiling system dietary index and cardiovascular risk factors in an elderly population., Front Nutr 9 (2022) 897089.; DOI:10.3389/fnut.2022.897089
+A. J. Signes-Pastor, M. E. Romano, B. P. Jackson, J. M. Braun, K. Yolton, A. Chen, B. Lanphear and M. R. Karagas, Associations of maternal urinary arsenic concentrations during pregnancy with childhood cognitive abilities: The HOME study., Int J Hyg Environ Health 245 (2022) 114009.; DOI:10.1016/j.ijheh.2022.114009
 
-23.A. J. Signes-Pastor, V. Sayarath, B. P. Jackson, K. L. Cottingham, T. Punshon and M. R. Karagas, Dietary exposure to essential and non-essential elements during infants’first year of life in the new hampshire birth cohort study, Exposure and Health (2022).; DOI:10.1007/s12403-022-00489-x
+N. Khoury, C. Gómez-Donoso, M. A. Martı́nez, M. A. Martı́nez-González, D. Corella, M. Fitó, J. A. Martı́nez, A. M. Alonso-Gómez, J. Wärnberg, J. Vioque, D. Romaguera, A. León-Acuña, F. J. Tinahones, J. M. Santos-Lozano, L. Serra-Majem, P. MassóGuijarro, J. A. Tur, V. Martı́n Sánchez, et al., Associations between the modified food standard agency nutrient profiling system dietary index and cardiovascular risk factors in an elderly population., Front Nutr 9 (2022) 897089.; DOI:10.3389/fnut.2022.897089
 
-24.M. Garcı́a-Villarino, A. J. Signes-Pastor, I. Riaño-Galán, A. C. Rodrı́guez-Dehli, E. Vizcaı́no, J. O. Grimalt, A. Fernández-Somoano and A. Tardón, Serum concentrations of persistent organic pollutants mixture during pregnancy and anogenital distance in 8-year-old children from the INMA-asturias cohort., Environ Res 213 (2022) 113607.; DOI:10.1016/j.envres.2022.113607
+A. J. Signes-Pastor, V. Sayarath, B. P. Jackson, K. L. Cottingham, T. Punshon and M. R. Karagas, Dietary exposure to essential and non-essential elements during infants’first year of life in the new hampshire birth cohort study, Exposure and Health (2022).; DOI:10.1007/s12403-022-00489-x
 
-25.Y. Moroishi, A. J. Signes-Pastor, Z. Li, K. L. Cottingham, B. P. Jackson, T. Punshon, J. Madan, K. Nadeau, J. Gui and M. R. Karagas, Infant infections, respiratory symptoms, and allergy in relation to timing of rice cereal introduction in a united states cohort, Scientific Reports 12 (2022) 4450.; DOI:10.1038/s41598-022-08354-2
+M. Garcı́a-Villarino, A. J. Signes-Pastor, I. Riaño-Galán, A. C. Rodrı́guez-Dehli, E. Vizcaı́no, J. O. Grimalt, A. Fernández-Somoano and A. Tardón, Serum concentrations of persistent organic pollutants mixture during pregnancy and anogenital distance in 8-year-old children from the INMA-asturias cohort., Environ Res 213 (2022) 113607.; DOI:10.1016/j.envres.2022.113607
 
-26.M. Garcı́a-Villarino, A. J. Signes-Pastor, M. R. Karagas, I. Riaño-Galán, C. Rodrı́guez-Dehli, J. O. Grimalt, E. Junqué, A. Fernández-Somoano and A. Tardón, Exposure to metal mixture and growth indicators at 4-5 years. A study in the INMA-asturias cohort., Environ Res 204 (2022) 112375.; DOI:10.1016/j.envres.2021.112375
+Y. Moroishi, A. J. Signes-Pastor, Z. Li, K. L. Cottingham, B. P. Jackson, T. Punshon, J. Madan, K. Nadeau, J. Gui and M. R. Karagas, Infant infections, respiratory symptoms, and allergy in relation to timing of rice cereal introduction in a united states cohort, Scientific Reports 12 (2022) 4450.; DOI:10.1038/s41598-022-08354-2
 
-27.K. Kordas, A. Cantoral, G. Desai, O. Halabicky, A. J. Signes-Pastor, M. M. Tellez-Rojo, K. E. Peterson and M. R. Karagas, Dietary Exposure to Toxic Elements and the Health of Young Children: Methodological Considerations and Data Needs, The Journal of Nutrition (2022).; DOI:10.1093/jn/nxac185
+M. Garcı́a-Villarino, A. J. Signes-Pastor, M. R. Karagas, I. Riaño-Galán, C. Rodrı́guez-Dehli, J. O. Grimalt, E. Junqué, A. Fernández-Somoano and A. Tardón, Exposure to metal mixture and growth indicators at 4-5 years. A study in the INMA-asturias cohort., Environ Res 204 (2022) 112375.; DOI:10.1016/j.envres.2021.112375
 
-28.Z. Feric, N. Bohm Agostini, D. Beene, A. J. Signes-Pastor, Y. Halchenko, D. J. Watkins, D. MacKenzie, M. R. Karagas, J. Manjourides, A. Alshawabkeh and D. Kaeli, A secure and reusable software architecture for supporting online data harmonization., Proc IEEE Int Conf Big Data 2021 (2021) 2801–2812.; DOI:10.1109/bigdata52589.2021.9671538
+K. Kordas, A. Cantoral, G. Desai, O. Halabicky, A. J. Signes-Pastor, M. M. Tellez-Rojo, K. E. Peterson and M. R. Karagas, Dietary Exposure to Toxic Elements and the Health of Young Children: Methodological Considerations and Data Needs, The Journal of Nutrition (2022).; DOI:10.1093/jn/nxac185
 
-29.S. K. Nishi, N. Babio, C. Gómez-Martı́nez, M. A. Martı́nez-González, E. Ros, D. Corella, O. Castañer, J. A. Martı́nez, A. M. Alonso-Gómez, J. Wärnberg, J. Vioque, D. Romaguera, J. López-Miranda, R. Estruch, F. J. Tinahones, J. Lapetra, J. L. Serra-Majem, A. Bueno-Cavanillas, et al., Mediterranean, DASH, and MIND dietary patterns and cognitive function: The 2-year longitudinal changes in an older spanish cohort., Front Aging Neurosci 13 (2021) 782067.; DOI:10.3389/fnagi.2021.782067
+Z. Feric, N. Bohm Agostini, D. Beene, A. J. Signes-Pastor, Y. Halchenko, D. J. Watkins, D. MacKenzie, M. R. Karagas, J. Manjourides, A. Alshawabkeh and D. Kaeli, A secure and reusable software architecture for supporting online data harmonization., Proc IEEE Int Conf Big Data 2021 (2021) 2801–2812.; DOI:10.1109/bigdata52589.2021.9671538
 
-30.A. J. Signes-Pastor, P. Martinez-Camblor, E. Baker, J. Madan, M. F. Guill and M. R. Karagas, Prenatal exposure to arsenic and lung function in children from the new hampshire birth cohort study., Environ Int 155 (2021) 106673.; DOI:10.1016/j.envint.2021.106673
+S. K. Nishi, N. Babio, C. Gómez-Martı́nez, M. A. Martı́nez-González, E. Ros, D. Corella, O. Castañer, J. A. Martı́nez, A. M. Alonso-Gómez, J. Wärnberg, J. Vioque, D. Romaguera, J. López-Miranda, R. Estruch, F. J. Tinahones, J. Lapetra, J. L. Serra-Majem, A. Bueno-Cavanillas, et al., Mediterranean, DASH, and MIND dietary patterns and cognitive function: The 2-year longitudinal changes in an older spanish cohort., Front Aging Neurosci 13 (2021) 782067.; DOI:10.3389/fnagi.2021.782067
 
-31.A. J. Signes-Pastor, E. Gutiérrez-González, M. Garcı́a-Villarino, F. D. Rodrı́guez-Cabrera, J. J. López-Moreno, E. Varea-Jiménez, R. Pastor-Barriuso, M. Pollán, A. Navas-Acien, B. Pérez-Gómez and M. R. Karagas, Toenails as a biomarker of exposure to arsenic: A review., Environ Res 195 (2021) 110286.; DOI:10.1016/j.envres.2020.110286
+A. J. Signes-Pastor, P. Martinez-Camblor, E. Baker, J. Madan, M. F. Guill and M. R. Karagas, Prenatal exposure to arsenic and lung function in children from the new hampshire birth cohort study., Environ Int 155 (2021) 106673.; DOI:10.1016/j.envint.2021.106673
 
-32.A. J. Signes-Pastor, G. Desai, M. Garcı́a-Villarino, M. R. Karagas and K. Kordas, Exposure to a mixture of metals and growth indicators in 6-11-year-old children from the 2013-16 NHANES., Expo Health 13 (2021) 173–184.; DOI:10.1007/s12403-020-00371-8
+A. J. Signes-Pastor, E. Gutiérrez-González, M. Garcı́a-Villarino, F. D. Rodrı́guez-Cabrera, J. J. López-Moreno, E. Varea-Jiménez, R. Pastor-Barriuso, M. Pollán, A. Navas-Acien, B. Pérez-Gómez and M. R. Karagas, Toenails as a biomarker of exposure to arsenic: A review., Environ Res 195 (2021) 110286.; DOI:10.1016/j.envres.2020.110286
 
-33.P. I. Haris, A. Signes-Pastor, C. Cascio, E. I. Brima, A. Bsher, A. Salem and R. O. Jenkins, Shaban wanis al-rmalli: A life dedicated to application of chemistry for improving the environment and saving human lives, Biomedical Spectroscopy and Imaging 10 (2021) 1–8.; DOI:10.3233/BSI-210209
+A. J. Signes-Pastor, G. Desai, M. Garcı́a-Villarino, M. R. Karagas and K. Kordas, Exposure to a mixture of metals and growth indicators in 6-11-year-old children from the 2013-16 NHANES., Expo Health 13 (2021) 173–184.; DOI:10.1007/s12403-020-00371-8
 
-34.A. J. Signes-Pastor, T. Punshon, K. L. Cottingham, B. P. Jackson, V. Sayarath, D. Gilbert-Diamond, S. Korrick and M. R. Karagas, Arsenic exposure in relation to apple consumption among infants in the new hampshire birth cohort study., Expo Health 12 (2020) 561–567.; DOI:10.1007/s12403-020-00356-7
+P. I. Haris, A. Signes-Pastor, C. Cascio, E. I. Brima, A. Bsher, A. Salem and R. O. Jenkins, Shaban wanis al-rmalli: A life dedicated to application of chemistry for improving the environment and saving human lives, Biomedical Spectroscopy and Imaging 10 (2021) 1–8.; DOI:10.3233/BSI-210209
 
-35.Shi Z, M. Carey, C. Meharg, P. N. Williams, A. J. Signes-Pastor, E. A. Triwardhani, F. I. Pandiangan, K. Campbell, C. Elliott, E. M. Marwa, X. Jiujin, J. G. Farias, F. T. Nicoloso, P. M. C. S. De Silva, Y. Lu, G. Norton, E. Adomako, A. J. Green, et al., Rice grain cadmium concentrations in the global supply-chain, Exposure and Health 12 (2020) 869–876.; DOI:10.1007/s12403-020-00349-6
+A. J. Signes-Pastor, T. Punshon, K. L. Cottingham, B. P. Jackson, V. Sayarath, D. Gilbert-Diamond, S. Korrick and M. R. Karagas, Arsenic exposure in relation to apple consumption among infants in the new hampshire birth cohort study., Expo Health 12 (2020) 561–567.; DOI:10.1007/s12403-020-00356-7
 
-36.J. P. Buckley, E. S. Barrett, P. I. Beamer, D. H. Bennett, M. S. Bloom, T. R. Fennell, R. C. Fry, W. E. Funk, G. B. Hamra, S. S. Hecht, K. Kannan, R. Iyer, M. R. Karagas, K. Lyall, P. J. Parsons, E. D. Pellizzari, A. J. Signes-Pastor, A. P. Starling, et al., Opportunities for evaluating chemical exposures and child health in the united states: The environmental influences on child health outcomes (ECHO) program., J Expo Sci Environ Epidemiol 30 (2020) 397–419.; DOI:10.1038/s41370-020-0211-9
+Shi Z, M. Carey, C. Meharg, P. N. Williams, A. J. Signes-Pastor, E. A. Triwardhani, F. I. Pandiangan, K. Campbell, C. Elliott, E. M. Marwa, X. Jiujin, J. G. Farias, F. T. Nicoloso, P. M. C. S. De Silva, Y. Lu, G. Norton, E. Adomako, A. J. Green, et al., Rice grain cadmium concentrations in the global supply-chain, Exposure and Health 12 (2020) 869–876.; DOI:10.1007/s12403-020-00349-6
 
-37.M. Carey, C. Meharg, P. Williams, E. Marwa, X. Jiujin, J. G. Farias, P. M. C. S. De Silva, A. J. Signes-Pastor, Y. Lu, F. T. Nicoloso, L. Savage, K. Campbell, C. Elliott, E. Adomako, A. J. Green, E. Moreno-Jiménez, A. A. Carbonell-Barrachina, E. A. Triwardhani, et al., Global sourcing of low-inorganic arsenic rice grain, Exposure and Health 12 (2020) 711–719.; DOI:10.1007/s12403-019-00330-y
+J. P. Buckley, E. S. Barrett, P. I. Beamer, D. H. Bennett, M. S. Bloom, T. R. Fennell, R. C. Fry, W. E. Funk, G. B. Hamra, S. S. Hecht, K. Kannan, R. Iyer, M. R. Karagas, K. Lyall, P. J. Parsons, E. D. Pellizzari, A. J. Signes-Pastor, A. P. Starling, et al., Opportunities for evaluating chemical exposures and child health in the united states: The environmental influences on child health outcomes (ECHO) program., J Expo Sci Environ Epidemiol 30 (2020) 397–419.; DOI:10.1038/s41370-020-0211-9
 
-38.A. J. Signes-Pastor, J. Vioque, E. M. Navarrete-Muñoz, M. Carey, M. Garcı́a-Villarino, A. Fernández-Somoano, A. Tardón, L. Santa-Marina, A. Irizar, M. Casas, M. Guxens, S. Llop, R. Soler-Blasco, M. Garcı́a-de-la-Hera, M. R. Karagas and A. A. Meharg, Inorganic arsenic exposure and neuropsychological development of children of 4–5 years of age living in spain, Environmental Research 174 (2019) 135–142.; DOI:10.1016/j.envres.2019.04.028
+M. Carey, C. Meharg, P. Williams, E. Marwa, X. Jiujin, J. G. Farias, P. M. C. S. De Silva, A. J. Signes-Pastor, Y. Lu, F. T. Nicoloso, L. Savage, K. Campbell, C. Elliott, E. Adomako, A. J. Green, E. Moreno-Jiménez, A. A. Carbonell-Barrachina, E. A. Triwardhani, et al., Global sourcing of low-inorganic arsenic rice grain, Exposure and Health 12 (2020) 711–719.; DOI:10.1007/s12403-019-00330-y
 
-39.A. J. Signes-Pastor, B. T. Doherty, M. E. Romano, K. M. Gleason, J. Gui, E. Baker and M. R. Karagas, Prenatal exposure to metal mixture and sex-specific birth outcomes in the new hampshire birth cohort study., Environ Epidemiol 3 (2019).; DOI:10.1097/EE9.0000000000000068
+A. J. Signes-Pastor, J. Vioque, E. M. Navarrete-Muñoz, M. Carey, M. Garcı́a-Villarino, A. Fernández-Somoano, A. Tardón, L. Santa-Marina, A. Irizar, M. Casas, M. Guxens, S. Llop, R. Soler-Blasco, M. Garcı́a-de-la-Hera, M. R. Karagas and A. A. Meharg, Inorganic arsenic exposure and neuropsychological development of children of 4–5 years of age living in spain, Environmental Research 174 (2019) 135–142.; DOI:10.1016/j.envres.2019.04.028
 
-40.A. J. Signes-Pastor, M. S. Zens, J. Seigne, A. Schned and M. R. Karagas, Rice consumption and incidence of bladder cancer in the united states population., Epidemiology 30 (2019) e4–e5.; DOI:10.1097/EDE.0000000000000955
+A. J. Signes-Pastor, B. T. Doherty, M. E. Romano, K. M. Gleason, J. Gui, E. Baker and M. R. Karagas, Prenatal exposure to metal mixture and sex-specific birth outcomes in the new hampshire birth cohort study., Environ Epidemiol 3 (2019).; DOI:10.1097/EE9.0000000000000068
 
-41.A. J. Signes-Pastor, M. F. Bouchard, E. Baker, B. P. Jackson and M. R. Karagas, Toenail manganese as biomarker of drinking water exposure: A reliability study from a US pregnancy cohort., J Expo Sci Environ Epidemiol 29 (2019) 648–654.; DOI:10.1038/s41370-018-0108-z
+A. J. Signes-Pastor, M. S. Zens, J. Seigne, A. Schned and M. R. Karagas, Rice consumption and incidence of bladder cancer in the united states population., Epidemiology 30 (2019) e4–e5.; DOI:10.1097/EDE.0000000000000955
 
-42.K. E. Nachman, T. Punshon, L. Rardin, A. J. Signes-Pastor, C. J. Murray, B. P. Jackson, M. L. Guerinot, T. A. Burke, C. Y. Chen, H. Ahsan, M. Argos, K. L. Cottingham, F. Cubadda, G. L. Ginsberg, B. C. Goodale, M. Kurzius-Spencer, A. A. Meharg, M. D. Miller, et al., Opportunities and challenges for dietary arsenic intervention., Environ Health Perspect 126 (2018) 84503.; DOI:10.1289/EHP3997
+A. J. Signes-Pastor, M. F. Bouchard, E. Baker, B. P. Jackson and M. R. Karagas, Toenail manganese as biomarker of drinking water exposure: A reliability study from a US pregnancy cohort., J Expo Sci Environ Epidemiol 29 (2019) 648–654.; DOI:10.1038/s41370-018-0108-z
 
-43.M. Carey, E. Donaldson, A. J. Signes-Pastor and A. A. Meharg, Dilution of rice with other gluten free grains to lower inorganic arsenic in foods for young children in response to european union regulations provides impetus to setting stricter standards., PLoS One 13 (2018) e0194700.; DOI:10.1371/journal.pone.0194700
+K. E. Nachman, T. Punshon, L. Rardin, A. J. Signes-Pastor, C. J. Murray, B. P. Jackson, M. L. Guerinot, T. A. Burke, C. Y. Chen, H. Ahsan, M. Argos, K. L. Cottingham, F. Cubadda, G. L. Ginsberg, B. C. Goodale, M. Kurzius-Spencer, A. A. Meharg, M. D. Miller, et al., Opportunities and challenges for dietary arsenic intervention., Environ Health Perspect 126 (2018) 84503.; DOI:10.1289/EHP3997
 
-44.A. J. Signes-Pastor, K. L. Cottingham, M. Carey, V. Sayarath, T. Palys, A. A. Meharg, C. L. Folt and M. R. Karagas, Infants’dietary arsenic exposure during transition to solid food, Scientific Reports 8 (2018) 7114.; DOI:10.1038/s41598-018-25372-1
+M. Carey, E. Donaldson, A. J. Signes-Pastor and A. A. Meharg, Dilution of rice with other gluten free grains to lower inorganic arsenic in foods for young children in response to european union regulations provides impetus to setting stricter standards., PLoS One 13 (2018) e0194700.; DOI:10.1371/journal.pone.0194700
 
-45.A. J. Signes-Pastor, J. Vioque, E. M. Navarrete-Muñoz, M. Carey, M. Garcı́a de la Hera, J. Sunyer, M. Casas, I. Riaño-Galán, A. Tardón, S. Llop, R. Amorós, P. Amiano, J. R. Bilbao, M. R. Karagas and A. A. Meharg, Concentrations of urinary arsenic species in relation to rice and seafood consumption among children living in spain., Environ Res 159 (2017) 69–75.; DOI:10.1016/j.envres.2017.07.046
+A. J. Signes-Pastor, K. L. Cottingham, M. Carey, V. Sayarath, T. Palys, A. A. Meharg, C. L. Folt and M. R. Karagas, Infants’dietary arsenic exposure during transition to solid food, Scientific Reports 8 (2018) 7114.; DOI:10.1038/s41598-018-25372-1
 
-46.A. J. Signes-Pastor, J. V. Woodside, P. McMullan, K. Mullan, M. Carey, M. R. Karagas and A. A. Meharg, Levels of infants’ urinary arsenic metabolites related to formula feeding and weaning with rice products exceeding the EU inorganic arsenic standard., PLoS One 12 (2017) e0176923.; DOI:10.1371/journal.pone.0176923
+A. J. Signes-Pastor, J. Vioque, E. M. Navarrete-Muñoz, M. Carey, M. Garcı́a de la Hera, J. Sunyer, M. Casas, I. Riaño-Galán, A. Tardón, S. Llop, R. Amorós, P. Amiano, J. R. Bilbao, M. R. Karagas and A. A. Meharg, Concentrations of urinary arsenic species in relation to rice and seafood consumption among children living in spain., Environ Res 159 (2017) 69–75.; DOI:10.1016/j.envres.2017.07.046
 
-47.A. J. Signes-Pastor, M. Carey and A. A. Meharg, Inorganic arsenic removal in rice bran by percolating cooking water., Food Chem 234 (2017) 76–80.; DOI:10.1016/j.foodchem.2017.04.140
+A. J. Signes-Pastor, J. V. Woodside, P. McMullan, K. Mullan, M. Carey, M. R. Karagas and A. A. Meharg, Levels of infants’ urinary arsenic metabolites related to formula feeding and weaning with rice products exceeding the EU inorganic arsenic standard., PLoS One 12 (2017) e0176923.; DOI:10.1371/journal.pone.0176923
 
-48.M. A. Davis, A. J. Signes-Pastor, M. Argos, F. Slaughter, C. Pendergrast, T. Punshon, A. Gossai, H. Ahsan and M. R. Karagas, Assessment of human dietary exposure to arsenic through rice., Sci Total Environ 586 (2017) 1237–1244.; DOI:10.1016/j.scitotenv.2017.02.119
+A. J. Signes-Pastor, M. Carey and A. A. Meharg, Inorganic arsenic removal in rice bran by percolating cooking water., Food Chem 234 (2017) 76–80.; DOI:10.1016/j.foodchem.2017.04.140
 
-49.J. G. Farias, K. Bernardi, R. Schwalbert, B. K. Del Frari, A. A. Meharg, M. Carey, A. C. R. Marques, A. J. Signes-Pastor, D. Sausen, M. R. W. Schorr, M. S. Tavares and F. T. Nicoloso, Effect of phosphorus on arsenic uptake and metabolism in rice cultivars differing in phosphorus use efficiency and response, Anais da Academia Brasileira de Ciências 89 (2017) 163–174.
+M. A. Davis, A. J. Signes-Pastor, M. Argos, F. Slaughter, C. Pendergrast, T. Punshon, A. Gossai, H. Ahsan and M. R. Karagas, Assessment of human dietary exposure to arsenic through rice., Sci Total Environ 586 (2017) 1237–1244.; DOI:10.1016/j.scitotenv.2017.02.119
 
-50.A. J. Signes-Pastor, M. Carey, J. Vioque, E. M. Navarrete-Muñoz, C. Rodrı́guez-Dehli, A. Tardón, M. Begoña-Zubero, L. Santa-Marina, M. Vrijheid, M. Casas, S. Llop, S. Gonzalez-Palacios and A. A. Meharg, Urinary arsenic speciation in children and pregnant women from spain., Expo Health 9 (2017) 105–111.; DOI:10.1007/s12403-016-0225-7
+J. G. Farias, K. Bernardi, R. Schwalbert, B. K. Del Frari, A. A. Meharg, M. Carey, A. C. R. Marques, A. J. Signes-Pastor, D. Sausen, M. R. W. Schorr, M. S. Tavares and F. T. Nicoloso, Effect of phosphorus on arsenic uptake and metabolism in rice cultivars differing in phosphorus use efficiency and response, Anais da Academia Brasileira de Ciências 89 (2017) 163–174.
 
-51.A. J. Signes-Pastor, M. Carey, A. A. Carbonell-Barrachina, E. Moreno-Jiménez, A. J. Green and A. A. Meharg, Geographical variation in inorganic arsenic in paddy field samples and commercial rice from the iberian peninsula, Food Chemistry 202 (2016) 356–363.; DOI:10.1016/j.foodchem.2016.01.117
+A. J. Signes-Pastor, M. Carey, J. Vioque, E. M. Navarrete-Muñoz, C. Rodrı́guez-Dehli, A. Tardón, M. Begoña-Zubero, L. Santa-Marina, M. Vrijheid, M. Casas, S. Llop, S. Gonzalez-Palacios and A. A. Meharg, Urinary arsenic speciation in children and pregnant women from spain., Expo Health 9 (2017) 105–111.; DOI:10.1007/s12403-016-0225-7
 
-52.A. J. Signes-Pastor, M. Carey and A. A. Meharg, Inorganic arsenic in rice-based products for infants and young children, Food Chemistry 191 (2016) 128–134.; DOI:10.1016/j.foodchem.2014.11.078
+A. J. Signes-Pastor, M. Carey, A. A. Carbonell-Barrachina, E. Moreno-Jiménez, A. J. Green and A. A. Meharg, Geographical variation in inorganic arsenic in paddy field samples and commercial rice from the iberian peninsula, Food Chemistry 202 (2016) 356–363.; DOI:10.1016/j.foodchem.2016.01.117
 
-53.A. J. Signes-Pastor, S. Munera-Picazo, F. Burló, M. Cano-Lamadrid and A. A. Carbonell-Barrachina, Phytoremediation assessment of gomphrena globosa and zinnia elegans grown in arsenic-contaminated hydroponic conditions as a safe and feasible alternative to be applied in arsenic-contaminated soils of the bengal delta., Environ Monit Assess 187 (2015) 387.; DOI:10.1007/s10661-015-4618-z
+A. J. Signes-Pastor, M. Carey and A. A. Meharg, Inorganic arsenic in rice-based products for infants and young children, Food Chemistry 191 (2016) 128–134.; DOI:10.1016/j.foodchem.2014.11.078
 
-54.A. J. Signes-Pastor, S. W. Al-Rmalli, R. O. Jenkins, A. A. Carbonell-Barrachina and P. I. Haris, Arsenic bioaccessibility in cooked rice as affected by arsenic in cooking water., J Food Sci 77 (2012) T201–6.; DOI:10.1111/j.1750-3841.2012.02948.x
+A. J. Signes-Pastor, S. Munera-Picazo, F. Burló, M. Cano-Lamadrid and A. A. Carbonell-Barrachina, Phytoremediation assessment of gomphrena globosa and zinnia elegans grown in arsenic-contaminated hydroponic conditions as a safe and feasible alternative to be applied in arsenic-contaminated soils of the bengal delta., Environ Monit Assess 187 (2015) 387.; DOI:10.1007/s10661-015-4618-z
 
-55.F. Burló, A. Ramı́rez-Gandolfo, A. J. Signes-Pastor, P. I. Haris and A. A. Carbonell-Barrachina, Arsenic contents in spanish infant rice, pureed infant foods, and rice., J Food Sci 77 (2012) T15–9.; DOI:10.1111/j.1750-3841.2011.02502.x
+A. J. Signes-Pastor, S. W. Al-Rmalli, R. O. Jenkins, A. A. Carbonell-Barrachina and P. I. Haris, Arsenic bioaccessibility in cooked rice as affected by arsenic in cooking water., J Food Sci 77 (2012) T201–6.; DOI:10.1111/j.1750-3841.2012.02948.x
 
-56.A. J. Signes-Pastor, C. Deacon, R. O. Jenkins, P. I. Haris, A. A. Carbonell-Barrachina and A. A. Meharg, Arsenic speciation in japanese rice drinks and condiments, J Environ Monit 11 (2009) 1930–4.; DOI:10.1039/b911615j
+F. Burló, A. Ramı́rez-Gandolfo, A. J. Signes-Pastor, P. I. Haris and A. A. Carbonell-Barrachina, Arsenic contents in spanish infant rice, pureed infant foods, and rice., J Food Sci 77 (2012) T15–9.; DOI:10.1111/j.1750-3841.2011.02502.x
 
-57.A. A. Carbonell-Barrachina, A. J. Signes-Pastor, L. Vázquez-Araújo, F. Burló and B. Sengupta, Presence of arsenic in agricultural products from arsenic-endemic areas and strategies to reduce arsenic intake in rural villages, Mol Nutr Food Res 53 (2009) 531–41.; DOI:10.1002/mnfr.200900038
+A. J. Signes-Pastor, C. Deacon, R. O. Jenkins, P. I. Haris, A. A. Carbonell-Barrachina and A. A. Meharg, Arsenic speciation in japanese rice drinks and condiments, J Environ Monit 11 (2009) 1930–4.; DOI:10.1039/b911615j
 
-58.A. J. Signes-Pastor, K. Mitra, S. Sarkhel, M. Hobbes, F. Burló, W. T. de Groot and A. A. Carbonell-Barrachina, Arsenic speciation in food and estimation of the dietary intake of inorganic arsenic in a rural village of west bengal, india., J Agric Food Chem 56 (2008) 9469–9474.; DOI:10.1021/jf801600j
+A. A. Carbonell-Barrachina, A. J. Signes-Pastor, L. Vázquez-Araújo, F. Burló and B. Sengupta, Presence of arsenic in agricultural products from arsenic-endemic areas and strategies to reduce arsenic intake in rural villages, Mol Nutr Food Res 53 (2009) 531–41.; DOI:10.1002/mnfr.200900038
 
-59.A. J. Signes-Pastor, K. Mitra, F. Burló and A. A. Carbonell-Barrachina, Effect of two different rice dehusking procedures on total arsenic concentration in rice, European Food Research and Technology 226 (2008) 561–567.; DOI:10.1007/s00217-007-0571-6
+A. J. Signes-Pastor, K. Mitra, S. Sarkhel, M. Hobbes, F. Burló, W. T. de Groot and A. A. Carbonell-Barrachina, Arsenic speciation in food and estimation of the dietary intake of inorganic arsenic in a rural village of west bengal, india., J Agric Food Chem 56 (2008) 9469–9474.; DOI:10.1021/jf801600j
 
-60.A. J. Signes-Pastor, K. Mitra, F. Burló and A. A. Carbonell-Barrachina, Contribution of water and cooked rice to an estimation of the dietary intake of inorganic arsenic in a rural village of west bengal, india., Food Addit Contam Part A Chem Anal Control Expo Risk Assess 25 (2008) 41–50.; DOI:10.1080/02652030701385233
+A. J. Signes-Pastor, K. Mitra, F. Burló and A. A. Carbonell-Barrachina, Effect of two different rice dehusking procedures on total arsenic concentration in rice, European Food Research and Technology 226 (2008) 561–567.; DOI:10.1007/s00217-007-0571-6
 
-61.A. J. Signes-Pastor, K. Mitra, F. Burlo and A. A. Carbonell-Barrachina, Effect of cooking method and rice type on arsenic concentration in cooked rice and the estimation of arsenic dietary intake in a rural village in west bengal, india., Food Addit Contam Part A Chem Anal Control Expo Risk Assess 25 (2008) 1345–1352.; DOI:10.1080/02652030802189732
+A. J. Signes-Pastor, K. Mitra, F. Burló and A. A. Carbonell-Barrachina, Contribution of water and cooked rice to an estimation of the dietary intake of inorganic arsenic in a rural village of west bengal, india., Food Addit Contam Part A Chem Anal Control Expo Risk Assess 25 (2008) 41–50.; DOI:10.1080/02652030701385233
 
-62.A. J. Signes-Pastor, F. Burló, K. Mitra and A. A. Carbonell-Barrachina, Arsenic biogeochemistry as affected by phosphorus fertilizer addition, redox potential and pH in a west bengal (india) soil, Geoderma 137 (2007) 504–510.; DOI:10.1016/j.geoderma.2006.10.012
+A. J. Signes-Pastor, K. Mitra, F. Burlo and A. A. Carbonell-Barrachina, Effect of cooking method and rice type on arsenic concentration in cooked rice and the estimation of arsenic dietary intake in a rural village in west bengal, india., Food Addit Contam Part A Chem Anal Control Expo Risk Assess 25 (2008) 1345–1352.; DOI:10.1080/02652030802189732
 
-63.A. J. Signes-Pastor, F. Burló, T. Casinos and A. A. Carbonell-Barrachina, Note. Speciation of arsenic in licorice confectionery products and estimation of health risks, Food Science and Technology International 13 (2007) 41–47.; DOI:10.1177/1082013207075655
+A. J. Signes-Pastor, F. Burló, K. Mitra and A. A. Carbonell-Barrachina, Arsenic biogeochemistry as affected by phosphorus fertilizer addition, redox potential and pH in a west bengal (india) soil, Geoderma 137 (2007) 504–510.; DOI:10.1016/j.geoderma.2006.10.012
 
-64.A. J. Signes-Pastor, F. Burlo, F. Martinez-Sanchez and A. A. Carbonell-Barrachina, Effects of preharvest bagging on quality of black table grapes, World Journal of Microbiology & Biotechnology 3 (2007).
+A. J. Signes-Pastor, F. Burló, T. Casinos and A. A. Carbonell-Barrachina, Note. Speciation of arsenic in licorice confectionery products and estimation of health risks, Food Science and Technology International 13 (2007) 41–47.; DOI:10.1177/1082013207075655
+
+A. J. Signes-Pastor, F. Burlo, F. Martinez-Sanchez and A. A. Carbonell-Barrachina, Effects of preharvest bagging on quality of black table grapes, World Journal of Microbiology & Biotechnology 3 (2007).
 
 
 ## 3. Employment
 
-1.Miguel hernández university. Department of public health. Facultad de medicina. Avda. Ramón y cajal, s/n, sant joan d’alacant, 03550, ES (academia)., *Senior researcher* (from 01 April 2021 to current).
+**Miguel Hernández University**, Department of Public Health, Facultad de Medicina. Avda. Ramón y Cajal, s/n, Sant Joan d’Alacant, 03550, ES (Academia).
+*Permanent Professor (PPL)* | November 20, 2024 – Present
 
+**Miguel Hernández University**, Department of Public Health, Facultad de Medicina. Avda. Ramón y Cajal, s/n, Sant Joan d’Alacant, 03550, ES (Academia).
+*Senior Researcher* | April 1, 2021 – November 20, 2024
 
+**Dartmouth College**, Geisel School of Medicine, Epidemiology Department. 1 Medical Center Drive, Williamson Translational Research Building, Lebanon, NH, 03756, US (Academia).
+*Research Associate* | October 10, 2016 – March 31, 2021
 
-2.Dartmouth college, geisel school of medicine, epidemiology department. 1 medical center drive, williamson translational research building, lebanon, NH, 03756, US (academia), *Research associate* (from 10 October 2016 to 31 March 2021).
+**Queen’s University Belfast**, Institute of Global Food Security. 19 Chlorine Gardens, Belfast, BT9 5DL, NI, UK (Academia).
+*Research Associate* | April 1, 2014 – March 31, 2016
 
+**Doscadesa**, 15 Calle Ricote, Molina de Segura, 30500, Murcia, ES (Private Sector).
+*Research and Development Director* | September 23, 2013 – March 28, 2014
 
+**Imasde Agroalimentaria**, 3 Calle Nápoles, Pozuelo de Alarcón, 28224, Madrid, ES (Private Sector).
+*Project Manager* | April 1, 2011 – September 15, 2013
 
-3.Queen’s university belfast, institute of global food security. 19 chlorine gardens, belfast BT9 5DL, NI, UK (academia), *Research associate* (from 01 April 2014 to 31 March 2016).
+**De Montfort University**, Gateway House, Leicester, LE1 9BH, UK (Academia).
+*Early-Stage Researcher* | April 1, 2009 – November 30, 2010
 
+**Miguel Hernández University**, Crta. de Beniel, km. 3.2, 03312 Orihuela, Alicante, ES (Academia).
+*Pre-doctoral Researcher* | January 20, 2005 – March 31, 2009
 
-
-4.Doscadesa, 15 calle ricote, molina de segura, 30500, murcia, ES (private sector), *Research and Development Director* (from 23 September 2013 to 28 March 2014).
-
-
-
-5.Imasde agroalimentaria, 3 calle nápoles, pozuelo de alarcón, 28224, madrid, ES (private sector), *Project manager* (from 01 April 2011 to 15 September 2013).
-
-
-
-6.DeMontfort university. Gateway house, leicester LE1 9BH, UK (academia), *Early-stage researcher* (from 01 April 2009 to 30 November 2010).
-
-
-
-7.Miguel hernández university. Crta. De beniel, km. 3,2, 03312 orihuela, alicante, ES (academia), *Pre-doctoral* (from 20 January 2005 to 31 March 2009).
-
-
-
-8.Miguel hernández university. Crta. De beniel, km. 3,2, 03312 orihuela, alicante, ES (academia), *Early-stage researcher* (from 20 July 2004 to 19 October 2004).
+**Miguel Hernández University**, Crta. de Beniel, km. 3.2, 03312 Orihuela, Alicante, ES (Academia).
+*Early-Stage Researcher* | July 20, 2004 – October 19, 2004
 
 ## 4. Research & teaching projects (Academia)
 
+**M. Garcia de la Hera, V. Compañ-Devesa, S. Gonzalez Palacios, A. J. Signes-Pastor, L. Torres-Collado, and J. Vioque Lopez.** *Effect of Diet and Metal Mixtures on the Cardiometabolic Risk and Cognitive Decline in an Adult Population at High Cardiometabolic Risk.* Proyectos del Programa Prometeo de la GVA. **65,193 €** (01/09/2025 – 31/08/2029).
+**Role:** Researcher at Miguel Hernández University, ES.
 
-1.M. Garcia de la Hera, V. Compañ-Devesa, S. Gonzalez Palacios, A. J. Signes Pastor, L. Torres-Collado and J. Vioque Lopez, Effect of DIet and MEtal mixtures on the CARDiometabolic risk and cognitive decline in an adult population at high cardiometabolic risk, Proyectos competitivos de subvención pública. Proyectos del Programa Prometeo de la GVA 65193 € (from 01/09/2025 to 31/08/2029) Role: Researcher at Miguel Hernández University, ES.
+**L. Torres-Collado, L. M. Compañ Gabucio, M. Garcia de la Hera, A. J. Signes Pastor, and J. Vioque Lopez.** *Exposure to Essential and Non-Essential (Toxic) Metals Through Diet, and Its Combined Effect on Health in a Cohort of Adults 55 Years and Older at High Cardiovascular Risk: METALDIET Study.* Proyecto Nacional. **2,220 €** (01/01/2025 – 31/12/2025).
+**Role:** Researcher at Miguel Hernández University, ES.
 
+**S. Gonzalez-Palacios, A. J. Signes-Pastor, et al.** *Factores asociados a la transmisión de la dieta mediterránea de madres a hijos/as durante la infancia...* Instituto de Salud Carlos III. **165,000 €** (2023–2024).
+**Role:** Researcher at Miguel Hernández University, ES.
 
-2.L. Torres-Collado, L. M. Compañ Gabucio, M. Garcia de la Hera, A. J. Signes Pastor and J. Vioque Lopez, Exposure to essential and non-essential (toxic) metals through diet, and its combined effect on the health in a cohort tı́tulo: Of adults 55 years and older at high cardiovascular risk: METALDIET study., Proyecto Nacional 2220 € (from 01/01/2025 to 31/12/2025) Role: Researcher at Miguel Hernández University, ES.
+**A. A. Carbonell-Barrachina, A. J. Signes-Pastor, et al.** *Smooth Transition from Academia to a Career in Agro-biotechnology: Designing Career Plan.* Erasmus+ European Union. (2023).
+**Role:** Researcher at Miguel Hernández University, ES.
 
+**L. Torres-Collado, A. J. Signes-Pastor, et al.** *ESK-EPI ROOM (PIEU_b/2023_14) - PIEU-UMH 2023 (Teaching Innovation Project).* **300 €** (2023).
 
-3.S. Gonzalez-Palacios, A. J. Signes-Pastor and et. al., Factores asociados a la transmisión de la dieta mediterránea de madres a hijos/as durante la infancia y su asociación con niveles de contaminantes ambientales en orina y marcadores de riesgo cardiometabólico., *Instituto de Salud Carlos III - Convocatoria 2023 de la Acción Estratégica en Salud 2021-2023* **165000 € (28.107.465A.758)** (2023-2024) Role: Researcher at Miguel Hernández University, ES.
+**A. J. Signes-Pastor, et al.** *I+D en Institutos de Educación Secundaria (IDIES), X Edición. Curso 2023/24.* **Role:** Researcher at Miguel Hernández University, ES.
 
+**A. J. Signes-Pastor, et al.** *Increasing the Visibility and Knowledge Base on Air Quality with Big Data and Its Impact on Population Health.* Erasmus+ European Union. (2023).
+**Role:** Researcher at Miguel Hernández University, ES.
 
-4.A. A. Carbonell-Barrachina, A. J. Signes-Pastor and et. al., Smooth transition from academia to a carrier in agro-biotechnology: Designing carrier plan., *Erasmus + European Union* (2023) Role: Researcher at Miguel Hernández University, ES.
+**A. J. Signes-Pastor.** *Prenatal Exposure to Arsenic and Lung Function in Children: An ECHO Program Study.* National Institutes of Health. **129,195 USD** (2023).
+**Role:** Principal Investigator at Miguel Hernández University, ES.
 
+**A. J. Signes-Pastor.** *Prenatal Arsenic Exposure, Arsenic Methylation Efficiency, and Childhood Neurodevelopment: An ECHO Program Study.* National Institutes of Health. **85,965 USD** (2023).
+**Role:** Principal Investigator at Miguel Hernández University, ES.
 
-5.L. Torres-Collado, A. J. Signes-Pastor and et al, ESK-EPI ROOM (PIEU_b/2023_14) - PIEU-UMH 2023 (teaching innovation project) 300€ (2023).
+**A. J. Signes-Pastor, et al.** *Estudio de biorremediación de suelos contaminados con la ceniza volcánica empleando compost proveniente de residuos agroindustriales en la provincia de Chimborazo.* **IDIPI-277** (01/03/2022 – 31/12/2026).
+**Role:** External Investigator at Miguel Hernández University, ES.
 
+**M. García de la Hera, A. J. Signes-Pastor, et al.** *II Jornadas de Transferencia PREDIMED-PLUS Alicante: Avances en la promoción de la dieta mediterránea.* Conselleria de Innovación. **8,900 €** (2022).
+**Role:** Researcher at Miguel Hernández University, ES.
 
-6.A. J. Signes-Pastor and et. al., I+d en institutos de educación secundaria i+d en institutos de educación secundaria x edición. Curso 2023/24, *IDIES* (2023-24) Role: Researcher at Miguel Hernández University, ES.
+**F. Hernández García, A. J. Signes-Pastor, et al.** *Estrategies hidroSOStenibles en frutales de hueso: Caso a estudio el albaricoque.* NextGeneration EU / Generalitat Valenciana. **227,999 €** (22/04/2022 – 21/04/2025).
+**Role:** Principal Investigator and Work Package Leader at Miguel Hernández University, ES.
 
+**E. Sendra, A. J. Signes-Pastor, et al.** *Exposición al arsénico y otros metales en subpoblaciones vulnerables y estrategias para reducir su ingesta a través de los alimentos.* Programa INVESTIGO. **132,435.68 €** (01/11/2022 – 30/10/2024).
+**Role:** Principal Investigator at Miguel Hernández University, ES.
 
-7.A. J. Signes-Pastor and et. al., Increasing the visibility and knowledge base on air quality with big data and its impact on the population health, *Erasmus + European Union* **2023-1-SK01-KA220-HED-000158470** (2023) Role: Researcher at Miguel Hernández University, ES.
+**E. Sendra, A. J. Signes-Pastor, et al.** *Percepción de la sostenibilidad y calidad de la acuicultura (QualyFishPro).* NextGeneration EU / Conselleria de Innovación. **439,440.22 € (Combined)** (24/06/2022 – 25/09/2025).
+**Role:** Researcher at Miguel Hernández University, ES.
 
+**A. J. Signes-Pastor.** *Exposición al arsénico en presencia de otros metales, metabolismo y efectos sobre la salud en la infancia y adolescencia (ARSENCIA).* Plan GENT. **410,000 €** (01/04/2021 – 31/03/2025).
+**Role:** Principal Investigator at Miguel Hernández University, ES.
 
-8.A. J. Signes-Pastor, Prenatal exposure to arsenic and lung function in children: An ECHO program study, *National Institute of Health* **129195 USD (EC669 - EM23-0030)** (2023) Role: Principal Investigator at Miguel Hernández University, ES.
+**M. R. Karagas, A. J. Signes-Pastor, et al.** *External Use Case: Data Harmonization Across SRP Pregnancy and Birth Cohorts.* NIEHS Superfund Research Program. **150,000 USD** (01/07/2019 – 31/03/2020).
+**Role:** Researcher at Dartmouth College, US.
 
+**C. Chen, A. J. Signes-Pastor, et al.** *Sources of Protected Effects of Early Life Exposure to Arsenic and Mercury.* NIEHS Superfund Research Program. (10/10/2016 – 30/03/2021).
+**Role:** Researcher at Dartmouth College, US.
 
-9.A. J. Signes-Pastor, Prenatal arsenic exposure, arsenic methylation efficiency, and childhood neurodevelopment: An ECHO program study, *National Institute of Health* **85965 USD (EC668 - EM23-0031)** (2023) Role: Principal Investigator at Miguel Hernández University, ES.
+**M. R. Karagas, A. J. Signes-Pastor, et al.** *Center for Children’s Environmental Health and Disease Prevention.* US EPA and NIEHS. (10/10/2016 – 30/03/2021).
+**Role:** Researcher at Dartmouth College, US.
 
+**A. J. Signes-Pastor.** *Inorganic Arsenic Exposure and Respiratory Outcomes During Childhood.* Infancia y Medio Ambiente (INMA). (01/01/2019 – 01/10/2022).
+**Role:** Principal Investigator at Dartmouth College, US and Miguel Hernández University, ES.
 
-10.A. J. Signes-Pastor and et. al., Estudio de biorremediación de suelos contaminados con la ceniza volcánica empleando compost proveniente de residuos agroindustriales en la provincia de chimborazo **IDIPI-277** (from 01/03/2022 to 31/12/2026) Role: Investigator externo de Miguel Hernández University, ES.
+**A. J. Signes-Pastor.** *Urinary Arsenic Speciation in Children from Spain.* Infancia y Medio Ambiente (INMA). (14/06/2015 – 01/12/2019).
+**Role:** Principal Investigator at Dartmouth College, US and Queen’s University Belfast, UK.
 
+**A. J. Signes-Pastor.** *Risk Assessment of Inorganic Arsenic in EU Rice-Based Infant Products and Strategies to Reduce Exposure.* Marie-Curie Action (IEF). **221,606.40 €** (01/04/2014 – 31/03/2016).
+**Role:** Principal Investigator at Queen’s University Belfast, UK.
 
-11.M. Garcı́a De La Hera, A. J. Signes-Pastor and et. al., II jornadas de transferencia PREDIMED-PLUS alicante: Avances en la promoción de la dieta mediterránea (https://epinutdivulga.com/), *Conselleria de Innovación, Universidades, Ciencia y Sociedad Digital* **8900.00 € (CIAORG/2021/59)** (2022) Role: Researcher at Miguel Hernández University, ES.
+**A. J. Signes-Pastor.** *Regulation of Fatty Acid Metabolism in Meat Poultry for the Achievement of Healthier Fat.* INNCORPORA-Torres Quevedo. **120,321 €** (23/09/2011 – 01/09/2013).
+**Role:** Principal Investigator at Imasde Agroalimentaria S.L.
 
+**D. Polya, I. Parvez, A. J. Signes-Pastor, et al.** *Geogenic Chemicals in Groundwater and Soils: A Research Training Network (AquaTRAIN).* European Commission FP6. (01/04/2009 – 30/11/2010).
+**Role:** Researcher at De Montfort University, UK.
 
-12.F. Hernández Garcı́a, A. J. Signes-Pastor and et. al., Estrategies hidroSOStenibles en frutales de hueso: Caso a estudio el albaricoque; AGROALNEXT/2022/040, *Generalitat Valenciana - Conselleria de Innovación, Universidades, Ciencia y Sociedad Digital-Funded by European Commission - Next Generation EU* **227999.00 € (AGROALNEXT/ 2022/040)** (from 22/04/2022 to 21/04/2025) Role: Principal Investigator and Work Package Leader at Miguel Hernández University, ES.
+**A. J. Signes-Pastor.** *Human Exposure to Arsenic and Methods for Reducing It Through the Food Chain in West Bengal, India.* CAM Ayudas a la Investigación. **48,000 €** (01/09/2006 – 01/04/2009).
+**Role:** Principal Investigator at Miguel Hernández University, ES.
 
-
-13.E. Sendra, A. J. Signes-Pastor and et. al., Exposición al arsénico y otros metales en subpoblaciones vulnerables a sus efectos tóxicos (infantes y grupos con necesidades dietéticas especiales) y estrategias para reducir su ingesta a través de los alimentos., *Subvenciones para la contratación de personas Jóvenes demandantes de empleo en la realización de iniciativas de investigación e innovación en la Comunitat Valenciana Programa INVESTIGO 2022* **132435.68 € (INVEST/2022/433)** (from 01/11/2022 to 30/10/2024) Role: Principal Investigator at Miguel Hernández University, ES.
-
-
-14.E. Sendra, A. J. Signes-Pastor and et. al., Percepción de la sostenibilidad y calidad de la acuicultura. Calidad y seguridad de pescados alimentados con proteı́nas alternativas (QualyFishPro), *Conselleria de Innovación, Universidades, Ciencia y Sociedad Digital-Funded by European Commission - Next Generation* **234173.07 € (GVA-THINKINAZUL/2021/019) + 205267.15 € (GVA-THINKINAZUL/2021/002)** (from 24/06/2022 to 25/09/2025) Role: Researcher at Miguel Hernández University, ES.
-
-
-15.A. J. Signes-Pastor, Exposición al arsénico en presencia de otros metales, metabolismo y efectos sobre la salud en la infancia y adolescencia (ARSENCIA), *Conselleria de Innovación, Universidades, Ciencia y Sociedad Digital - CIDEGENT 2020 PLAN GENT* **410000 € (CIDEGENT/2020/050)** (from 01/04/2021 to 31/03/2025) Role: Principal Investigator at Miguel Hernández University, ES.
-
-
-16.M. R. Karagas, A. J. Signes-Pastor and et. al., External use case: Data harmonization across SRP pregnancy and birth cohorts, *Superfund Reseach Program, National Institute of Environmental Health Science* **150000 USD (P01ES022832 & P42ES007373)** (from 01/07/2019 to 31/03/2020) Role: Reseacher at Darmouth College, US.
-
-
-17.C. Chen, A. J. Signes-Pastor and et. al., Sources of protected effects of early life exposure to arsenic and mercury. National institute of environmental health sciences, *Superfund Reseach Program, National Institute of Environmental Health Science* **P42ES007373** (from 10/10/2016 to 30/03/2021) Role: Reseacher at Darmouth College, US.
-
-
-18.M. R. Karagas, A. J. Signes-Pastor and et. al., Center children’s environmental health and disease prevention., *US Environmental Protection Agency (US EPA) and National Institute of Environmental Health Sciences (NIEHS)* **RD 83544201 and P01ES022832** (from 10/10/2016 to 30/03/2021) Role: Reseacher at Darmouth College, US.
-
-
-19.A. J. Signes-Pastor, Inorganic arsenic exposure and respiratory outcomes during childhood., *INfancia y Medio Ambiente (INMA)* **191110-1** (from 01/01/2019 to 01/10/2022) Role: Principal Investigator at Dartmouth College, US and Universidad Miguel Hernández, ES.
-
-
-20.A. J. Signes-Pastor, Urinary arsenic speciation in children from spain., *INfancia y Medio Ambiente (INMA)* **150114-1** (from 14/06/2015 to 01/12/2019) Role: Principal Investigator at Dartmouth College, US and Queen’s University of Belfast, UK.
-
-
-21.A. J. Signes-Pastor, Risk assessment of inorganic arsenic in EU rice-based infant products and strategies to reduce exposure, *FP7-PEOPLE-2013-IEF - Marie-Curie Action: "Intra-European fellowships for career development"* **221606.40 € (PIEF-GA-2013-622096)** (from 01/04/2014 to 31/03/2016) Role: Principal Investigator at Queen’s University Belfast, UK.
-
-
-22.A. J. Signes-Pastor, Regulation of fatty acid metabolism in meat poultry for the achievement of healthier fat., *INNCORPORA-Torres Quevedo* **120321.00 € (PTQ-11-0.4383)** (from 23/09/2011 to 01/09/2013) Role: Principal Investigator at Imasde Agroalimentaria S.L.
-
-
-23.D. Polya, I. Parvez, A. J. Signes-Pastor and et. al., Geogenic chemicals in groundwater and soils: A research training network (AquaTRAIN), *European Commission Sixth Framework Programme (2002-2006), Marie Curie Actions – Human Resources and Mobility Activity Area, Research Training Networks* **MRTN-CT-2006-0355420** (from 01/04/2009 to 30/11/2010) Role: Reseacher at DeMontfort University, UK.
-
-
-24.A. J. Signes-Pastor, Human exposure to arsenic and methods for reducing it through the food chain in west bengal, india, *CAM – Programa de Ayudas a la Investigación* **48000€ (CAM2005)** (from 01/09/2006 to 01/04/2009) Role: Principal Investigator at Miguel Hernández University, ES.
-
-
-25.A. A. Carbonell-Barrachina, A. J. Signes-Pastor and et. al., Development of a low-cost technology for in-situ treatment of groundwater for potable and irrigation purposes (TIPOT), *Asia Pro-Eco/ EuropeAid* **ASI/B7-301/2598/24-2004/79013** (from 01/07/2004 to 01/01/2007) Role: Researcher at Miguel Hernández University, ES.
+**A. A. Carbonell-Barrachina, A. J. Signes-Pastor, et al.** *Development of a Low-Cost Technology for In-Situ Treatment of Groundwater for Potable and Irrigation Purposes (TIPOT).* Asia Pro-Eco / EuropeAid. (01/07/2004 – 01/01/2007).
+**Role:** Researcher at Miguel Hernández University, ES.
 
 ## 5. Research projects (Industry)
 
-1.A. J. Signes-Pastor, Removal of chemical additives in meat products seasoning (Doscadesa), *Centro para el Desarrollo Tecnológico Industrial (CDTI)* **260000€ aprox. (IDI-2014-0143)** (from 01/01/2013 to 01/01/2014) Role: Research and Development Director at Doscadesa.
 
+**A. J. Signes-Pastor.** *Removal of chemical additives in meat product seasoning (Doscadesa).* Centro para el Desarrollo Tecnológico Industrial (CDTI). **260,000 € approx. (IDI-2014-0143)** (01/01/2013 – 01/01/2014).
+**Role:** Research and Development Director at Doscadesa.
 
+**A. J. Signes-Pastor.** *Automatic control of feed stock in silos on farms by telecommunication (CEGECO).* Centro para el Desarrollo Tecnológico Industrial (CDTI). **500,000 € (IDI-20120225)** (21/10/2011 – 22/10/2013).
+**Role:** Project Manager at Imasde Agroalimentaria S.L.
 
-2.A. J. Signes-Pastor, Automatic control of fed stock in silos in farms by telecommunication (CEGECO), *Centro para el Desarrollo Tecnológico Industrial (CDTI)* **500000€ (IDI-20120225)** (from 21/10/2011 to 22/10/2013) Role: Project Manager at Imasde Agroalimentaria S.L.
+**A. J. Signes-Pastor.** *Study of the prevalence of Salmonella and Campylobacter in poultry meat (Avigal, Mevet, Milsa, COREN, and CZV).* Centro para el Desarrollo Tecnológico Industrial (CDTI). **4,000,000 € approx. (Multi-IDIs)** (01/01/2011 – 31/12/2013).
+**Role:** Project Manager at Imasde Agroalimentaria S.L.
 
+**A. J. Signes-Pastor.** *Iberian pig cooked products (Consorcio de Jabugo).* Centro para el Desarrollo Tecnológico Industrial (CDTI). **1,000,000 € approx. (IDI-20090264)** (07/07/2008 – 16/07/2012).
+**Role:** Project Manager at Imasde Agroalimentaria S.L.
 
+**A. J. Signes-Pastor.** *Study of different livestock production systems, breeds, and curing processes on the quality of products from Iberian pigs.* Centro para el Desarrollo Tecnológico Industrial (CDTI). **800,000 € approx. (Multi-IDIs)** (01/01/2010 – 20/11/2012).
+**Role:** Project Manager at Imasde Agroalimentaria S.L.
 
-3.A. J. Signes-Pastor, Study of the prevalence of salmonella and campylobacter in poultry meat (Avigal, Mevet, Milsa, COREN, and CZV), *Centro para el Desarrollo Tecnológico Industrial (CDTI)* **4000000€ aprox. (IDI-20110832; IDI-20110833; IDI-20110834; IDI-20110835; IDI-20110836)** (from 01/01/2011 to 31/12/2013) Role: Project Manager at Imasde Agroalimentaria S.L.
+**A. J. Signes-Pastor.** *Development of new products and transformation of foie gras from ducks raised in Castilla y León, Spain (Canard).* Junta de Castilla y León, Línea S31. **154,000 € approx. (SO/090030/S31)** (31/12/2009 – 28/05/2012).
+**Role:** Project Manager at Imasde Agroalimentaria S.L.
 
+**A. J. Signes-Pastor.** *Epidemiological study of the incidence of Salmonella in poultry meat using PCR in three provinces (Lleida, Tarragona, and Huesca).* **830,000 € approx. (Multi-IDIs)** (01/01/2010 – 31/12/2012).
+**Role:** Project Manager at Imasde Agroalimentaria S.L.
 
+**A. J. Signes-Pastor.** *Development of new products based on roasted chicken (La Carloteña).* **400,000 € approx. (IDI-2012-25478-a)** (01/01/2011 – 31/12/2011).
+**Role:** Project Manager at Imasde Agroalimentaria S.L.
 
-4.A. J. Signes-Pastor, Iberian pig cooked products (Consorcio de Jabugo), *Centro para el Desarrollo Tecnológico Industrial (CDTI)* **1000000€ aprox (IDI-20090264)** (from 07/07/2008 to 16/07/2012) Role: Project Manager at Imasde Agroalimentaria S.L.
+**A. J. Signes-Pastor.** *Evaluating the effect of using frozen meat and salt levels on curing speed, salt concentration, and sensory quality of Iberian ham.* Centro para el Desarrollo Tecnológico Industrial (CDTI). **400,000 € approx. (IDI-20090265)** (07/07/2008 – 05/10/2011).
+**Role:** Project Manager at Imasde Agroalimentaria S.L.
 
+**A. J. Signes-Pastor.** *Effect of using plant extracts and probiotics on broiler productivity (Pondex).* **280,000 € approx. (IDI-2012-25513-a)** (01/01/2011 – 31/12/2011).
+**Role:** Project Manager at Imasde Agroalimentaria S.L.
 
+**A. J. Signes-Pastor.** *Nutritional strategies for increasing feed palatability for piglets (Nutrivall).* **340,000 € approx. (IDI-2012-25512-a)** (01/01/2011 – 31/12/2011).
+**Role:** Project Manager at Imasde Agroalimentaria S.L.
 
-5.A. J. Signes-Pastor, Study of different livestock production system, breeds and curing processes on the quality of products from iberian pigs (Jamones y Embutidos Mallo, Ibercom, Señorio de Montanera), *Centro para el Desarrollo Tecnológico Industrial (CDTI)* **800000€ aprox. (IDI-20100404; IDI-20100405; IDI-20100406)** (from 01/01/2010 to 20/11/2012) Role: Project Manager at Imasde Agroalimentaria S.L.
+**A. J. Signes-Pastor.** *Effect of the addition of rice cylinder and corn by-products in the diet of pigs on performance and carcass quality (Agroturia).* **400,000 € approx. (IDI-2012-25516a)** (01/01/2011 – 31/12/2011).
+**Role:** Project Manager at Imasde Agroalimentaria S.L.
 
+**A. J. Signes-Pastor.** *Effect of partial substitution of Zn, Mn, and Cu by inorganic chelates and their interaction with farm size (Agrocesa).* **600,000 € approx. (IDI-2012-25517-a)** (01/01/2011 – 31/12/2012).
+**Role:** Project Manager at Imasde Agroalimentaria S.L.
 
+**A. J. Signes-Pastor.** *Effect of paternal genetic line and crosses on carcass quality and food safety of pork (Patel).* **375,000 € approx. (IDI-2011-13149-a)** (01/01/2010 – 31/12/2010).
+**Role:** Project Manager at Imasde Agroalimentaria S.L.
 
-6.A. J. Signes-Pastor, Development of new products and transformation of foie gras from ducks raised in Castilla y León, Spain (Canard), *Proyecto financiado por la Lı́nea S31 de Ayudas para Proyecto de I+D Agrarios o Alimentarios de Castilla y León.* **154000€ aprox.** **(SO/090030/S31)** (from 31/12/2009 to 28/05/2012) Role: Project Manager at Imasde Agroalimentaria S.L.
+**A. J. Signes-Pastor.** *Effect of procedure and salting time on the curing process and quality of white cured ham (Sanchez Alcaraz).* **210,000 € approx. (IDI-2012-31363-a)** (01/01/2010 – 31/12/2010).
+**Role:** Project Manager at Imasde Agroalimentaria S.L.
 
+**A. J. Signes-Pastor.** *Effect of stuffing matrix and post-packaging heat treatment on sensory quality and shelf life of roasted poultry (La Carloteña).* **100,000 € approx. (IDI-2011-12889)** (01/01/2010 – 31/12/2010).
+**Role:** Project Manager at Imasde Agroalimentaria S.L.
 
-
-7.A. J. Signes-Pastor, Epidemiological study of the incidence of salmonella in poultry meat using PCR in three provinces (Lleida, Tarragona and Huesca) in northeastern Spain in 2010 and 2011 (Mevet) **830000€ aprox. (IDI-2011-12878a; IDI-2012-25511a)** (from 01/01/2010 to 31/12/2012) Role: Project Manager at Imasde Agroalimentaria S.L.
-
-
-
-8.A. J. Signes-Pastor, Development of new products based on rousted chicken (La Carloteña) **400000€ arpox. (IDI-2012-25478-a)** (from 01/01/2011 to 31/12/2011) Role: Project Manager at Imasde Agroalimentaria S.L.
-
-
-
-9.A. J. Signes-Pastor, Evaluate the effect of the use of frozen meat and the level of salt on the curing speed, salt concentration and sensory quality on iberian ham (Consorcio de Jabugo), *Centro para el Desarrollo Tecnológico Industrial (CDTI)* **400000€ aprox. (IDI-20090265)** (from 07/07/2008 to 05/10/2011) Role: Project Manager at Imasde Agroalimentaria S.L.
-
-
-
-10.A. J. Signes-Pastor, Effect of using plant extracts and probiotics on broiler productivity (Pondex) **280000€ aprox. (IDI-2012-25513-a)** (from 01/01/2011 to 31/12/2011) Role: Project Manager at Imasde Agroalimentaria S.L.
-
-
-
-11.A. J. Signes-Pastor, Nutritional strategies for increasing the feed palatability for piglets. Individual project (Nutrivall) **340000€ aprox. (IDI-2012-25512-a)** (from 01/01/2011 to 31/12/2011) Role: Project Manager at Imasde Agroalimentaria S.L.
-
-
-
-12.A. J. Signes-Pastor, Effect of the addition of rice cylinder and corn by-products in the diet of pigs on performance and carcass quality (Agroturia) **400000€ aprox. (IDI-2012-25516a)** (from 01/01/2011 to 31/12/2011) Role: Project Manager at Imasde Agroalimentaria S.L.
-
-
-
-13.A. J. Signes-Pastor, Effect of partial substitution of Zn, Mn and Cu by inorganic chelates, and their interaction with farm size (Agrocesa) **600000 aprox. (IDI-2012-25517-a)** (from 01/01/2011 to 31/12/2012) Role: Project Manager at Imasde Agroalimentaria S.L.
-
-
-
-14.A. J. Signes-Pastor, Effect of paternal genetic line and crosses on the carcass quality and food safety of pork (Patel) **375000€ aprox. (IDI-2011-13149-a)** (from 01/01/2010 to 31/12/2010) Role: Project Manager at Imasde Agroalimentaria S.L.
-
-
-
-15.A. J. Signes-Pastor, Effect of the procedure and the salting time on the curing process and quality of white cured ham (Sanchez Alcaraz) **210000€ aprox. (IDI-2012-31363-a)** (from 01/01/2010 to 31/12/2010) Role: Project Manager at Imasde Agroalimentaria S.L.
-
-
-
-16.A. J. Signes-Pastor, Effect of the matrix used in the stuffing of roasted poultry and post-packaging heat treatment on the sensory quality and shelf life of the final product (La Carloteña) **100000€ aprox. (IDI-2011-12889)** (from 01/01/2010 to 31/12/2010) Role: Project Manager at Imasde Agroalimentaria S.L.
 
 ## 6. Teaching
 
