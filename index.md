@@ -35,9 +35,6 @@ He is interested in evaluating the transfer of trace metals from soil/water to t
 
 ## 1. Education
 
-## 1. Education
-
-
 1.Epidemiology; Università Cattolica del Sacro Cuore, IT. (2017).
 
 2.Epidemiology and Population Health (EPIC); Columbia University, US. (2017).
